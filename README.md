@@ -2,6 +2,40 @@
 
 Test log parsing on heterogeneous industry data.
 
+## Development MacOS
+1. Install `miniconda`
+```bash
+$ mkdir -p ~/miniconda3
+$ curl https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh -o ~/miniconda3/miniconda.sh
+$ bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+$ rm -rf ~miniconda3/miniconda.sh
+```
+2. Initialize `miniconda` for bash / zsh shells
+```bash
+$ ~/miniconda3/bin/conda init bash
+$ ~/miniconda3/bin/conda init zsh
+```
+3. Create `logchimera` virtual environment and activate it
+```bash
+$ conda create --name logchimera python=3.9 -y
+$ conda activate logchimera
+```
+4. Install package
+```bash
+$ git clone https://github.com/spetrescu/logchimera.git
+$ cd logchimera
+$ poetry install
+```
+5. Check installation was successfull
+```bash
+$ python
+Python 3.9.16 (main, Mar  8 2023, 04:29:44) 
+[Clang 14.0.6 ] :: Anaconda, Inc. on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from logchimera.logchimera import function_test
+>>>
+```
+
 ## Installation
 
 ```bash
@@ -10,7 +44,10 @@ $ pip install logchimera
 
 ## Usage
 
-- TODO
+```python
+import logchimera
+...
+```
 
 ## Contributing
 

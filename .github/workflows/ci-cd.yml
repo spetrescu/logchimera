@@ -24,7 +24,7 @@ jobs:
         run: poetry install
 
       - name: Install pytest
-        run: poetry install pytest
+        run: poetry add pytest
 
       - name: Test with pytest
         run: pytest tests/ --cov=logchimera --cov-report=xml

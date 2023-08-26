@@ -37,11 +37,11 @@ jobs:
         with:
           files: ./coverage.xml   # coverage report
 
-      - name: Install Sphinx and required packages
-        run: poetry add sphinx sphinx-rtd-theme myst-nb --group dev
+      # - name: Install Sphinx and required packages
+      #   run: poetry add sphinx sphinx-rtd-theme myst-nb --group dev
 
-      - name: Build documentation
-        run: poetry run make html --directory docs/
+      # - name: Build documentation
+      #   run: poetry run make html --directory docs/
 
   cd:
     # Only run this job if the "ci" job passes

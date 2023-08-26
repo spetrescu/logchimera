@@ -37,6 +37,9 @@ jobs:
         with:
           files: ./coverage.xml   # coverage report
 
+      - name: Install Sphinx and required packages
+        run: poetry add sphinx sphinx-rtd-theme --dev
+
       - name: Build documentation
         run: poetry run make html --directory docs/
 

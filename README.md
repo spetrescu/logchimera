@@ -1,7 +1,6 @@
 # logchimera
 
-Generate and evaluate log parsing on heterogeneous industry-like data from publicly available logs.
-
+ `logchimera` was born out of a research innitiative ([Log Parsing Evaluation in the Era of Modern Software Systems](https://arxiv.org/abs/2308.09003)), as a consequence of a general lack of access to heterogeneous log data typically found in industry. With `logchimera` you can generate and evaluate log parsing on heterogeneous industry-like data from publicly available logs. The name of the tool is inspired by the mythological creature _chimera_, which symbolizes a fusion or combination of different elements; and in this case, it reflects heterogeneity by enabling bringing together diverse formats from various logs to resemble industry-like contexts.
 
 <div align="left">
   <p>
@@ -13,7 +12,7 @@ Generate and evaluate log parsing on heterogeneous industry-like data from publi
   </p>
   <p>
     <a href="">
-      <img alt="First release" src="https://img.shields.io/badge/release-v1.0-brightgreen.svg" />
+      <img alt="First release" src="https://img.shields.io/badge/release-v0.1.0-brightgreen.svg" />
     </a>
   </p>
 </div>

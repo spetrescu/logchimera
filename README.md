@@ -102,6 +102,9 @@ h_level = estimate_heterogeneity("Apache.csv")
 ...
 ```
 
+## Artifact: Reproduce Experiments from Original Paper
+To reproduce the experiments conducted during the research initiative that led to the creation of `logchimera`, please refer to the [ARTIFACT.md file](https://github.com/spetrescu/logchimera/blob/main/ARTIFACT.md).
+
 ## Contributing
 
 Interested in contributing? Check out the contributing guidelines. Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.

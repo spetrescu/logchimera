@@ -1,6 +1,22 @@
 # logchimera
 
-Test log parsing on heterogeneous industry data.
+Generate and evaluate log parsing on heterogeneous industry-like data from publicly available logs.
+
+
+<div align="left">
+  <p>
+<!--   <img width="230" alt="Group_movie" src="https://user-images.githubusercontent.com/60047427/122675863-a7e86380-d1db-11eb-84f4-d4a3bc488209.jpg"> -->
+  <img width="230" alt="Group_movie" src="https://github.com/spetrescu/logchimera/assets/60047427/10cc52d6-dc33-4159-a99c-cfc279cf3f11.jpg">
+  <img width="230" alt="Group_movie" src="https://github.com/spetrescu/logchimera/assets/60047427/d2012c9d-753c-4b9d-b867-1c65896c26df.jpg">
+  <img width="230" alt="Group_movie" src="https://github.com/spetrescu/logchimera/assets/60047427/cdc0d927-fbf5-48be-8a6c-e033fb4af958.jpg">
+
+  </p>
+  <p>
+    <a href="">
+      <img alt="First release" src="https://img.shields.io/badge/release-v1.0-brightgreen.svg" />
+    </a>
+  </p>
+</div>
 
 ## Development MacOS
 1. Install `miniconda`

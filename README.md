@@ -113,7 +113,7 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 The initial package structure of `logchimera` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
 
 ## Citation
-If you would like to cite this package, we display a bibtex entry below.
+To cite this package, you can use the following BibTeX entry:
 ```python
 @INPROCEEDINGS{petrescu2023issre,
 author={Petrescu, Stefan and den Hengst, Floris and Uta, Alexandru and Rellermeyer, Jan S.},

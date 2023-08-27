@@ -83,7 +83,7 @@ $ python
 Python 3.9.17 (main, Jul  5 2023, 20:41:20) 
 [GCC 11.2.0] :: Anaconda, Inc. on linux
 Type "help", "copyright", "credits" or "license" for more information.
->>> from logchimera.logchimera import function_test
+>>> from logchimera.logchimera import estimate_heterogeneity
 >>>
 ```
 
@@ -96,7 +96,9 @@ $ pip install logchimera
 ## Usage
 
 ```python
-import logchimera
+from logchimera.logchimera import estimate_heterogeneity
+h_level = estimate_heterogeneity("Apache.csv") 
+# Returns a 3-decimal floating-point value in the range [0, 1], e.g., 0.959
 ...
 ```
 

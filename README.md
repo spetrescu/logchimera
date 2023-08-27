@@ -108,6 +108,19 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 `logchimera` was created by Stefan Petrescu. It is licensed under the terms of the MIT license.
 
-## Credits
+## Credits for Initial Package Structure
 
-`logchimera` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+The initial package structure of `logchimera` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+
+## Citation
+If you would like to cite this package, we display a bibtex entry below.
+```python
+@INPROCEEDINGS{petrescu2023issre,
+author={Petrescu, Stefan and den Hengst, Floris and Uta, Alexandru and Rellermeyer, Jan S.},
+booktitle={34th IEEE International Symposium on Software Reliability Engineering (ISSRE)},
+title={Log Parsing Evaluation in the Era of Modern Software Systems},
+year={2023}}
+```
+
+
+

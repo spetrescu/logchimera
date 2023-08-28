@@ -54,6 +54,21 @@ def estimate_heterogeneity(file_path):
 
     return h_level
 
+def mixing(file_path, percentage, labels=True):
+    """
+    Increase log heterogeneity through mixing.
+
+    This function takes a file path and a percentage value as input.
+    
+    Parameters:
+        file_path (str): The path to the file to be changed.
+        percentage (float): The amount of logs to be replaced, ranging from 1 to 25.
+
+    Returns:
+        float: The new heterogeneity level after mixing the logs.
+    """
+    pass
+
 def function_test(test_string):
     '''
     '''

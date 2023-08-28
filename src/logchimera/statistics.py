@@ -74,7 +74,7 @@ def compute_percentage_no_unique_chars(no_unique_chars):
     elif no_unique_chars >= 90:
         return 1
     else:
-        return no_unique_words*100/NO_UNIQUE_CHARS_PLATEAU/100
+        return no_unique_chars*100/NO_UNIQUE_CHARS_PLATEAU/100
 
 def compute_percentage_no_unique_log_lengths(no_unique_log_lengths):
     """Compute percentage of unique log lengths in dataset (40% weight)"""
@@ -83,4 +83,4 @@ def compute_percentage_no_unique_log_lengths(no_unique_log_lengths):
     elif no_unique_log_lengths >= 180:
         return 1
     else:
-        return no_unique_words*100/NO_UNIQUE_LOG_LENGTHS_PLATEAU/100
+        return no_unique_log_lengths*100/NO_UNIQUE_LOG_LENGTHS_PLATEAU/100

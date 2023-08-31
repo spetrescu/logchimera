@@ -28,3 +28,21 @@ def get_pool_mixing_data():
     with resources.path("logchimera.data", "pool_mixing_data.csv") as f:
         data_file_path = f
     return data_file_path
+
+def get_publicly_available_labeled_dataset(dataset_name):
+    """Get path to one of the publicly available labeled datasets.
+    Current options:
+      - Apache
+      - BGL
+      - HPC
+      - Mac
+    Either of these datasets contains 2k log lines, with their corresponding templates.
+    
+    Returns
+    -------
+    pathlib.PosixPath
+        Path to file.
+    """
+    with resources.path("logchimera.data", f"{dataset_name}_2k_labeled.csv") as f:
+        data_file_path = f
+    return data_file_path

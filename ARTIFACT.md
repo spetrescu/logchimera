@@ -242,6 +242,18 @@ $ cd ~/log_parsing_evaluation/experiments/log_parsing_experiments/python3
 
 ```
 $ sh setup_python3.sh
+# the following requirements have to be installed in the environment
+# scipy==1.3.1
+# numpy==1.17.4
+# torchvision==0.4.2
+# nltk==3.4.5
+# torch==1.3.1
+# pandas==0.25.3
+# Keras==2.3.1
+# deap==1.3.1
+# tqdm==4.39.0
+# recommonmark==0.6.0
+# scikit_learn==0.22.2.post1
 ```
 
 **Step 5**: *Run experiment (runs method 10 times)*

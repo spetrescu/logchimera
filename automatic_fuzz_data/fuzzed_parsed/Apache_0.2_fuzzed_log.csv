@@ -1,0 +1,2000 @@
+[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] VM Resumed (Lifecycle Event)
+Creating event network-vif-plugged:906.0 B-aae8-4b03-97c9-a7bc9c5e4bb7 for instance faf974ea-cba5-4e1b-93f4-3a3bc606006f
+"startSync hiSyncOption = HiSyncOption{syncAction=5018765878120211503, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 5018765878120211503 who = 5018765878120211503"
+"ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error"
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4 HTTP/1.1::prePCIWake - power up complete - took 5 us
+"initUserPrivacy the userPrivacy switch is open, start push user data!"
+Package_for_KB3118401~31bf3856ad364e35~amd64~~6.1.1.1@2016/9/28:16:01:03.072 PopulateComponentFamiliesKey - End
+"screen status unknown,think screen on"
+"critical input interrupt (unit=1514042100000##7214##549659##8661##16256##30827730 bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type"
+icache prefetch threshold................0
+"mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap"
+checkInsertStatus stepSum or calorieSum is enough
+"SQM: Queued 2600908 file(s) for upload with pattern: C:\Windows\servicing\sqm\*_all.sqm, flags: 2600908x6"
+"[instance: 116332728] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU"
+ARPT: 0010512.580149: wl0: MDNS: IPV4 Addr: 10.142.108.38
+"NonStart: Success, startup processing not required as expected."
+"ChromeExistion main strSendMsg = {""websitekey"":false,""commandkey"":true,""browserkey"":true}"
+Successfully started service 'sparkExecutorActorSystem' on port 55904.
+host connection <NSXPCConnection: 1514042880000##7214##549659##8661##16256##31588757> connection from pid 30298 invalidated
+"ciod: Error loading /-26568864070436835: program image too big, 361544528 > 266076160"
+program interrupt: imprecise exception......0
+"saveStatData() type =broadcast_30_piece0,time = 1513958400000,statClient = 2,who is 1"
+Failed to internally open package. [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]
+force load/store alignment...............0
+ARPT: -3437475890798229344.863081: wl0: MDNS: IPV6 Addr: 2607:f140:6000:8:c6b3:1ff:fecd:467f
+"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)"
+Ending TrustedInstaller initialization.
+critical input interrupt enable...0
+"NETWORK: requery, 1514040956000, 1514040956000, 1514040956000, 1514040956000, 328, items, fQueryRetries, 1514040956000, fLastRetryTimestamp, 521177334.4"
+WARNING: Type1 font data isn't in the correct format required by the Adobe Type 1 Font Format specification.
+"ciod: Error reading message prefix on CioStream socket to Package_for_KB2809215~31bf3856ad364e35~amd64~~6.1.1.1:41060, Connection timed out"
+guaranteed instruction cache block touch.0
+"[Accounts] Failed to update account with identifier a444c98d-3D27-4F21-AA35-C88C1EA820E8, error: Error Domain=ABAddressBookErrorDomain Code=1002 ""(null)"""
+instruction cache parity error corrected
+[instance: -657087263710195616] Deleting instance files /var/lib/nova/instances/-657087263710195616_del
+debug interrupt enable............0
+3542967 tree receiver 3542967 in re-synch state event(s) (dcr 0x0354296785) detected over 244 seconds
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+[BluetoothHIDDeviceController] EventServiceDisconnectedCallback
+"PM response took /var/lb/ova/instans/_base/a489868f0c37da93b76227c91bb03908ac0e742cecin ms (24144, WeChat)"
+<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>:   DND Enabled: YES
+onReceive action: android.intent.action.SCREEN_ON
+[1514044437000:41:18.041] <<<< IQ-CA >>>> piqca_setUsePreQueue: (0x7fce16267800) rejecting report of layer being serviced - IQ has not yet begun to update
+rts tree/torus link training failed: wanted: 0x7fe133460660 got: B C X- Y- Z+ Z-
+hibernate_page_list_setall(preflight 1) start
+instruction address space.........0
+program interrupt: fp cr update.............0
+icache prefetch depth....................0
+[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] VM Started (Lifecycle Event)
+ARPT: -6956067134432991406.615152: AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+1514038440000##7023##548365##8661##13786##27182973:03:06.178 : Started generating hashes
+Started reading broadcast variable 40
+[instance: 1514038500000##7054##548551##8661##16256##27205469] Took 20.22 seconds to build instance.
+network changed: 3549917(en0+:10.105.160.205) v6(en0:2607:f140:6000:8:c6b3:1ff:fecd:467f) DNS! Proxy SMB
+could discard act -5014786445735476734 inact 9782 purgeable 34145 spec 56242 cleaned 0
+ciod: Z coordinate com.apple.WebKit exceeds physical dimension com.apple.WebKit at line 33 of node map file /p/gb2/pakin1/contention-com.apple.WebKit768cpes-torus/xyzt-1x1xcom.apple.WebKit768x1.map
+program interrupt: trap instruction.........0
+network changed: 10.2.1.37(en0!:10.105.162.105) DNS+ Proxy+ SMB
+NIFF: node node-mnt/hadoop/dfs/data/current/subdir14 has detected an available network connection on network 10.128.0.0 via interface ee0
+[Package_for_KB2705219~31bf3856ad364e35~amd64~~6.1.2.0:57:09.235] <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+27393971:31:43.005 : BTLE scanning stopped
+[-1533191386601391937:22:42.202] itemasync_SetProperty signalled err=--1533191386601391937785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c line 2306
+"saveHealthDetailData() saveOneDetailData fail hiHealthData = 0007999,type = 40005"
+"arp_client_transmit(0x80004005) failed, Network is down (50)"
+[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.
+Reading broadcast variable 2812061 took 10 ms
+Captive: CNPluginHandler en0: Inactive
+kern_open_file_for_direct_io took 6 ms
+0926709_unlink_ifa: IPv6 address 0x77c911454f1528eb has no prefix
+mod_jk child workerEnv in error state 6
+TrustedInstaller service starts successfully.
+"ARPT: 2742469.171617: IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,"
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+handle_will_sleep_auth_and_shield_windows: Reordering authw -2345355483730155757(2004) (lock state: 3)
+floating point instr. enabled.....1
+vm_compressor_fastwake_warmup (2576408434603492552 - 591525) - starting
+SQM: Warning: Failed to upload all unsent reports. [HRESULT = 0x80004005 - E_FAIL]
+AppleCamIn::systemWakeCall - messageType = 0xE0000320
+"saveHealthDetailData() deviceID = 2754779,clientID=1,id=1"
+"Opened file 1514038668000, size 1073741824, extents 3, maxio 2000000 ssd 1"
+"CCFile::captureLog Received Capture notice id: 1499295963.492254, reason = RoamFail:sts:1_rsn:1"
+"ARPT: -6832799704680039005.640542: wl0: setup_keepalive: Seq: 204730741, Ack: 2772623181, Win size: 4096"
+getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501
+Sandbox: 30730227(38418) deny(1) mach-lookup com.apple.networkd
+debug wait enable.................0
+"network_reachability_changed : network is not reachable, netbiosd is shutting down"
+sigio_handler: sigio_handler_active != 1
+"Registered signal handlers for [TERM, HUP, INT]"
+Fan speeds ( 10.251.194.147 10.251.194.147 3375 **** 3497 3479 )
+mnt/hadoop/dfs/data/current/subdir57-07-07 10:54:41.296 ksfetch[37925/0x7fff79824000] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 1926 bytes from stdin.
+Session: 2755542_142416105 initialized by client SPP.
+"PM response took 2270593866672608129 ms (54, powerd)"
+[BluetoothHIDDeviceController] EventServiceConnectedCallback
+[01faa200:28:42.167] (Fig) signalled err=-12871
+uploadStaticsToDB failed message=true
+"CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data"
+uploadStaticsToDB() onResult  type = 4 obj=true
+[2017-07-05 03:51:50 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319)/120312:WARNING:dns_config_service_posix.cc(306)] Failed to read DnsConfig.
+insertHiHealthData() checkAppType   1514043660000 appID = 1
+CGXDisplayDidWakeNotification [771797848593539]: posting kCGSDisplayDidWake
+network changed: 3637945019239882309(en0:10.105.160.237) v6(en0!:2607:f140:6000:8:f1dc:a608:863:19ad) DNS Proxy SMB
+"mapred.tip.id is deprecated. Instead, use mapreduce.task.id"
+Temperature (41C) exceeds warning threshold
+Alarm uploadStaticsToDB totalSteps=5250287988089075029:153367Floor:240Distance:5112
+"stepSyncOrNot appSynTimes is 91422236, statsyncTimes is 91422236"
+program interrupt: fp cr field .............0
+"3061267275 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+ClusterFileSystem: ServerFileSystem domain 27288973 is no longer served by node node-219
+guaranteed data cache block touch........1
+Sandbox: -9132218772786220159(9854) deny(1) file-read-data /private/etc/hosts
+<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec 1
+ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: Block device required
+ARPT: 405.4 KB.508896: wl0: setup_keepalive: Remote IP: 17.249.28.35
+risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>
+NIFF: node node-2017-07-08 14:29:50 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319) has detected an available network connection on network 0.0.0.0 via interface alt0
+"doSaveChannels@356592557993755459: Will write to: /Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-07_13,40,35.959475] - AuthFail:sts:5_rsn:0.xml"
+3342443357:24:31.135 : BTLE scanner Powered On
+[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Instance spawned successfully.
+0929339-07-06 09:24:14.733 GoogleSoftwareUpdateAgent[36726/0x7000002a0000] [lvl=2] -[KSMultiUpdateAction performAction] KSPromptAction had no updates to apply.
+ARPT: 10.142.110.44.288172: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+store operation.............................1
+KeychainGetICDPStatus: keychain: -25300
+"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id"
+**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by 300ms  ****
+Unable to start NetBIOS name service:
+**** [IOBluetoothHostControllerUSBTransport][start] -- completed -- result = TRUE -- 0x2800 ****
+Startup processing thread terminated normally
+[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] During sync_power_state the instance has a pending task (spawning). Skip.
+Directory index forbidden by rule: /var/www/html/
+[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] VM Paused (Lifecycle Event)
+ciod: cpu -253282915050290778 at treeaddr 438 sent unrecognized message -253282915050290778xffffffff
+-3673133694834392576:50010 Served block blk_2866275036574950116 to /10.250.11.53
+[0009689:29:04.085] <<<< CRABS >>>> crabsWaitForLoad: [0x7fbc7ac683a0] Wait time out - -100096891 (msRequestTimeout -1)
+"868.3 KB ""POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1"" status: 200 len: 380 time: 0.0901439"
+floating pt ex mode -1727475099218615100 enable......0
+"getAppContext() isAppValid health or wear, packageName = com.huawei.health"
+ getTodayBasicStandardSteps=70c1714b-c11b-4c88-b300-239afe1f5ff8##3786##0
+AppleActuatorDeviceUserClient::stop Entered
+"NFS Mount failed on bglio3215406091, slept 15 seconds, retrying (1)"
+total of 2418430 ddr error(s) detected and corrected over 8724184302 seconds
+"NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)"
+-[SFLListManager(ServiceReplyProtocol) notifyChanges:toListWithIdentifier:] Notified of item changes to list with identifier com.apple.LSSharedFileList.RecentApplications
+"Google Chrome He[ ""com.apple.private.alloy.continuity.encryption""] triggered unnest of range 0x7fff93c00000->0x7fff93e00000 of DYLD shared region in VM map 0x77c9114550458e7b. While not abnormal for debuggers, this increases system memory footprint until the target exits."
+ServerFileSystem: An ServerFileSystem domain panic has occurred on storage442
+-[NETClientConnection evaluateCrazyIvan46] CI46 - Perform CrazyIvan46! 201706092018_0025_m_000001_1180.10018 tc25805 123.151.137.106:80
+mod_jk child workerEnv in error state 7
+Failed to connect (titleField) outlet from (MMSessionPickerChoosenRowView) to (NSTextField): missing setter or instance variable
+objc[35448]: Class TSUCustomFormatData is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.
+insertHiHealthData() end totalTime = 94
+/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-08_05(10018) deny mach-lookup com.apple.networking.captivenetworksupport
+"[instance: 1321799290531408498] Total memory: 64172 MB, used: 512.00 MB"
+total of 12 ddr error(s) detected and corrected
+"ARPT: user/root/randtxt2/_temporary/_task_200811101024_0002_m_000809_0.223664: IOPMPowerSource Information: onWake,  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,"
+Thermal pressure state: -6966935672736779591 Memory pressure state: -6966935672736779591
+Running instance usage audit for host 33450764 from 2017-05-16 05:00:00 to 2017-05-16 06:00:00. 87 instances.
+Unrecognized XSSimpleTypeDefinition: OneOff
+"ciod: Received signal 3225636676, code=0, errno=0, address=0x000001f2"
+"insertHiHealthData() size = 2965591803,app = 1,One Data Type = 2,packageName = com.huawei.health,writeStatType = 0"
+[instance: 2038610753592374847] Took 1.02 seconds to destroy the instance on the hypervisor.
+<IMMacNotificationCenterManager: 0x7fdcc9d16380>:    NC Disabled: NO
+Sandbox: 7297060562345904886(352) deny(1) ipc-posix-shm-read-data CFPBS:186A7:
+(ImportBailout.Error:1331) Asked to exit for Diskarb
+rts: kernel terminated for reason 1004
+hibernate_teardown completed - discarded 93932
+1833093108290599780(38210) deny network-outbound /private/var/run/mDNSResponder
+"no application identifier provided, can't use provisioning profiles [pid=37563]"
+"CCDataTap::profileRemoved, Owner: 1514042082000, Name: AssociationEventHistory"
+-[NETClientConnection effectiveBundleID] using process name apsd as bundle ID (this is expected for daemons without bundle ID
+-9017308542351369260:50010:Got exception while serving blk_-3140031507252212554 to /10.250.7.244:
+"mapred.job.id is deprecated. Instead, use mapreduce.job.id"
+"No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending."
+Checking iCDP status for DSID 2717581 (checkWithServer=0)
+[HID] [MT] AppleActuatorHIDEventDriver::start entered
+"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] vcpu limit not specified, defaulting to unlimited"
+7929144620252342335:07:29.673 : Purged contact hashes
+ciod: generated 00f07a88 core files for program /g/g24/germann2/SPaSM_mini/MEAM/r13
+ServerFileSystem: ServerFileSystem domain root26_local is full
+Component State Change: Component 10.10.34.11:9000/pjhe/logs/2kSOSP.log:65628+7292 is in the unavailable state (HWID=2608)
+"hibernate_teardown: wired_pages Package_for_KB3046269~31bf3856ad364e35~amd64~~6.1.1.0, free_pages 3578340, active_pages 40000, inactive_pages 0, speculative_pages 0, cleaned_pages 0, compressor_pages 112"
+ciod: pollControlDescriptors: Detected the debugger died.
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+"1514038644000 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/faf974ea-cba5-4e1b-93f4-3a3bc606006f HTTP/1.1"" status: 204 len: 203 time: 0.2727120"
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+63.13.186.196-07-06 00:30:37.064 ksfetch[36439/0x7fff79824000] [lvl=2] main() Fetcher is exiting.
+-4684475480143348818 microseconds spent in the rbs signal handler during -4684475480143348818 calls. -4684475480143348818 microseconds was the maximum time for a single instance of a correctable ddr.
+"Partition rdd_42_39 not found, computing it"
+"ARPT: 48659790.788065: wl0: Roamed or switched channel, reason #8, bssid 5c:50:15:36:bc:03, last RSSI -69"
+"root29_local ddr errors(s) detected and corrected on rank 0, symbol 8, bit 7"
+<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>:   DND Enabled: NO
+[instance: 5165786360127153975] Took 0.58 seconds to deallocate network for instance.
+ClusterFileSystem: There is no server for ServerFileSystem domain storage321
+Base or swap file too young to remove: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+hibernate_rebuild_pmap_structs done: last_valid_compact_indx 285862
+"CCFile::captureLog Received Capture notice id: 1499518522.558304, reason = AssocFail:sts:2_rsn:0"
+"ARPT: /home/yates//broadcast.rts.402908: IOPMPowerSource Information: onWake,  SleepType: Normal Sleep,  'ExternalConnected': No, 'TimeRemaining': 5802,"
+AirPort: Link Down on awdl0. Reason 1 (Unspecified).
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+HTTP exception thrown: No instances found for any event
+tcp_connection_tls_session_error_callback_imp 1514038560000##7104##548581##8661##16256##27319473 tcp_connection_tls_session_handle_read_error.790 error 60
+[HID] [ATC] [Error] AppleDeviceManagementHIDEventService::start Could not make a string from out connection notification key
+Lustre mount FAILED : bglio617 : block_id : location
+"checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is -8130925109202184099 oldDay is 20171223"
+"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+"SecOSStatusWith error:[ ""com.apple.private.alloy.continuity.activity""] Error Domain=NSOSStatusErrorDomain Code= ""com.apple.private.alloy.continuity.activity"" ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+"hibernate_machine_init: state 10.250.6.223, image pages 446175, sum was d4e6c0b10.250.6.223, imageSize 0x10.250.6.223aea6000, image1Size 0x10.250.6.22315a4000, conflictCount 5848, nextFree 5887"
+did discard act 2817168 inact 17640 purgeable 20264 spec 28635 cleaned 0
+ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map: Permission denied
+ciod: failed to read message prefix on control stream (CioStream socket to 10.251.107.196:51706
+jk2_init() Found child 32438 in scoreboard slot 8
+Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904]
+"schedule invalidation <DYTransport -4110733372292809607, error: lost transport connection (31)>"
+program interrupt: unimplemented operation..0
+"polled file major 8229193803249955061, minor 0, blocksize 4096, pollers 5"
+"checkFirstSyncByType no such data in db ,type is 2455752 deviceCode is 0"
+############################## _getSysMsgList
+hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096
+"saveRealTimeHealthDatasStat() size = Package_for_KB3074543~31bf3856ad364e35~amd64~~6.1.1.0,totalTime = 48"
+Starting executor ID 30905625 on host mesos-slave-07
+[instance: 6563909003697001371] Took 19.47 seconds to spawn the instance on the hypervisor.
+jk2_init() Found child 32443 in scoreboard slot 8
+[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- 0x7000
+<<<< MediaValidator >>>> mv_1514045240000: Unrecognized codec 1.(null). Failed codec specific check.
+Saw change in network reachability (isReachable=0)
+"Configuration Notice: ASL Module ""com.apple.corecdp.osx.asl"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database."
+[com.apple.calendar.store.log.caldav.coredav] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].]
+Error returned from iconservicesagent: (null)
+"8384329882986724706@2016/9/27:20:40:53.744 CSI Transaction @0x47e9e0 initialized for deployment engine {d16d444c-56d8-11d5-882d-0080c847b195} with flags 00000002 and client id [10]""TI6.0_0:0/"""
+ChromeExistion main isUndetectWithCommand = 1
+jk2_init() Found child 32446 in scoreboard slot 6
+AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).
+ciod: Error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes
+Got an XPC error: Connection invalid
+19.163834]-AirPortBrcm4360_Logs-025.txt:03:05.179 : BTLE scanner Powered Off
+Targeting domains:node-D2534380and nodes:node-84
+"<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of 4967370797322420259 bytes @ 5481561 took 0.501237 sec. to complete, 16 reads >= 0.5 sec."
+"upLoadOneMinuteDataToEngine time=4657719,0,46,0,20002"
+[com.apple.calendar.store.log.caldav.queue] [Adding [<CalDAVAccountRefreshQueueableOperation: 3871687177; Sequence: 0>] to failed operations.]
+Auditing locally available compute resources for node cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us
+full wake promotion (reason /latest/meta-data/ HTTP/1.1) 374 ms
+ARPT: -1278725622357466169.687186: AQM agg results 0x8001 len hi/lo: 0x0 0x26 BAbitmap(0-3) 0 0 0 0
+"ciod: In packet from node -5450224419450631495.0 (R62-M1-Nf-C:J03-U11), message code 2 is not 3 or 4294967295 (softheader=003b005b 00030000 00000001 00000000)"
+6374836031306809839 L6374836031306809839 EDRAM error(s) (dcr 0x0157) detected and corrected
+"Configuration Notice: ASL Module ""com.apple.authkit.osx.asl"" sharing output destination ""/var/log/Accounts"" with ASL Module ""com.apple.Accounts"". Output parameters from ASL Module ""com.apple.Accounts"" override any specified in ASL Module ""com.apple.authkit.osx.asl""."
+"ARPT: 1514038538000.474196: IOPMPowerSource Information: onSleep,  SleepType: Standby,  'ExternalConnected': No, 'TimeRemaining': 578,"
+jk2_init() Found child 32454 in scoreboard slot 7
+RTC: PowerByCalendarDate setting ignored
+New ido chip inserted into the database: -6543889749770222531 ip=10.2.1.37 v=13 t=4
+SQM: Cleaning up report files older than 10 days.
+no sleep images for WillPowerOffWithImages
+ARPT: 317.5 KB.213099: ARPT: Wake Reason: Wake on TCP Timeout
+50799912 torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 0x7f9951214ca0>.
+mDNS_RegisterInterface: Frequent transitions for interface en0 (FE80:0000:0000:0000:C6B3:01FF:FECD:467F)
+Failed to stop a scan - central is not powered on: 4
+2708206493147801743@2016/9/28:16:00:46.213 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed875eb5d @0x7fef9d98728 @0x7fef9d98856 @0xffeee474 @0xffeed7de @0xffeedb2f)
+"Setting BTCoex Config: enable_003b005b:1, profile_2g:0, enable_5G:1, profile_5G:0"
+hibernate_flush_memory: buffer_cache_gc freed up 3349 wired pages
+[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object
+minus normalized number..................0
+extension com.apple.ncplugin.WorldClock -> (null)
+"Scavenge: Completed, disposition: 0X1"
+[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)
+"CCFile::captureLog Received Capture notice id: 1499133420.914478, reason = DeauthInd:sts:0_rsn:7"
+Could not get event name for stream/token: com.apple.xpc.activity/2790279: 132: Request for stale data
+"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] disk limit not specified, defaulting to unlimited"
+tryToRecordAsBasicStepData bWrite true
+"image 1514042280000##7214##549659##8661##16256##31005759 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage"
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+enabling pid=rdd_42_1 for plug-in com.apple.ncplugin.weather(1.0) 131FE7ED-87F7-471D-8797-C11107688DF7 /System/Library/CoreServices/Weather.app/Contents/PlugIns/com.apple.ncplugin.weather.appex
+MACHINE CHECK DCR read timeout (mc=8871064397020855320 iar 0x00000000 lr 0xc00045a4)
+[3084588477220583373:11:47.043] itemasync_CopyProperty signalled err=-3084588477220583373785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c line 2092
+ARPT: 29437037.988856: AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+"[instance: 10.251.26.131] Total disk: 15 GB, used: 0.00 GB"
+ciod: Missing or invalid fields on line 8861349372992394289 of node map file /home/auselton/bgl/mapfiles/bgl.886134937299239428928mps.f64.map
+auxiliary processor.........................0
+ASSERTION FAILED: dvcAddrRef != ((void *)ntuser.dat) -[DriverServices getDeviceAddress:] line: 2789
+mDNS_DeregisterInterface: Frequent transitions for interface awdl0 (FE80:0000:0000:0000:D8A5:90FF:FEF5:7FFF)
+assertion failed: 7336636250384047238 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90
+WARNING: hibernate_page_list_setall skipped 19622 xpmapped pages
+ciod: Message code 2185760336 is not 51 or 4294967295
+Reboot mark refs incremented to: 1
+jk2_init() Found child 32528 in scoreboard slot 10
+InsertEvent success begin:-75893538967225087 end:25233979
+"361544528 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 361544528, progress = NULL, phase = 0, pdwDisposition = @0x116fa70"
+"device_generate_desktop_screenshot: authw 1869228153483717375(2000), shield 0x7fa82435f400(2001)"
+"Page bounds {{-4619809198345103330, -4619809198345103330}, {4-4619809198345103330-4619809198345103330, 4-4619809198345103330-4619809198345103330}}"
+"booter start at mnt/hadoop/dfs/data/current/subdir23 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms"
+hibernate_page_list_setall found pageCount 488653
+"CoreAnimation: warning, deleted thread with uncommitted CATransaction; set CA_DEBUG_TRANSACTIONS=1 in environment to log backtraces."
+"ARPT: 901.0 B.102665: wl0: MDNS: 0 SRV Recs, 0 TXT Recs"
+critical input interrupt (unit=10.250.15.101 bit=0x06): warning for torus y+ wire
+"bitmap_size Package_for_KB3045685~31bf3856ad364e35~amd64~~6.1.1.0, previewSize 0x4028, writing 485676 pages @ 0x97144"
+[user/root/rand7/_temporary/_task_200811101024_0014_m_001348_0:56:23.837] <<<< CRABS >>>> crabsFlumeHostUnavailable: [0x7f961cf08cf0] Byte flume reports host unavailable.
+ciod: duplicate canonical-rank 1514045160000##0##549659##8661##16256##33868758 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map
+9173199815015538212-07-05 10:52:16.779 ksfetch[35863/0x7fff79824000] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x100501610> { URL: https://tools.google.com/service/update2?cup2hreq=a7873a51b1cb55518e420d20dff47d463781ed3f7aa83c3153129eefb148070b&cup2key=7:2501762722 }
+tcp_connection_handle_connect_conditions_bad Package_for_KB3067904~31bf3856ad364e35~amd64~~6.1.1.2 failed: 3 - No network route
+full wake request (reason 2640278) 30914 ms
+1508705816376906895:46:19.229 : Finished generating hashes
+Service exited with abnormal code: 1
+[IOBluetoothHostController::setConfigState] calling registerService
+size of scratchpad portion of L3.........6223504502438507199 (6223504502438507199M)
+MemoryStore started with capacity 17.7 GB
+"critical input interrupt (unit=00106298 bit=0x17): warning for tree C1 wire, suppressing further interrupts of same type"
+data address space................0
+jk2_init() Found child 32553 in scoreboard slot 9
+hibernate_page_list_setall time: 603 ms
+"ARPT: 208.51.151.210.579480: wl0: setup_keepalive: Local port: 59927, Remote port: 443"
+ARPT: 2642100.961436: AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+"ARPT: 10.251.27.63.995027: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10"
+startListenerChange subscribeList = [1]
+machine check: i-fetch......................0
+Sandbox: -967145856473901804(38449) deny(1) network-outbound /private/var/run/mDNSResponder
+5572208681898881669:23:43.193 : Scanning mode Contacts Only
+NonStart: Checking to ensure startup processing was not required.
+hciControllerOnline; HID devices? 0
+"CCFile::captureLogRun Skipping current file Dir file [32254765-07-08_02,32,46.787931]-AirPortBrcm4360_Logs-004.txt, Current File [32254765-07-08_02,32,46.787931]-AirPortBrcm4360_Logs-004.txt"
+5178539130945718870:50010 Starting thread to transfer block blk_4292382298896622412 to 10.250.15.240:50010
+Received block blk_1514038677000 src: /10.251.29.239:35617 dest: /10.251.29.239:50010 of size 67108864
+objc[35391]: Class TSUAtomicLRUCache is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.
+Idle processing thread terminated normally
+"Block 5781791720343455145 stored as values in memory (estimated size 9.9 KB, free 884.2 KB)"
+nw_g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/RandomAccess.64R.rts_post_new_ifstate successfully changed NAT64 ifstate from 0x8000000000000000 to 0x4
+10.251.31.5-07-04 09:42:58.121 ksfetch[34604/0x7fff79824000] [lvl=2] main() ksfetch done fetching.
+Loaded Servicing Stack 10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000164 with Core: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\cbscore.dll
+Location icon should now be in state 'Inactive'
+Saved output of task 'attempt_2774730' to hdfs://10.10.34.11:9000/pjhe/test/2/_temporary/0/task_201706092018_0025_m_000001
+Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat
+"1345503778930512538 Created NT transaction (seq 1) result 0x00000000, handle @0x218"
+[HID] [MT] AppleMultitouchDevice::willTerminate entered
+5963655886023015963:13:03.545 : Starting AirDrop server for user 501 on wake
+Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable
+[Package_for_KB3184471~31bf3856ad364e35~amd64~~6.1.1.1:22:36.133] <<<< CRABS >>>> crabsFlumeHostAvailable: [0x7f961cf08cf0] Byte flume reports host available again.
+"RTC: Maintenance -7553009628768897700/7/7 17:31:21, sleep -7553009628768897700/7/7 17:18:49"
+"[Accounts] Current connection, <NSXPCConnection: 0x02d10001> connection from pid 30318, doesn't have account access."
+Fan speeds ( 406835586147450451 406835586147450451 3375 4115 3497 3479 )
+ARPT: -1754204887541031211.478026: framerdy 0x0 bmccmd 3 framecnt 1024
+Unrecognized attribute value: t:AbchPersonItemType
+rdd_2_4@2016/9/27:20:40:54.787 CSI Transaction @0x47e9e0 destroyed
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:Package_for_KB2968294~31bf3856ad364e35~amd64~~6.1.1.1 Err:-1 Errno:1 Operation not permitted
+[339.2 KB:48:06.869] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92
+CCProfileMonitor::setStreamEventHandler
+"Node card VPD check: U-2032740670708110312 node in processor card slot J05 do not match. VPD ecid 04D37DF2DE7BFFFF0D081AF0DAD2, found 04DD80740E2FFFFF0A0C19D0CEBD"
+critical input interrupt (unit=0099be48 bit=0099be48): warning for torus z- wire
+"While synchronizing instance power states, found 5953577136151423920 instances in the database and 0 instances on the hypervisor."
+"[instance: 3961831045048378097] Total vcpu: 16 VCPU, used: 0.00 VCPU"
+"ARPT: 0072b9f8.188954: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2863091569, Ack 159598625, Win size 278"
+Package_for_KB2852386~31bf3856ad364e35~amd64~~6.1.1.3 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected
+"CCLogTap::profileRemoved, Owner: com.apple.iokit.6095704128062577668, Name: IO80211AWDLPeerManager"
+"NETWORK: no response from server, reachability, Package_for_KB3042058~31bf3856ad364e35~amd64~~6.1.1.1, queryRetries, Package_for_KB3042058~31bf3856ad364e35~amd64~~6.1.1.1"
+"Total usable vcpus: user/root/rand/_temporary/_task_200811101024_0001_m_000346_0, total allocated vcpus: 0"
+Cocoa scripting error for '0x02cb000d': four character codes must be four characters long.
+Starting TrustedInstaller finalization.
+"CCFile::captureLog Received Capture notice id: 1499506366.010075, reason = AuthFail:sts:5_rsn:0"
+processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+AppleThunderboltGenericHAL::earlyWake - complete - took 1 milliseconds
+wait state enable.................0
+mDNS_DeregisterInterface: Frequent transitions for interface en0 (10.105.162.32)
+Captive: CNPluginHandler en0: Evaluating
+Wake reason: EC.SleepTimer (SleepTimer)
+Starting the TrustedInstaller main loop.
+"ARPT: yarn,curi.456828: wl0: setup_keepalive: Local IP: 10.142.108.38"
+tcp_connection_tls_session_error_callback_imp 4324191 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22
+-7319442762668598889:58:33.765 ERROR:    177: timed out after 15.000s (0 0); mMajorChangePending=0
+[instance: 2646010] Deletion of /var/lib/nova/instances/2646010_del complete
+mDNS_RegisterInterface: Frequent transitions for interface awdl0 (FE80:0000:0000:0000:D8A5:90FF:FEF5:7FFF)
+AppleActuatorHIDEventDriver: message service is terminated
+Captive: [CNInfoNetworkActive:1748] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive)
+Compute_service record updated for cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us
+559.0 B-07-03 10:40:42.940 GoogleSoftwareUpdateAgent[33263/0x700000323000] [lvl=2] -[KSOmahaServer updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.
+2600241 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected
+Link error on broadcast tree Interconnect-166171721314010075:00:2:0
+2920430 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 268 seconds
+SQM: Requesting upload of all unsent reports.
+[client 1514039400000##7189##549659##8661##16256##28164276] Directory index forbidden by rule: /var/www/html/
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from SUSPENDED to AUTO
+1514040780000##7189##549659##8661##16256##29539649-07-08 06:26:32.365 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] About to run checks for any other apps.
+IOThunderboltSwitch<154615850>(154615850x154615850)::listenerCallback - Thunderbolt HPD packet for route = 154615850x154615850 port = 12 unplug = 154615850
+"startInsertSportSync first 500 steps sync,do all sync"
+NIFF: node node-rdd_11_2 has detected an available network connection on network 10.96.0.0 via interface scip0
+jk2_init() Can't find child 5622 in scoreboard
+.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '4023' is not a valid type name.
+"IOPMrootDomain: idle cancel, state 1"
+after trim url = https://www.google.com/_/chrome/newtab?rlz=159598625_enHK732HK732&espv=2&ie=UTF-8
+<IMMacNotificationCenterManager: 2758210>: notification observer: com.apple.FaceTime   notification: __CFNotification 0x7fdcc9d19110 {name = _NSDoNotDisturbEnabledNotification}
+**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- 0x8800 ****
+Successfully synced instances from host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'.
+AppleActuatorDeviceUserClient::start Entered
+setBasicStandardSteps basicStandardStep=Package_for_KB3033929~31bf3856ad364e35~amd64~~6.1.1.1 restartSteps=0
+"hibernate_alloc_pages act -5919767990596301121, inact 10088, anon 460, throt 0, spec 58021, wire 572831, wireinit 39927"
+"Error receiving packet on tree network, expecting type 30709030 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007"
+"hibernate_newruntime_map time: 2658655094 ms, IOPolledFilePollersOpen(), ml_get_interrupts_enabled 2658655094"
+-[NETClientConnection effectiveBundleID] using process name CalendarAgent as bundle ID (this is expected for daemons without bundle ID
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+3336883039 ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7
+Failed to create backup log cab. [HRESULT = 0x80070001 - ERROR_INVALID_FUNCTION]
+4072108-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification
+<IMMacNotificationCenterManager: 0x7fdcc9d16380>: Updating enabled: NO   (Topics: ( ))
+"Disabling manifest caching, because the image is not writeable."
+"insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT"
+0fee9c4c Performing 1 operations; 1 are not lock/unlock and follow:
+ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error
+jk2_init() Found child 32642 in scoreboard slot 7
+CCProfileMonitor::freeResources done
+"0010671c ddr error(s) detected and corrected on rank 0, symbol 28 over 2946 seconds"
+jk2_init() Found child 32649 in scoreboard slot 10
+initUserPrivacy the userPrivacy is true
+machine check enable..............0
+tcp_connection_destination_handle_tls_close_notify 111 closing socket due to TLS CLOSE_NOTIFY alert
+The instance sync for host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us' did not match. Re-created its InstanceList.
+"0000000b Store coherency cookie matches last scavenge cookie, skipping scavenge."
+"hibernate_machine_init pagesDone 4438674026376140804 sum2 4886d9d9, time: 197 ms, disk(0x20000) 799 Mb/s, comp bytes: 40017920 time: 27 ms 1412 Mb/s, crypt bytes: 160550912 time: 39 ms 3904 Mb/s"
+403.5 KB:03:36.715 : BTLE scanning started
+en0: -2425070029518924403.11d country code set to 'US'.
+network changed: 169836721(en0-:2607:f140:6000:8:c6b3:1ff:fecd:467f) DNS- Proxy-
+ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor
+"rts: kernel terminated for reason -6464892000340112134: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015"
+program interrupt: privileged instruction...0
+"device_generate_lock_screen_screenshot: authw 201706092018_0024_m_000161_1156(2000)[0, 0, 0, 0] shield 0x7fa823930c00(2001), dev [1440,900]"
+checkInsertStatus stepStatSum or calorieStatSum is enough
+"Unexpected payload found for message 3217556214, dataLen 0"
+data store interrupt caused by dcbf.........0
+tryToReloadTodayBasicStepsbroadcast_9_piece0|3786|0|0
+"initDataPrivacy the dataPrivacy switch is open, start push health data!"
+Ending the TrustedInstaller main loop.
+suppressing further interrupts of same type
+[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Instance destroyed successfully.
+Can not get assembly information for node card
+[com.apple.calendar.store.log.caldav.queue] [Account 3229296886 timed out when executing operation: <CalDAVAccountRefreshQueueableOperation: 0x7fa11f9f2290; Sequence: 0>]
+ARPT: 5782729236964719738.092581: ARPT: Wake Reason: Wake on Scan offload
+disable store gathering..................0
+"securityd_xpc_dictionary_handler cloudd[7577595658377008671] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+Bluetooth -- LE is supported - Disable LE meta event
+"pages 2349129, wire 548641, act 438090, inact 2, cleaned 0 spec 12, zf 30, throt 0, compr 254881, xpmapped 40000"
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+"[instance: 2791021] memory limit: 96258.00 MB, free: 95746.00 MB"
+0x0000000f L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 0x0000000f80x0000000f seconds
+[10.250.15.198:22:43.147] mv_LowLevelCheckIfVideoPlayableUsingDecoder signalled err=-12956 (kFigMediaValidatorError_VideoCodecNotSupported) (video codec 1) at  line 1910.250.15.198
+"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition"
+program interrupt: illegal instruction......1
+"DB Error: 0x00e462c0 ""no such table: tb_c2cMsg_2909288299"""
+[HID] [MT] AppleMultitouchDevice::start entered
+tcp_connection_destination_perform_socket_connect 10.251.203.246 connectx to 123.125.50.30:993@0 failed: [50] Network is down
+InsertCallBack() onSuccess  type = 0 data=true
+"Package_for_KB2919469~31bf3856ad364e35~amd64~~6.1.1.0-07-06 00:30:37.071 GoogleSoftwareUpdateAgent[36436/0x7000002a0000] [lvl=2] -[KSUpdateEngine updateAllExceptProduct:] KSUpdateEngine updating all installed products, except:'com.google.Keystone'."
+vm_compressor_fastwake_warmup completed - took 12461 msecs
+fraction rounded.........................0
+"PrepareForService shutting down Node card(mLctn(02f6676c), mCardSernum(203231503833343000000000594c31304b34323934303257), mLp(FF:F2:9F:16:E0:DA:00:0D:60:E9:1F:25), mIp(10.1.1.164), mType(4)) as part of Service Action 648"
+"ARPT: rdd_42_25.484045: wl0: wl_update_tcpkeep_seq: Original Seq: 1092633597, Ack: 2572586285, Win size: 4096"
+SQM: Failed to start standard sample upload. [HRESULT = 0x80004005 - E_FAIL]
+"ARPT: 2119691.560270: IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': No, 'TimeRemaining': 5600,"
+"timeStamp back,extendReportTimeStamp=1514042265000"
+ARPT: 112099344.966851: AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+"mnt/hadoop/dfs/data/current/subdir18 Creating NT transaction (seq 2), objectname [6]""(null)"""
+Location icon should now be in state 'Active'
+Targeting domains:node-D-352190670750948803 and nodes:node-[64-95] child of command 3488
+tcp_connection_destination_perform_socket_connect rdd_42_7 connectx to 203.205.147.206:8080@0 failed: [51] Network is unreachable
+-2852294661215451806-07-08 06:26:32.364 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=0
+10.105.160.226::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0
+NIFF: node node-user/root/rand5/_temporary/_task_200811101024_0011_m_001408_0 detected a failed network connection on network 5.5.224.0 via interface alt0
+Internal name did not resolve to internal address!
+__0015490-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- 28492032 -- 0x9a00 -- 0xc800 ****
+**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- Connected to the transport successfully -- 2495749 -- 0x9a00 -- 0x6800 ****
+Ido chip status changed: 10.251.43.210 ip=10.7.0.130 v=13 t=1 status=M Sat Sep 17 07:49:04 PDT 2005
+data store interrupt caused by icbi.........0
+boot (command 2092) Error: HALT asserted\  cannot continue
+"VDCAssistant:  Found a camera (27443484) , but was not able to start it up (0x0 -- (os/kern) successful)"
+"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=com.apple.security.sos.error Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}"
+Error in CoreDragRemoveReceiveHandler: -1856
+Starting TrustedInstaller initialization.
+Lustre mount FAILED : bglio2584429 : point /p/gb1
+ARPT: mnt/hadoop/dfs/data/current/subdir1.793193: wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+byte ordering exception.....................0
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 3
+"ciod: Error reading message prefix on CioStream socket to 88462066:50288, Link has been severed"
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Terminating instance
+ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to IO80211Irftecane:47696: Link has been severed
+"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)"
+Peripheral manager is not powered on
+"new date =04DF80A7942FFFFF0C081AE08CD2, type=40006,7140.0,old=6900.0"
+jk2_init() Found child 776007975-738997961882975950581658559 in scoreboard slot -7389979618829759505
+jk2_init() Found child 10.251.125.193 in scoreboard slot broadcast_19_piece0
+jk2_init() Found child 27442097 in scoreboard slot -5581540863377925517
+jk2_init() Found child Package_for_KB2868116~31bf3856ad364e35~amd64~~6.1.1.1 in scoreboard slot -2975629975082443857
+jk2_init() Found child 302071781155323887415551221572957482 in scoreboard slot 323887415551221572
+jk2_init() Found child 22866275036574950116428662750365749501162328662750365749501163 in scoreboard slot 2866275036574950116
+jk2_init() Found child -8502460962248995911 in scoreboard slot 2726481
+jk2_init() Found child 1514043974000 in scoreboard slot -4654885003331291932
+jk2_init() Found child 8466246428293623262 in scoreboard slot Package_for_KB3035017~31bf3856ad364e35~amd64~~6.1.1.0
+jk2_init() Found child storage343 in scoreboard slot -4110699195744660699
+jk2_init() Found child -773999999999995152593739999999999957557421424 in scoreboard slot 73999999999995
+jk2_init() Found child 4331501 in scoreboard slot home/auselton/bgl/mapfiles/bgl.128mps.f64.map
+"ciod: Error reading message prefix on CioStream socket to 3233207109:41587, Connection reset by peer"
+"[QL] No sandbox token for request <QLThumbnailRequest vmware-usbarb-25037.log>, it will probably fail"
+"Path not allowed in target domain: type = pid, path = 34960758 error = 147: The specified service did not ship in the requestor's bundle, origin = /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc"
+"problem state (4260600=sup,1=usr).......4260600"
+ARPT: storage442.609414: AirPort_Brcm43xx::powerChange: System Sleep
+jk2_init() Found child 1826461512646151481 in scoreboard slot 2646151
+jk2_init() Found child 318810.0.0.151745710.0.0.151 in scoreboard slot 10.0.0.151
+jk2_init() Found child 27758594.27758594.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292 in scoreboard slot 27758594
+CCXPCService::setStreamEventHandler Registered for notification callback.
+mod_jk child workerEnv in error state /Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-08_02
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1350741653957819140
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 132984613
+jk2_init() Found child 2152585039179 in scoreboard slot 2585039
+jk2_init() Found child 4834095175519779372284951755135 in scoreboard slot 9517551
+jk2_init() Found child -840808339887603398876000903896282 in scoreboard slot 33988760
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 7736147489540456118
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state broadcast_0_piece0
+mod_jk child workerEnv in error state 320.3 KB
+jk2_init() Found child Package_for_KB3006625~31bf3856ad364e35~amd64~~6.1.1.0 in scoreboard slot 04CC81389C2FFFFF03071B7048DF
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -2907776069874917892
+jk2_init() Found child 6140788650991tc236770539 in scoreboard slot tc23677
+jk2_init() Found child 151403392.3 KB750000 in scoreboard slot 392.3 KB
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0xE0000340
+mod_jk child workerEnv in error state 2729750
+jk2_init() Found child 22448291 in scoreboard slot 1689772850125323349
+jk2_init() Found child -2243784245784480521 in scoreboard slot 10.251.111.130
+jk2_init() Found child -852400106c0c527156662143200106c0c in scoreboard slot 00106c0c
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 5813923864071791162
+mod_jk child workerEnv in error state 2747011
+jk2_init() Found child -8294986551316941514045443000211 in scoreboard slot 1514045443000
+jk2_init() Found child 0x0589f8e0 in scoreboard slot 4539833452749813987
+jk2_init() Found child 2013841711213005620138419112399 in scoreboard slot 2013841
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x027b0006
+jk2_init() Found child -5352085087037370841 in scoreboard slot 10.251.215.70
+jk2_init() Found child 103902949 in scoreboard slot 2219090
+jk2_init() Found child 3315715490157154905759 in scoreboard slot 15715490
+jk2_init() Found child 3045146353 in scoreboard slot Package_for_KB3185319~31bf3856ad364e35~amd64~~11.2.1.0
+jk2_init() Found child broadcast_16_piece0 in scoreboard slot Package_for_KB2970228~31bf3856ad364e35~amd64~~6.1.1.2
+jk2_init() Found child 1841609 in scoreboard slot 4280633483
+jk2_init() Found child 10.105.160.237 in scoreboard slot 370.4 KB
+jk2_init() Found child 110.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_00004168810.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000041124 in scoreboard slot 10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000041
+jk2_init() Found child 2151403985700031151403985700050 in scoreboard slot 1514039857000
+jk2_init() Found child 6514181997629420906 in scoreboard slot home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -4841792440390267307
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1302893891174665780
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 8787656642683881295
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514038440000##7034##548365##8661##14831##27189969
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -566178736644429906
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0244c21c
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 265.0 B
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+jk2_init() Found child mnt/hadoop/dfs/data/current/subdir27 in scoreboard slot 0009499
+Directory index forbidden by rule: /var/www/html/
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2581029
+jk2_init() Found child 2630680 in scoreboard slot 836.4 KB
+jk2_init() Found child 0244c20c in scoreboard slot 7108974241330205218
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state rdd_42_6
+jk2_init() Found child 18001514041980000##7191##549659##8661##16256##307272291514041980000##7191##549659##8661##16256##30727229306 in scoreboard slot 1514041980000##7191##549659##8661##16256##30727229
+jk2_init() Found child 3209785770 in scoreboard slot -6314365697827006048
+jk2_init() Found child 261696136363959274/var/lib/nova/instances/17288ea8-cbf4-4f0e-94fe-853fd2735f29_del in scoreboard slot /var/lib/nova/instances/17288ea8-cbf4-4f0e-94fe-853fd2735f29_del
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 10.250.5.237
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 3197115045
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 3341883325
+jk2_init() Found child 00080x057c7e0031 in scoreboard slot 0x057c7e00
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 812.2 KB
+jk2_init() Found child -1227720343537039835 in scoreboard slot Package_for_KB2861698~31bf3856ad364e35~amd64~~6.1.1.0
+jk2_init() Found child p/gb1/stella/UMT2K/1325/umt2k_DD in scoreboard slot 4841101867353115844
+jk2_init() Found child 0912890 in scoreboard slot 5335498635665743905
+jk2_init() Found child 21514038740000##7187##549455##8661##16256##27449982240474631514038740000##7187##549455##8661##16256##2744998216141514038740000##7187##549455##8661##16256##27449982563 in scoreboard slot 1514038740000##7187##549455##8661##16256##27449982
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2367840
+mod_jk child workerEnv in error state 3311811605
+mod_jk child workerEnv in error state 2796719
+mod_jk child workerEnv in error state 67.154.58.130
+jk2_init() Found child 2292249 in scoreboard slot 10.251.107.50
+jk2_init() Found child Package_for_KB3035132~31bf3856ad364e35~amd64~~6.1.1.0 in scoreboard slot 009a50f8
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2587070
+jk2_init() Found child 3337823023111393 in scoreboard slot 2311139
+jk2_init() Found child -3897327496825962892951974589140998025 in scoreboard slot 3274968259628929519
+jk2_init() Found child 2451930 in scoreboard slot 1746384029810476219
+jk2_init() Found child 45137726399009985880123655 in scoreboard slot 00998588
+jk2_init() Found child 9169945668824212601621421260196 in scoreboard slot 4212601
+jk2_init() Found child rdd_42_38 in scoreboard slot 10.251.75.79
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x02770011
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 7430820184211246929
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 5115892145206906855
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2723150
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 313888672758374538
+jk2_init() Found child 149285545 in scoreboard slot 2648559
+jk2_init() Found child Package_for_KB2604115~31bf3856ad364e35~amd64~~6.1.1.3 in scoreboard slot 0867331
+jk2_init() Found child 3319352037 in scoreboard slot 2629061
+jk2_init() Found child -3693786175267111588 in scoreboard slot -8225435781013159573
+jk2_init() Found child /var/ib/nva/insans/95960536-049b-41f6-9049-05fc479b6a7c_dlcolete in scoreboard slot 2613258
+jk2_init() Found child root26_domain in scoreboard slot 0013518
+jk2_init() Found child Package_for_KB2706045~31bf3856ad364e35~amd64~~6.1.1.0 in scoreboard slot 2646649
+jk2_init() Found child 24rdd_42_3rdd_42_39022 in scoreboard slot rdd_42_3
+jk2_init() Found child Package_for_KB308-210021574616486609039~31bf3856ad364e35~amd64~~6.1.1.4 in scoreboard slot -210021574616486609
+jk2_init() Found child user/root/randtxt/_temporary/_task_2002733047011092030_0003_m_0012733047017_0 in scoreboard slot 27330470
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0013649
+mod_jk child workerEnv in error state user/root/rand3/_temporary/_task_200811101024_0005_m_001655_0
+mod_jk child workerEnv in error state /var/ib/nva/insans/fcdd5a9-3ca0-4c82-9336-63b7774f738e_delcolete
+mod_jk child workerEnv in error state -3981735565440284420
+mod_jk child workerEnv in error state 00b35148
+"jk2_init() Found child 00086000 in scoreboard slot 1499460036.519390, reason = AuthFail:sts:5_rsn:0"
+jk2_init() Found child 2586210 in scoreboard slot 0x7fa11f9f2290
+jk2_init() Found child 1514045222000 in scoreboard slot 4233013542759682998
+jk2_init() Found child 3315431812 in scoreboard slot Package_for_KB2770660~31bf3856ad364e35~amd64~~6.1.1.0
+jk2_init() Found child /p/bg1/da in scoreboard slot /var/lib/nova/instances/be793e89-2cc3-4f99-9884-9c6a624a84bc_del
+jk2_init() Found child 5240632065631331933648310212 in scoreboard slot 3193364831
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2386379
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 34397604
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -9038475355621289969
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/d96a117b-0193-4549-bdcc-63b917273d1d HTTP/1.1
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2275620
+jk2_init() Found child 3552141 in scoreboard slot 2569480
+jk2_init() Found child 127e76-5668584889663038916a-4fe6-4548--56685848896630389163b1-513ac51e0452 in scoreboard slot -5668584889663038916
+jk2_init() Found child 330065096901963876338651405 in scoreboard slot 901963876338651405
+jk2_init() Found child 1514039590000 in scoreboard slot 3173223679
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 10.251.126.22
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2543209
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1819348
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x06a72120
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -8347949825960763812
+jk2_init() Found child 4121001rts5631001rts8445037066 in scoreboard slot 1001rts
+jk2_init() Found child 0245ce0c in scoreboard slot 28163940
+jk2_init() Found child Package_for_KB3138378~31bf385-5777981614298940026ad3-57779816142989400264e35~amd-57779816142989400264~~-5777981614298940026.1.1.0 in scoreboard slot -5777981614298940026
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state Package_for_KB3054476~31bf3856ad364e35~amd64~~6.1.1.0
+mod_jk child workerEnv in error state Package_for_KB2984976~31bf3856ad364e35~amd64~~6.1.1.3
+mod_jk child workerEnv in error state -8083036675630459841
+jk2_init() Found child -7492294065771709299891129-749229406577170929942-749229406577170929941-749229406577170929963034 in scoreboard slot -7492294065771709299
+jk2_init() Found child 0x521144227051521144227b0 in scoreboard slot 521144227
+jk2_init() Found child 27445964068475098700237263 in scoreboard slot 6406847509870023726
+jk2_init() Found child 403.8 KB in scoreboard slot 4289704001
+jk2_init() Found child 3330546173305461734757 in scoreboard slot 30546173
+jk2_init() Found child broadcast_20 in scoreboard slot 748.0 B
+jk2_init() Found child 261089134326108918144 in scoreboard slot 2610891
+jk2_init() Found child 1514044440000##7214##54709803619710543266570980361971054326##8661##16256##331670980361971054326760 in scoreboard slot 70980361971054326
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2494071
+mod_jk child workerEnv in error state /var/lib/nova/instances/b562ef10-ba2d-48ae-bf4a-18666cba4a51_del
+mod_jk child workerEnv in error state -667933171485085225
+mod_jk child workerEnv in error state -9120005470237070778
+jk2_init() Found child 3331cf11429653083 in scoreboard slot 1cf11429
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514039520000
+jk2_init() Found child 3363894584 in scoreboard slot 2491229
+jk2_init() Found child 0x0e0272e0 in scoreboard slot 00106168
+jk2_init() Found child 3310259059337880141510411517 in scoreboard slot 5905933788014151041
+jk2_init() Found child 0x12af93a0 in scoreboard slot 27447483
+jk2_init() Found child 3300820925080612508061 in scoreboard slot 2508061
+jk2_init() Found child 5-8026264173633579073715348-80262641736335790733446541111 in scoreboard slot -8026264173633579073
+jk2_init() Found child Package_for_KB2868626~31bf3856ad364e35~amd64~~6.1.1.2 in scoreboard slot -1335063409877429524
+jk2_init() Found child 2656732 in scoreboard slot 29425533
+jk2_init() Found child 27901258586952 in scoreboard slot 2585869
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 27313468
+mod_jk child workerEnv in error state 1514040772000
+mod_jk child workerEnv in error state 2575240
+mod_jk child workerEnv in error state Package_for_KB3135983~31bf3856ad364e35~amd64~~6.1.1.0
+mod_jk child workerEnv in error state Package_for_KB3020370~31bf3856ad364e35~amd64~~6.1.1.2
+jk2_init() Found child 25858mnt/hadoop/dfs/data/current/subdir191 in scoreboard slot mnt/hadoop/dfs/data/current/subdir19
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0010941
+jk2_init() Found child /Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO-81275805640114670920211Family/[2017-07-0-8127580564011467092_05 in scoreboard slot -8127580564011467092
+jk2_init() Found child 145.0 B in scoreboard slot 3325040593
+jk2_init() Found child 151403root1_local740000##7179##549200##root1_local661##16256##274464root1_local3 in scoreboard slot root1_local
+jk2_init() Found child 6080034829170874114502662382038291708741145026623238291708741145026623882917087411450266239 in scoreboard slot 8291708741145026623
+jk2_init() Found child 27288471 in scoreboard slot Package_for_KB3156019~31bf3856ad364e35~amd64~~6.1.1.1
+jk2_init() Found child 610bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1023147232bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r147992 in scoreboard slot bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1
+jk2_init() Found child 1529261919560953 in scoreboard slot 1919560
+jk2_init() Found child 48-3681974396824196300357154833-3681974396824196300254-368197439682419630024 in scoreboard slot -3681974396824196300
+jk2_init() Found child 405.1 KB in scoreboard slot d1ce4c5a
+jk2_init() Found child 1514043660000##7214##549659##8661##16256##32403526 in scoreboard slot 374.2 KB
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 88742082
+mod_jk child workerEnv in error state 3048226529
+mod_jk child workerEnv in error state 2926539569
+mod_jk child workerEnv in error state 2808621
+jk2_init() Found child 201706086557489513616677702018_0024_m_000000_865574895136166777070 in scoreboard slot 8655748951361667770
+jk2_init() Found child -6292499669510x123b6ca020x123b6ca01202 in scoreboard slot 0x123b6ca0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2708549
+mod_jk child workerEnv in error state 27396969
+jk2_init() Found child 27446483 in scoreboard slot 9131004320470011870
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state mnt/hadoop/dfs/data/current/subdir20
+Directory index forbidden by rule: /var/www/html/
+jk2_init() Found child 29Package_for_KB3019978~31bf3856ad364e35~amd64~~6.1.1.244Package_for_KB3019978~31bf3856ad364e35~amd64~~6.1.1.20 in scoreboard slot Package_for_KB3019978~31bf3856ad364e35~amd64~~6.1.1.2
+jk2_init() Found child 3198345115 in scoreboard slot /var/ib/nva/insans/af5f7392-f7d4-4298-b647-c98924c64aa1_dlcolete
+jk2_init() Found child 10.10.34.11:9000/pjhe/logs/2kSOSP.log:189592+7292 in scoreboard slot -7937864120968665564
+jk2_init() Found child 404.2 KB in scoreboard slot 32618758
+jk2_init() Found child 3167883373 in scoreboard slot 10.251.123.195
+jk2_init() Found child 55748853.7 KB854743853.7 KB146021 in scoreboard slot 853.7 KB
+jk2_init() Found child 2267661 in scoreboard slot 55.450817]-CCIOReporter-001.xml
+jk2_init() Found child -265632338565110376389541103763832 in scoreboard slot 11037638
+jk2_init() Found child 17710713/var/lib/nova/instances/127e769a-4fe6-4548-93b1-513ac51e0452_del in scoreboard slot /var/lib/nova/instances/127e769a-4fe6-4548-93b1-513ac51e0452_del
+jk2_init() Found child 1146111 in scoreboard slot -1755309160709170318
+jk2_init() Can't find child 64:d9:89:6b:b5:33 in scoreboard
+jk2_init() Found child  1514038440000 in scoreboard slot 4755566011267050000
+jk2_init() Found child 409.0 KB in scoreboard slot 3235988328669699941
+jk2_init() Found child 10.251.199.150 in scoreboard slot 2953550760670423417
+jk2_init() Can't find child 712730845180531820 in scoreboard
+jk2_init() Found child 2703741 in scoreboard slot 1514040966000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x0e37bbe0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state user/root/rand/_temporary/_task_200811101024_0001_m_000206_0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child init 1 -2
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 155245886
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 8155177385081669900
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child init 1 -2
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0965390
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+jk2_init() Found child -1704027189958470814 in scoreboard slot 1514038999000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 7603278760520020831
+jk2_init() Found child 2472031 in scoreboard slot 2690120
+jk2_init() Found child -6555060221133060522879516879 in scoreboard slot 2879516879
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state Package_for_KB2900986~31bf3856ad364e35~amd64~~6.1.1.1
+jk2_init() Found child 19028-52155207491523942249 in scoreboard slot -5215520749152394224
+jk2_init() Found child 2205727770610 in scoreboard slot 2777061
+jk2_init() Found child Package_for_KB310114733741022~31bf3856ad364e35~amd64~~6.1.1.0 in scoreboard slot 147337410
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 10.251.110.68
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 3954386352306480748
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514038756000
+jk2_init() Found child rdd_42_0 in scoreboard slot user/root/randtxt3/_temporary/_task_200811101024_0007_m_000374_0
+jk2_init() Found child 2272091 in scoreboard slot 28136544
+jk2_init() Found child 8249425557405180346125557409102 in scoreboard slot 2555740
+jk2_init() Found child 407.4 KB in scoreboard slot 4992622607400168655
+jk2_init() Found child 3301471014 in scoreboard slot -409558225151784282
+Directory index forbidden by rule: /var/www/html/
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -7460532841070848624
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x7c9d19110dfc
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state /var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-07_12
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -8562334328670278932
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 09.307937] - AuthFail:sts:5_rsn:0.xml
+jk2_init() Found child rdd_11_0 in scoreboard slot 29410120
+jk2_init() Found child 0x1bd2b428468861798300926200 in scoreboard slot 4284688617983009262
+jk2_init() Found child -8214089520955813361416484537967285813361416484537967311 in scoreboard slot 5813361416484537967
+jk2_init() Found child 33041763 in scoreboard slot 201706092018_0024_m_000041_1126
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 112.90.78.169
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x11f82720
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 8189008752707332487
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -7017553867379051457
+jk2_init() Found child mnt/hadoop/dfs/data/current/subdir32 in scoreboard slot -1387034299358896632
+jk2_init() Found child 110453324 in scoreboard slot Package_for_KB3161561~31bf3856ad364e35~amd64~~6.1.1.1
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 32888202
+mod_jk child workerEnv in error state 2641821
+jk2_init() Found child 21514040720000##7189##549659##8661##16256##2942584796700 in scoreboard slot 1514040720000##7189##549659##8661##16256##29425847
+jk2_init() Found child 3318864-363668119307785874183801406136 in scoreboard slot -3636681193077858741
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state broadcast_10
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 00f2b078
+jk2_init() Found child 0245cd7c in scoreboard slot 0x008bdeb0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2932399904
+jk2_init() Found child -2451769929123196359 in scoreboard slot 0x0148b640
+mod_jk child workerEnv in error state broadcast_34_piece0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state broadcast_18
+jk2_init() Found child 20458177 in scoreboard slot AppleThunderboltNHIType2
+jk2_init() Found child 3423-38885382233809798918162324355-388853822338097989132 in scoreboard slot -3888538223380979891
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2469411
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2605171
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -8277873627721528374
+jk2_init() Found child 5257229716389774599497717229716389774599497488527229716389774599497744434 in scoreboard slot 7229716389774599497
+jk2_init() Found child 1514040708000 in scoreboard slot 0246db5c
+jk2_init() Found child 28496610 in scoreboard slot 27283470
+jk2_init() Found child user/root/randuser/root/rand/_temporary/_task_200811101024_0001_m_001587_0/_temporary/_task_200user/root/rand/_temporary/_task_200811101024_0001_m_001587_011101024_0015_m_000939_0 in scoreboard slot user/root/rand/_temporary/_task_200811101024_0001_m_001587_0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 8181993091797661153
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state mnt/hadoop/dfs/data/current/subdir5
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514038620000##7113##548750##8661##16256##27326969
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2029319
+jk2_init() Found child 151403-2012430628930443984560000##70-20124306289304439843##54-201243062893044398456-2012430628930443984##-2012430628930443984661##16256##27311472 in scoreboard slot -2012430628930443984
+jk2_init() Found child \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Users\default\ntuserdat. in scoreboard slot mnt/hadoop/dfs/data/current/subdir8
+jk2_init() Found child -4917427593321466339076366459 in scoreboard slot 4275933214
+jk2_init() Found child 1514039112000 in scoreboard slot 1777689952069868672
+jk2_init() Found child 272044Package_for_KB3030377~31bf3856ad364e35~amd64~~6.1.1.29 in scoreboard slot Package_for_KB3030377~31bf3856ad364e35~amd64~~6.1.1.2
+jk2_init() Found child 2607:f140:6000:8:4de2238431:a101:c22384316c:f28b in scoreboard slot 2238431
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2282833575688432184
+mod_jk child workerEnv in error state 0009611
+mod_jk child workerEnv in error state /var/lib/nova/instances/d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c_del
+mod_jk child workerEnv in error state -8023826090828946372
+jk2_init() Found child 2475102 in scoreboard slot 169016674
+jk2_init() Found child 10.10.34.11:1004288000/pjhe/logs/2kSOSP.log:0+7210042882 in scoreboard slot 1004288
+jk2_init() Found child 257-8050165297538775793840 in scoreboard slot -8050165297538775793
+jk2_init() Found child -816265-772471346891216654265-77247134689121665420614-77247134689121665423938 in scoreboard slot -7724713468912166542
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2.840.113635.100.6.1.13
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2762442
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state com.apple.Addres
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 404.8 KB
+jk2_init() Found child 1514042022000 in scoreboard slot /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm
+jk2_init() Found child user/root/rand4/_temporary/_task_200009829b811101024_0009_m_000176_0 in scoreboard slot 009829b8
+jk2_init() Found child 32224510.251.214.175494 in scoreboard slot 10.251.214.175
+jk2_init() Found child Package_for_KB3127220~31bf3856ad364e35~amd64~~6.1.1.0 in scoreboard slot -8915123233040672605
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 3905759687686730625
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 49059813
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2735779
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 218.75.106.250
+jk2_init() Found child -7912151914546257511848158002912151914546257511885912151914546257511868470 in scoreboard slot 9121519145462575118
+jk2_init() Found child 1514038540000 in scoreboard slot 2517381
+jk2_init() Found child -8145226289286450x01f6000150x01f600014 in scoreboard slot 0x01f60001
+jk2_init() Found child 149225542 in scoreboard slot 0245cdec
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 218.76.139.20
+mod_jk child workerEnv in error state 10.10.34.11:9000/pjhe/logs/2kSOSP.log:233344+7292
+mod_jk child workerEnv in error state 1447281351164457761
+mod_jk child workerEnv in error state 4953768
+jk2_init() Found child \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\DEFAULT in scoreboard slot 4632283243694149854
+jk2_init() Found child 0x7fPackage_for_KB2761217~31bf3856ad364e35~amd64~~6.1.1.0de0c0dc70 in scoreboard slot Package_for_KB2761217~31bf3856ad364e35~amd64~~6.1.1.0
+jk2_init() Found child 2700273009170 in scoreboard slot 2730091
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child -76237327user/root/rand6/_temporary/_task_200811101024_0013_m_002009_15385061487 in scoreboard slot user/root/rand6/_temporary/_task_200811101024_0013_m_002009_1
+mod_jk child workerEnv in error state 593.1 KB
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 5207058276541203 in scoreboard slot 70582765
+jk2_init() Found child 22906384231395969 in scoreboard slot 2906384231
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0246dbec
+jk2_init() Found child 14079358102744498573971357 in scoreboard slot 27444985
+jk2_init() Found child 16550x025c00096478 in scoreboard slot 0x025c0009
+jk2_init() Found child 4614530673206341566 in scoreboard slot 1514044500000##7214##549659##8661##16256##33217764
+jk2_init() Found child 1308-70480888704275867364492 in scoreboard slot -7048088870427586736
+jk2_init() Found child 7338929918024696cc801024696cc8024696cc in scoreboard slot 024696cc
+jk2_init() Found child 12166115broadcast_4916022010broadcast_4 in scoreboard slot broadcast_4
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6828263829429857572
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514045177000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2426131
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 369.3 KB
+jk2_init() Found child 6910.251.127.4710.251.127.4711070761310.251.127.4720142 in scoreboard slot 10.251.127.47
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 27189469
+jk2_init() Found child 3230110.1 KB610.1 KB37 in scoreboard slot 10.1 KB
+jk2_init() Found child 271514038680000##7117##548865##8661##16256##273924759511 in scoreboard slot 1514038680000##7117##548865##8661##16256##27392475
+jk2_init() Found child 2244903517044210.10.34.11:9000/pjhe/logs/2kSOSP.log:175008+72920975 in scoreboard slot 10.10.34.11:9000/pjhe/logs/2kSOSP.log:175008+7292
+jk2_init() Found child 1857061131805920430446170 in scoreboard slot 7061131805920430446
+jk2_init() Found child /var/log/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/DriverLogs//[2017-07-03_16 in scoreboard slot -6618090096819679591
+jk2_init() Found child mnt/hadoop/dfs/data/current/subdir33 in scoreboard slot -8703611999267892995
+jk2_init() Found child 259Package_for_KB3177186~31bf3856ad364e35~amd64~~6.1.1.1920 in scoreboard slot Package_for_KB3177186~31bf3856ad364e35~amd64~~6.1.1.1
+jk2_init() Found child 5183831565578080242 in scoreboard slot 10.250.11.85
+jk2_init() Found child 6465095453192394775973319239477523192394775113192394775 in scoreboard slot 3192394775
+jk2_init() Found child 10.251.194.245 in scoreboard slot 7078766226078740026
+jk2_init() Found child -3573208405519699182 in scoreboard slot broadcast_3
+jk2_init() Found child /Library/Logs/CrashReporter/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/[2017-07-07_16 in scoreboard slot 3255241453
+jk2_init() Found child 3700085199510 in scoreboard slot 0008519
+jk2_init() Found child  1514043540000 in scoreboard slot 25.108710]-io80211Family-007.pcapng
+jk2_init() Found child 2017-07-07 16:03205955551:36 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #313205955551) in scoreboard slot 3205955551
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x1efc7020
+mod_jk child workerEnv in error state 3764836840384130740
+mod_jk child workerEnv in error state 1514039059000
+jk2_init() Found child 2019353593 in scoreboard slot 2607:f140:400:a01b:c6b3:1ff:fecd:467f
+jk2_init() Found child -4263542047035353248258354204703535324825833542047035353248258382058354204703535324825852254 in scoreboard slot 3542047035353248258
+jk2_init() Found child 4330492827229602922862223 in scoreboard slot 2722960
+jk2_init() Found child -4052810234151403909800001514039098000327151403909800093 in scoreboard slot 1514039098000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514038740000##7189##549608##8661##16256##27457484
+jk2_init() Found child 1920931690498309324bfa0003 in scoreboard slot 1920931690498309324
+jk2_init() Found child 0007681514041560000##7189##549659##8661##16256##30315546 in scoreboard slot 1514041560000##7189##549659##8661##16256##30315546
+jk2_init() Found child -2794533871450434534 in scoreboard slot -6811519872198278365
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state mnt/hadoop/dfs/data/current/subdir16
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514045340000##0##549659##8661##16256##34086757
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2607:f140:6000:8:3065:65eb:758e:972a
+jk2_init() Found child -rdd_42_5212310rdd_42_5242rdd_42_5668424 in scoreboard slot rdd_42_5
+jk2_init() Found child 9550834615105-75845425300816573012332 in scoreboard slot -7584542530081657301
+jk2_init() Found child 2151404443100051151404443100069151404443100065115140444310005325732 in scoreboard slot 1514044431000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+"mod_jk child workerEnv in error state 1499288667.823332, reason = AuthFail:sts:5_rsn:0"
+mod_jk child workerEnv in error state 201706092018_0024_m_000120_1145
+jk2_init() Found child 2019352994 in scoreboard slot /g/g0/spelce1/Linpack_SWL
+jk2_init() Found child /v2/e9077c9114551b23abax469077c9114551b23abax3ac5077c9114551b23abax4c6b8a9e885077c9114551b23abaxf56a077c9114551b23abax608/os-server-external-events HTTP/1.1 in scoreboard slot 077c9114551b23abax
+jk2_init() Found child -7238035741206373733 in scoreboard slot -9001895211102825241
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -664656559337730574
+mod_jk child workerEnv in error state 0245a09c
+mod_jk child workerEnv in error state 10.251.30.85
+jk2_init() Found child 6516236151023615100236151061123615106236151077710 in scoreboard slot 2361510
+jk2_init() Found child -1151404459500056140031151404459500007143783 in scoreboard slot 1514044595000
+jk2_init() Found child 395 151403988000094091440 1514039880000609637 in scoreboard slot  1514039880000
+jk2_init() Found child 1514038633112915766000 in scoreboard slot 3311291576
+jk2_init() Found child -17338030en0:10.105.162.105v6(en0:2607:f140:6000:8:c6b3:1ff:fecd:467f)- -7614en0:10.105.162.105v6(en0:2607:f140:6000:8:c6b3:1ff:fecd:467f)- -60767 in scoreboard slot en0:10.105.162.105v6(en0:2607:f140:6000:8:c6b3:1ff:fecd:467f)- -
+jk2_init() Found child en0:2607:f140:6000:B C X+ X- Y+ Y- Z+ Z-:c6b3:1ff:fecd:467f in scoreboard slot B C X+ X- Y+ Y- Z+ Z-
+jk2_init() Found child 2877289271352111514772291 in scoreboard slot 8772892713521115147
+jk2_init() Can't find child /home/greeno/raptor.new.dev.3d.BGL.CXX_XL.MPI.ex in scoreboard
+jk2_init() Found child 27394469 in scoreboard slot -6695620358347030339
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -4651707530079874243
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child init 1 -2
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state Package_for_KB2931356~31bf3856ad364e35~amd64~~6.1.1.0
+jk2_init() Can't find child -1750007847201154657 in scoreboard
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child init 1 -2
+jk2_init() Can't find child user/root/rand3/_temporary/_task_200811101024_0005_m_001091_0 in scoreboard
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child init 1 -2
+jk2_init() Can't find child 1514038671000 in scoreboard
+jk2_init() Found child mnt/hadoop/dfs/data/current/subdir21 in scoreboard slot -9110604833387121363
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state e3871ffd
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child init 1 -2
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+jk2_init() Found child -148510901514038440000##7047##548365##8661##15876##2719797281514038440000##7047##548365##8661##15876##271979727111514038440000##7047##548365##8661##15876##271979720157 in scoreboard slot 1514038440000##7047##548365##8661##15876##27197972
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 186297662
+jk2_init() Found child Package_for_KB2952664~31bf3856ad364e35~amd64~~6.1.19.0 in scoreboard slot 2618670
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -6909400912794057067
+Directory index forbidden by rule: /var/www/html/
+jk2_init() Found child 4322081 in scoreboard slot 3271199282
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 165966499
+jk2_init() Found child 04D3147.31.138.75DF2DE147.31.138.75BFFFF0D081AF0DAD2 in scoreboard slot 147.31.138.75
+jk2_init() Found child -5957060034695163774 in scoreboard slot 1514041980000##7200##549659##8661##16256##30729733
+jk2_init() Found child 0x002744898390003 in scoreboard slot 27448983
+jk2_init() Found child 0x77c147765458114550458e7b in scoreboard slot 147765458
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state Package_for_KB3005607~31bf3856ad364e35~amd64~~6.1.1.0
+mod_jk child workerEnv in error state 34054759
+mod_jk child workerEnv in error state 7654726977769174867
+mod_jk child workerEnv in error state 8473858691873523269
+jk2_init() Found child 0010331 in scoreboard slot 104472982
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 203231503833343000000000594c31304b34323934303257
+jk2_init() Found child 1418325 in scoreboard slot Package_for_RollupFix~31bf3856ad364e35~amd64~~7601.23545.1.4
+Directory index forbidden by rule: /var/www/html/
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x7fe13512cf70
+jk2_init() Found child 1864619 in scoreboard slot 10.251.66.3
+jk2_init() Found child 2731631 in scoreboard slot -8312238797251504127
+jk2_init() Found child 0x7fa8258cac00 in scoreboard slot 2261841
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 0244c25c in scoreboard slot 3079488924320077240
+jk2_init() Found child 2017030729233092018_0025_m_000002_1194 in scoreboard slot 30729233
+jk2_init() Found child -6354778535477857213547785177553478354778535477856 in scoreboard slot 3547785
+jk2_init() Found child 10.251.107.1-1649239999940418046 in scoreboard slot -1649239999940418046
+jk2_init() Found child -4092914384523432014230143845234431438452344 in scoreboard slot 143845234
+jk2_init() Found child -202561767540x03eb00014194470 in scoreboard slot 0x03eb0001
+jk2_init() Found child 1514038740000##718-749176535135404637##549404##8-749176535135404637-7491765351354046371##1-74917653513540463725-749176535135404637##27448983 in scoreboard slot -749176535135404637
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 02494bec
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 00fcc6b8
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2401645769
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 255244071
+jk2_init() Found child 0223933067801 in scoreboard slot 2239330
+jk2_init() Found child -1180596628202464893 in scoreboard slot 4263664068073345850
+jk2_init() Found child -322a3055c89823447000117a3055c898234394592 in scoreboard slot a3055c898234
+jk2_init() Found child 2377150211192726938897558440128098801119272693889755844 in scoreboard slot 1119272693889755844
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state broadcast_13_piece0
+mod_jk child workerEnv in error state https://gsp-ssl.ls.apple.com/dispatcher.arpc
+mod_jk child workerEnv in error state 7116742
+mod_jk child workerEnv in error state 0245cd8c
+jk2_init() Found child 0x06ec-1492402439215451727a20 in scoreboard slot -1492402439215451727
+jk2_init() Found child cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us in scoreboard slot 39.096792]-CCIOReporter-017.xml
+jk2_init() Found child 22530844405520765684236252076568460 in scoreboard slot 520765684
+jk2_init() Found child 10.250.7.9-8435779070374485499 in scoreboard slot -8435779070374485499
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 37.535347]=AuthFail:sts:2_rsn:0/IO80211AWDLPeerManager//[2017-07-03_19
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514038680000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 7473411975130090672
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514041146000
+jk2_init() Found child 27392978 in scoreboard slot 1408672604432845193
+jk2_init() Found child R25-M1-N2 in scoreboard slot -5421365489363678155
+jk2_init() Found child 0x215a4000 in scoreboard slot https://gs-loc.apple.com/clls/wloc
+jk2_init() Found child 0010656TI6.0_0:0 in scoreboard slot TI6.0_0:0
+jk2_init() Found child -43470542302777278Sat Sep 17 07:49:04 PDT 20053 in scoreboard slot Sat Sep 17 07:49:04 PDT 2005
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state rdd_16_2
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -1751996688557225241
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/faf974ea-cba5-4e1b-93f4-3a3bc606006f HTTP/1.1
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -1851265222873801714
+jk2_init() Found child 10.251.89.155 in scoreboard slot 2971152121
+jk2_init() Found child  1514039520000 in scoreboard slot 33449757
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2462721
+mod_jk child workerEnv in error state -8571819028995448536
+jk2_init() Found child 26043049469:f140:400:a01b:1c543049469:43049469ef3:8f8e:5a10 in scoreboard slot 43049469
+jk2_init() Found child 59484559487125725818052452712572581805245091880 in scoreboard slot 712572581805245
+jk2_init() Found child 2-835101509001457029329-8351015090014570293332 in scoreboard slot -8351015090014570293
+jk2_init() Found child 16996513924436202631797405 in scoreboard slot 699651392443620263
+jk2_init() Found child 154302f7a18c05971733759530 in scoreboard slot 02f7a18c
+jk2_init() Found child 2665620 in scoreboard slot 4072819
+jk2_init() Found child /latest/meta-data/ami-id HTTP/1.1 in scoreboard slot 0x7f9951005740
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 10.251.75.49 in scoreboard slot 2902428190
+jk2_init() Found child 10.250.17.177 in scoreboard slot 28234547
+jk2_init() Found child 274223.694116]-io80211Family-002.pcapng89 in scoreboard slot 23.694116]-io80211Family-002.pcapng
+jk2_init() Found child 2523397FF:F2:9F:16:C4:C2:00:0D:60:E9:3B:3D in scoreboard slot FF:F2:9F:16:C4:C2:00:0D:60:E9:3B:3D
+jk2_init() Found child -9198375937828232043006590414 in scoreboard slot 3006590414
+jk2_init() Found child 099919890.0 B in scoreboard slot 0999198
+jk2_init() Found child 00106cf8 in scoreboard slot 172.16.96.116
+jk2_init() Found child 3207045654.449889]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-07_00 in scoreboard slot 54.449889]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-07_00
+jk2_init() Found child 0009151 in scoreboard slot 29409806
+jk2_init() Found child 2457120 in scoreboard slot 2672410
+jk2_init() Found child -6213380929137612212913761661202 in scoreboard slot 2913761
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state /var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-03_16
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -7418372263556457716
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2528281
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -852118157909078164
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 04C180A5D12FFFFF05081BD088E2
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 3550669278239526374
+mod_jk child workerEnv in error state mnt/hadoop/dfs/data/current/subdir29
+jk2_init() Found child -41514044320000##7214##549659##8661##16256##33066759545621241514044320000##7214##549659##8661##16256##33066759940301514044320000##7214##549659##8661##16256##3306675919 in scoreboard slot 1514044320000##7214##549659##8661##16256##33066759
+jk2_init() Found child 3351-292962768070366271223888 in scoreboard slot -2929627680703662712
+jk2_init() Found child R10-M1-N2 in scoreboard slot 1514038440000##7039##548365##8661##15306##27192971
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state mnt/hadoop/dfs/data/current/subdir13
+mod_jk child workerEnv in error state -1236077201457689973
+mod_jk child workerEnv in error state 317.1 KB
+jk2_init() Found child 0015550 in scoreboard slot 00b36898
+jk2_init() Found child /bgl/apps/SWL/stability/HPL/WORK/1498./hpl_DD in scoreboard slot 27179417
+jk2_init() Found child 1514038440000##7045##548365##8661##15781##271728165942214842306672816594221484230670 in scoreboard slot 728165942214842306
+jk2_init() Found child 1514044469000 in scoreboard slot 14.954481]=AssocFail:sts:2_rsn:0/IO80211AWDLPeerManager//[2017-07-03_13
+jk2_init() Found child 0097520448176d5 in scoreboard slot 20448176
+jk2_init() Found child 0x06c27c60 in scoreboard slot /var/vm/sleepimage
+jk2_init() Found child 2107487644533902765378914434644533902765378914498644533902765378914446445339027653789144045 in scoreboard slot 6445339027653789144
+jk2_init() Found child 15140444884441836000 in scoreboard slot 84441836
+jk2_init() Found child 157913239647511296 in scoreboard slot 201706092018_0024_m_000163_1158
+jk2_init() Found child 185317335052382003350523820 in scoreboard slot 3350523820
+jk2_init() Found child 511401068318338329Package_for_KB3080149~31bf3856ad364e35~amd64~~6.1.1.1 in scoreboard slot Package_for_KB3080149~31bf3856ad364e35~amd64~~6.1.1.1
+jk2_init() Found child 0007560 in scoreboard slot 33039758
+jk2_init() Found child 0009491 in scoreboard slot 2748721
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2733629
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2694941
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1979447750586388860
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 3338913155
+jk2_init() Found child 10.105.162.32 in scoreboard slot 7463248820468902190
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 3041116122
+jk2_init() Found child 0247019c in scoreboard slot 1514041842000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 001066ac
+Directory index forbidden by rule: /var/www/html/
+jk2_init() Found child -412878385926434128783890414500555 in scoreboard slot 41287838
+jk2_init() Found child 2222584008440 in scoreboard slot 2225840
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state root17_domain
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 18178046
+jk2_init() Found child -7289718938985795442359897189389857954423572042149855897189389857954423541 in scoreboard slot 8971893898579544235
+jk2_init() Found child 2785834218936335592624155834218936335592624 in scoreboard slot 5834218936335592624
+jk2_init() Found child 15140420632254896632254896000 in scoreboard slot 632254896
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2691015
+mod_jk child workerEnv in error state 0913880
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 805587860540600864
+jk2_init() Found child -0x7fed806eb5d @0x7fefa1c8728 @0x7fefa1c8856 @0xff83e474 @0xff83d7de @0xff83db2f0x7fed806eb5d @0x7fefa1c8728 @0x7fefa1c8856 @0xff83e474 @0xff83d7de @0xff83db2f47552694913526632 in scoreboard slot 0x7fed806eb5d @0x7fefa1c8728 @0x7fefa1c8856 @0xff83e474 @0xff83d7de @0xff83db2f
+jk2_init() Found child 2522245400224540022454001 in scoreboard slot 2245400
+jk2_init() Found child -684595390262615032854503 in scoreboard slot 2626150
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 4786794545180705888
+mod_jk child workerEnv in error state 2718439
+mod_jk child workerEnv in error state 2549498
+jk2_init() Found child 177007131 in scoreboard slot 3546628
+jk2_init() Found child  1514044140000 in scoreboard slot 162.0 B
+jk2_init() Found child 00106b8c in scoreboard slot 0012221
+jk2_init() Found child 5454332143498402824 in scoreboard slot -7458279618877678162
+jk2_init() Found child 2398081 in scoreboard slot 179827292
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -7285565997486715015
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 00000006
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -7024895786822269814
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 49420377461855719
+jk2_init() Found child 1514046313008284245000 in scoreboard slot 3008284245
+jk2_init() Found child rdd_42_24 in scoreboard slot -3564493590065542578
+jk2_init() Found child 1514038680000##7128##548885##8661##16256##2732731446844627314468 in scoreboard slot 27314468
+jk2_init() Found child 0252529c in scoreboard slot 1901591
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 8097409435735325492
+mod_jk child workerEnv in error state -5224756755359850354
+mod_jk child workerEnv in error state 47288320
+mod_jk child workerEnv in error state 0x02801000
+jk2_init() Found child 0x7fce16267800 in scoreboard slot 10.10.34.11:9000/pjhe/logs/2kSOSP.log:138548+7292
+jk2_init() Found child -8475-96601317501835990179-96601317501835990147841427708 in scoreboard slot -966013175018359901
+jk2_init() Found child -2051219911597303963698556744744747396369855674474474705 in scoreboard slot 3963698556744744747
+jk2_init() Found child mnt/hadoop/dfs/data/current/subdir56 in scoreboard slot 0x1880a8e0
+jk2_init() Found child 8063831442998151404150600021541514041506000 in scoreboard slot 1514041506000
+jk2_init() Found child 3652427357251545055 in scoreboard slot 824.2 KB
+jk2_init() Found child Package_for_KB3149090~31bf3857154985168984871115ad371549851689848711154e35~amd71549851689848711154~~7154985168984871115.1.1.1 in scoreboard slot 7154985168984871115
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 10.105.160.205
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -3752135158991310104
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2837551
+jk2_init() Found child 00000007@2016/9/27:20:30:31.462 in scoreboard slot 100922779
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -1641081065757890722
+jk2_init() Found child Package_for_KB273132544588422~31bf385132544588ad31325445884e35~amd1325445884~~132544588.1.1.0 in scoreboard slot 132544588
+jk2_init() Found child 1514042280000##2234900214##549659##8661##16256##31004223490059 in scoreboard slot 2234900
+jk2_init() Found child 0245b6bc in scoreboard slot 2775040
+jk2_init() Found child 418. 1514044800223 KB in scoreboard slot  1514044800223
+jk2_init() Found child 1034541 in scoreboard slot 3734829
+jk2_init() Found child -2413990299730951392824139908297 in scoreboard slot 2413990
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child -185994525736622945587812309242886002 in scoreboard slot 5736622945587812309
+mod_jk child workerEnv in error state 2771018387166611008
+jk2_init() Found child root24_local in scoreboard slot 0918391
+mod_jk child workerEnv in error state 3313241687
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2593911
+mod_jk child workerEnv in error state 858.0 B
+jk2_init() Found child 7177111013889590277025973 in scoreboard slot 1013889
+jk2_init() Found child 123.151.137.10-4165562468976768862 in scoreboard slot -4165562468976768862
+jk2_init() Found child 2603815140443950001 in scoreboard slot 1514044395000
+jk2_init() Found child AirPortBrcm4360_Logs-007.txt in scoreboard slot 38865049064139660
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2202821
+mod_jk child workerEnv in error state 1060814796407897179
+jk2_init() Found child 10/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/17288ea8-cbf4-4f0e-94fe-853fd2735f29 HTTP/1.1973125 in scoreboard slot /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/17288ea8-cbf4-4f0e-94fe-853fd2735f29 HTTP/1.1
+jk2_init() Found child Package_for_KB2929/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.0533~31bf3856ad364e35~amd64~~6.1.1.0 in scoreboard slot /bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.05
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1977990
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 3352763948
+jk2_init() Found child 2747231 in scoreboard slot 1514039492000
+jk2_init() Found child 255164rdd_42_36 in scoreboard slot rdd_42_36
+jk2_init() Found child 2900069500006950751800069509 in scoreboard slot 0006950
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 170246744
+jk2_init() Found child user/root/randtxt4/_temporary/_task_200811101024_0010_m_001716_0 in scoreboard slot 2332909
+jk2_init() Found child -3132823999230232823999230010932823999232115332823999238 in scoreboard slot 3282399923
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2732439
+mod_jk child workerEnv in error state StateSnapshots
+jk2_init() Found child mnt/hadoop/dfs/data/current/subdir3 in scoreboard slot 2215517976324634098
+jk2_init() Found child 9014154925388243050 in scoreboard slot Package_for_KB2647753~31bf3856ad364e35~amd64~~6.1.4.0
+jk2_init() Found child fecdd5aPackage_for_KB3078601~31bf3856ad364e35~amd64~~6.1.1.5-3ca0-4c82-Package_for_KB3078601~31bf3856ad364e35~amd64~~6.1.1.5336-63b7774f738e in scoreboard slot Package_for_KB3078601~31bf3856ad364e35~amd64~~6.1.1.5
+jk2_init() Found child 1514042064000625391056418655045 in scoreboard slot 1514042064000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6147898566868510104
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child user/root/sortrand/_temporary/_task_200084702011092030_0002_r_000310847020_0 in scoreboard slot 0847020
+jk2_init() Found child 27-15920435492720473699-159204354927204736939 in scoreboard slot -1592043549272047369
+jk2_init() Found child broadcast_14_piece05966broadcast_14_piece05372170190broadcast_14_piece00 in scoreboard slot broadcast_14_piece0
+jk2_init() Found child 6032059389709317340334820593897093173403348256220593897093173403341822367 in scoreboard slot 2059389709317340334
+jk2_init() Found child 1514040840000##-765820154946060546189##549659##8661##16256##296003-7658201549460605462 in scoreboard slot -765820154946060546
+jk2_init() Found child 12135824388737.0 B5737.0 B9737.0 B738 in scoreboard slot 737.0 B
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 3357894241
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 27321969
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0244c1dc
+jk2_init() Found child 010.10.34.11:9000/pjhe/logs/2kSOSP.log:123964+7292.10.10.34.11:9000/pjhe/logs/2kSOSP.log:123964+729210337]-AirPortBrcm4360_Logs-047.txt in scoreboard slot 10.10.34.11:9000/pjhe/logs/2kSOSP.log:123964+7292
+jk2_init() Found child 7930707278165460426630707278160307072781630707278165040 in scoreboard slot 3070727816
+jk2_init() Found child 2315140385330006151403853300090 in scoreboard slot 1514038533000
+jk2_init() Found child 3312000778941000778953 in scoreboard slot 0007789
+jk2_init() Found child 2031497092230511363331616 in scoreboard slot 1497092
+jk2_init() Can't find child /Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-07_00 in scoreboard
+jk2_init() Can't find child 0x008b6fb5 in scoreboard
+jk2_init() Found child -3990317238913332296 in scoreboard slot 7583807825342916938
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x800f080d
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514038682000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x04d64dc0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2937490195
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2950240925
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child init 1 -2
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child init 1 -2
+Directory index forbidden by rule: /var/www/html/
+jk2_init() Found child 138284916 in scoreboard slot 0x01d7a160
+jk2_init() Found child AirPortBrcm4387636625649346522490_Logs-001.txt in scoreboard slot 8763662564934652249
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0008578
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514038440000##7041##548365##8661##15496##27194480
+jk2_init() Found child 10302732096941 in scoreboard slot 27320969
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x00670033
+jk2_init() Found child 320x1b786f60050x1b786f60030x1b786f602 in scoreboard slot 0x1b786f60
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state broadcast_26_piece0
+jk2_init() Found child 4313569 in scoreboard slot 591323161994959677
+jk2_init() Found child 132944570840595385047753511 in scoreboard slot 5708405953850477535
+jk2_init() Found child NeteaseMusic03049809255NeteaseMusic6564NeteaseMusic in scoreboard slot NeteaseMusic
+jk2_init() Found child 10.251.30.172679651 in scoreboard slot 2679651
+jk2_init() Found child 907403079356774/var/lib/nova/instances/78dc1847-8848-49cc-933e-9239b12c9dcf_del915 in scoreboard slot /var/lib/nova/instances/78dc1847-8848-49cc-933e-9239b12c9dcf_del
+jk2_init() Found child 3526613719462 in scoreboard slot 2661371
+jk2_init() Found child 201702731617036199392057092018_0024_m_000043_1128 in scoreboard slot 2731617036199392057
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -730776401372551814
+mod_jk child workerEnv in error state 132424581
+mod_jk child workerEnv in error state /openstack/2013-10-17 HTTP/1.1
+mod_jk child workerEnv in error state 5390763359901143305
+jk2_init() Found child Thu Aug 04 15:31:25 PDT 2005 in scoreboard slot 10.250.15.67
+jk2_init() Found child Package_for_KB2621146~31bf3broadcast_1556ad364e35~amd64~~6.1.1.0 in scoreboard slot broadcast_15
+jk2_init() Found child 1514042332000352120000 in scoreboard slot 3200035212
+jk2_init() Found child 2415851851514038440000##7031##548365##8661##14546##271879688831514038440000##7031##548365##8661##14546##271879683386 in scoreboard slot 1514038440000##7031##548365##8661##14546##27187968
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 3214976067
+mod_jk child workerEnv in error state -954856062493437881
+mod_jk child workerEnv in error state 8442157310069672329
+mod_jk child workerEnv in error state 31004759
+jk2_init() Found child 258231514041980000##7208##549659##8661##16256##307312321 in scoreboard slot 1514041980000##7208##549659##8661##16256##30731232
+jk2_init() Found child Package_for_KB2552343~31bf3-650054913035152911356ad364e35~amd64~~6.1.1.0 in scoreboard slot -6500549130351529113
+jk2_init() Found child 0245d57c in scoreboard slot 2713941272199175167
+jk2_init() Found child 2175409835791 in scoreboard slot 1754098
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state user/root/sortrand/_temporary/_task_200811092030_0002_r_000296_0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514039292000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -2680500627064966252
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2570438
+jk2_init() Found child 2659712 in scoreboard slot 4404895858852856851
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -1508527605812345693
+Directory index forbidden by rule: /var/www/html/
+Directory index forbidden by rule: /var/www/html/
+jk2_init() Found child -0.331349 in scoreboard slot 2669530
+jk2_init() Found child 003a1388249470dc in scoreboard slot 138824947
+jk2_init() Found child 2399080 in scoreboard slot -8649503431827393598
+jk2_init() Found child 1514041980000##5216491057643255876214##549659##8661##16256##30521649105764325587636521649105764325587630 in scoreboard slot 5216491057643255876
+jk2_init() Found child -6362614441730481066261444168762614441 in scoreboard slot 2614441
+jk2_init() Found child 2575760 in scoreboard slot 27197972
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -6952295868487656571
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 27394969
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514045280000##0##549659##8661##16256##33988760
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 10042450943433
+jk2_init() Found child 2-595452758743540637439148 in scoreboard slot -5954527587435406374
+jk2_init() Found child Package_for_KB3185329117385292975676611~31bf3856ad364e35~amd64~~6.1.1.0 in scoreboard slot 3291173852929756766
+jk2_init() Found child 33342320245cd9c0245cd9c0245cd9c in scoreboard slot 0245cd9c
+jk2_init() Found child 15.34-652003046266061905112-6520030462660619051]=AuthFail:sts:5_rsn:0/DriverLogs//[2017-07-03_15 in scoreboard slot -6520030462660619051
+jk2_init() Found child 10.251.12broadcast_8_piece0.227 in scoreboard slot broadcast_8_piece0
+jk2_init() Found child -3253005280055520211 in scoreboard slot 10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000124
+jk2_init() Found child 120010639c51986350010639c23390010639c883 in scoreboard slot 0010639c
+jk2_init() Found child 2197890474920544921978904206742 in scoreboard slot 2197890
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 164936440
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514043436000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 810.7 KB
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2693179
+jk2_init() Found child 83034131861.220.139.682002301361.220.139.68 in scoreboard slot 61.220.139.68
+jk2_init() Found child Package_for_KB3174158233092201716671974158233092201716677415823309220171667~31bf3741582330922017166756ad364e35~amd64~~6.1.1.1 in scoreboard slot 7415823309220171667
+jk2_init() Found child 1151404551600015140455160005878 in scoreboard slot 1514045516000
+jk2_init() Found child 5702487846232575705 in scoreboard slot 9081834782322008396
+jk2_init() Found child  1514038680000 in scoreboard slot 201706092018_0024_m_000081_1136
+jk2_init() Found child 33297271142976916798281227114297691679828132 in scoreboard slot 271142976916798281
+jk2_init() Found child 00020328169659 in scoreboard slot 20328169
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2936720151
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -6131345369657245178
+jk2_init() Found child 0892961 in scoreboard slot 2096199637324483321
+jk2_init() Found child 2238111 in scoreboard slot 3339973216
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state user/root/sortrand2/_temporary/_task_200811101024_0003_r_000258_0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 3049686613
+jk2_init() Found child -33-54279183137077528776653040-542791831370775287782485-54279183137077528771 in scoreboard slot -5427918313707752877
+jk2_init() Found child 2111886617384066018 in scoreboard slot 2974262690755997396
+jk2_init() Found child 0x19072829105973334075e33e90728291059733340750 in scoreboard slot 9072829105973334075
+jk2_init() Found child 10.250.18.114 in scoreboard slot 3849239820458663566
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2322432806134104317
+mod_jk child workerEnv in error state 1514042520000##7214##549659##8661##16256##31239760
+jk2_init() Found child -72667116480187-540320976222443516636-5403209762224435166-5403209762224435166 in scoreboard slot -5403209762224435166
+jk2_init() Found child 7439201509602010x0002f900752 in scoreboard slot 0x0002f900
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -17685631368401548
+mod_jk child workerEnv in error state 3189744623
+jk2_init() Found child 257user/root/rand7/_temporary/_task_200811101024_0014_m_001642_0051 in scoreboard slot user/root/rand7/_temporary/_task_200811101024_0014_m_001642_0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 222.166.160.184
+jk2_init() Found child 2740792916077430444 in scoreboard slot 2653639
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 5496448884081025648
+Directory index forbidden by rule: /var/www/html/
+jk2_init() Found child 21888258 in scoreboard slot 107003127
+jk2_init() Found child -2652283430615574293326723 in scoreboard slot 2283430
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state /g/g24/germann2/BGL-demo/SPaSM_mpi
+mod_jk child workerEnv in error state -1897524391075610396
+jk2_init() Found child 2594419943254721518837570 in scoreboard slot 2594419
+jk2_init() Found child broadcast_22 in scoreboard slot  1514045640000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514038558000
+jk2_init() Found child 520989480 in scoreboard slot -3710747952520609225
+jk2_init() Found child -1548156132467763723526131 in scoreboard slot 5481561
+jk2_init() Found child Package_for_KB2786081~31bf3856ad364e35~amd64~~6.1.1.0 in scoreboard slot 2524278
+jk2_init() Found child 258310.250.14.19678 in scoreboard slot 10.250.14.196
+jk2_init() Found child 1-1186760035864967825668-11867600358649678-11867600358649678 in scoreboard slot -11867600358649678
+jk2_init() Found child 177417154 in scoreboard slot 10.251.91.32
+jk2_init() Found child -7601331413635175208023961921195131413635175208023963756 in scoreboard slot 3141363517520802396
+jk2_init() Found child 3356844181 in scoreboard slot 1514042085000
+jk2_init() Found child 621685330749869453 in scoreboard slot 2681561
+jk2_init() Found child 6690143611140381289 in scoreboard slot 2868336240
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 395.0 KB
+mod_jk child workerEnv in error state 1514038666000
+mod_jk child workerEnv in error state 806.5 KB
+mod_jk child workerEnv in error state /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map
+mod_jk child workerEnv in error state 02f6930c
+mod_jk child workerEnv in error state 100772770
+mod_jk child workerEnv in error state 10.11.21.134
+jk2_init() Found child 950.0 B in scoreboard slot -4139299269696044017
+jk2_init() Found child 15G1510: com.apple.telemetry + 31514044494000574 in scoreboard slot 1514044494000
+jk2_init() Found child bf8c824d-f0/bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/truncate/bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/truncate-4433-a41e-e3da7578262e in scoreboard slot /bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/truncate
+jk2_init() Found child 0x155e28e0 in scoreboard slot 0x7fa82435f400
+"jk2_init() Found child 1499192921.020010, reason = AssocFail:sts:5_rsn:0 in scoreboard slot 10.251.202.181"
+jk2_init() Found child 0x143Package_for_KB2603229~31bf3856ad364e35~amd64~~6.1.1.0f9e0 in scoreboard slot Package_for_KB2603229~31bf3856ad364e35~amd64~~6.1.1.0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 5c0b217a
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -577659324269246113
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+"mod_jk child workerEnv in error state 1499122032.492037, reason = AuthFail:sts:5_rsn:0"
+jk2_init() Can't find child  1514039760000 in scoreboard
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child init 1 -2
+jk2_init() Can't find child 1072969 in scoreboard
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child init 1 -2
+jk2_init() Can't find child Package_for_KB3078667~31bf3856ad364e35~amd64~~6.1.1.0 in scoreboard
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child init 1 -2
+jk2_init() Can't find child 4586949 in scoreboard
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child init 1 -2
+jk2_init() Found child 49199821 in scoreboard slot Package_for_KB2835174~31bf3856ad364e35~amd64~~6.1.1.0
+jk2_init() Found child 29344951 in scoreboard slot 1915350
+jk2_init() Found child 2944360 in scoreboard slot 108683223
+jk2_init() Found child 10517608 in scoreboard slot cluster_root_backup
+jk2_init() Found child 2529030 in scoreboard slot 1514038808000
+jk2_init() Found child -273094704036127309470945096094999 in scoreboard slot 27309470
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2717261
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state DEFAULT
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state  1514045400000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -3787594914477940893
+jk2_init() Found child tc25667554359875697555905 in scoreboard slot 6675543598756975559
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 27176464
+jk2_init() Found child 5952254310.105.162.138310.105.162.13878329024 in scoreboard slot 10.105.162.138
+jk2_init() Found child 3070387726776797 in scoreboard slot 2677679
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2017-07-06 03:44:24 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319)
+mod_jk child workerEnv in error state -4799092443170733505
+jk2_init() Found child 6215140453460005161494041403917 in scoreboard slot 1514045346000
+jk2_init() Found child -6405258966351519628312408 in scoreboard slot 4052589
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 147585448
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state rdd_42_39
+jk2_init() Found child 88262055 in scoreboard slot io80211Family-063.pcapng
+jk2_init() Found child 3543900 in scoreboard slot 33821183
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -3894803026385053344
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2652750
+jk2_init() Found child 1514040600000##1514041560000##7189##549659##8661##16256##30271693189##549659##8661##16256##29353602 in scoreboard slot 1514041560000##7189##549659##8661##16256##30271693
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -4853183643928986291
+jk2_init() Found child 922730x009c14e02310x009c14e03917102 in scoreboard slot 0x009c14e0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1253515519191706153
+jk2_init() Found child 1121514045123000715115140451230004117071514045123000802 in scoreboard slot 1514045123000
+jk2_init() Found child 2563291 in scoreboard slot 1514038740000##7189##549557##8661##16256##27452491
+jk2_init() Found child 7830025779207201550857825779204 in scoreboard slot 2577920
+jk2_init() Found child 3100510.250.17.22559 in scoreboard slot 10.250.17.225
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -5739126205963920408
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 88482067
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 00991c88
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2261089810991980611
+jk2_init() Found child 1610.251.31.242066677 in scoreboard slot 10.251.31.242
+jk2_init() Found child 0x0b85eee09920x0b85eee0940x0b85eee096370730x0b85eee0220 in scoreboard slot 0x0b85eee0
+jk2_init() Found child 7841365850685201-442497118285656628915 in scoreboard slot -4424971182856566289
+jk2_init() Found child user/root/rand835.5 KB/_temporary/_task_200811101024_0014_m_001394_0 in scoreboard slot 835.5 KB
+jk2_init() Found child -2510x0247ffe942506339244670x0247ffe95 in scoreboard slot 0x0247ffe9
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state mnt/hadoop/dfs/data/current
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -5624558200776510955
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x0021d9c0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514038680000##7154##548920##8661##16256##27400475
+jk2_init() Found child 1579248908079169612865792489080791696128108 in scoreboard slot 5792489080791696128
+jk2_init() Found child -60x7000002a0000000x7000002a000080x7000002a0000714336081087 in scoreboard slot 0x7000002a0000
+jk2_init() Found child 0x00800000 in scoreboard slot 2590120
+jk2_init() Found child rdd_16_3 in scoreboard slot 1104376461837247304
+jk2_init() Found child Package_for_KB31417321691401732169141~31bf3856ad364e35~amd64~~6.1.1.1 in scoreboard slot 173216914
+jk2_init() Found child Package_for_KB2570947~31bf3851514038801000ad315140388010004e35~amd15140388010004~~1514038801000.1.1.0 in scoreboard slot 1514038801000
+jk2_init() Found child -1451814023941164023941204023941310732 in scoreboard slot 4023941
+jk2_init() Found child rdd_42_15 in scoreboard slot 353.9 KB
+jk2_init() Found child 10.251.108850044049297409379.37 in scoreboard slot 8850044049297409379
+jk2_init() Found child -343638242936-47753860998440098905835-47753860998440098903 in scoreboard slot -4775386099844009890
+jk2_init() Found child 2753000 in scoreboard slot -764747190320632607
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state /Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-05_16
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state AirPortBrcm4360_Logs-040.txt
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 131FE7ED
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 10.250.10.213
+jk2_init() Found child 10.10.34.11:259822751000/pjhe/logs/2kSOSP.log:218760+722598227512 in scoreboard slot 259822751
+jk2_init() Found child 8222237992820407037491447018 in scoreboard slot 2040703749
+jk2_init() Found child 157005945066047988923998787 in scoreboard slot 4506604798892399878
+jk2_init() Found child 94182393 in scoreboard slot broadcast_18_piece0
+jk2_init() Found child -4-111134466077969078224597753370705281 in scoreboard slot -1111344660779690782
+jk2_init() Found child 47746563317668017381154282 in scoreboard slot 17668017
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x02100004
+mod_jk child workerEnv in error state 34086757
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -5057534532247887258
+mod_jk child workerEnv in error state 00000002
+jk2_init() Found child 641646158310569454924207394547472950 in scoreboard slot 641646158310569454
+jk2_init() Found child 64514035829506432.3 KB200432.3 KB in scoreboard slot 432.3 KB
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 201706092018_0024_m_000003_1012
+mod_jk child workerEnv in error state 3777389444004341563
+jk2_init() Found child 0x03f89c00 in scoreboard slot 1514038560000##7079##548566##8661##16256##27310473
+jk2_init() Found child 2222931 in scoreboard slot -4657886075935807358
+jk2_init() Found child 00efcbc8 in scoreboard slot 3014995849
+"jk2_init() Found child  ""com.apple.private.alloy.phonecontinuity"" in scoreboard slot 7505828172725463922"
+jk2_init() Found child mnt/hadoop/dfs/data/current/subdir51 in scoreboard slot 3356384155
+jk2_init() Found child 922.0 B in scoreboard slot 2779312
+jk2_init() Found child 000156715970156715970156715970156715970 in scoreboard slot 156715970
+jk2_init() Found child 1514041288976280000##7182889762##542889762652889762##8661##16256##30702889762727 in scoreboard slot 2889762
+jk2_init() Found child user/root/randtxt3/_temporary/_task_200811101024_0007_m_001230_0 in scoreboard slot 4516306414837452219
+jk2_init() Found child 2696431 in scoreboard slot 4069436988023676023
+jk2_init() Found child -1635752698830216319 in scoreboard slot Package_for_KB2928120~31bf3856ad364e35~amd64~~6.1.1.2
+jk2_init() Found child 91262226 in scoreboard slot /home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state /g/g24/germann2/SPaSM_mini/MEAM/r13
+mod_jk child workerEnv in error state 1514040840000##7189##549659##8661##16256##29600053
+jk2_init() Found child 9093049293972551787 in scoreboard slot user/root/rand8/_temporary/_task_200811101024_0015_m_000882_0
+jk2_init() Found child 0x1b10.251.215.1920b860 in scoreboard slot 10.251.215.192
+jk2_init() Found child Package_for_KB2642879615428796111~31bf3428796156ad364e35~amd64~~6.1.1.11 in scoreboard slot 4287961
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0958090
+mod_jk child workerEnv in error state 1514038560000##7105##548582##8661##16256##27319968
+mod_jk child workerEnv in error state -5009274684359267777
+jk2_init() Found child 34053757 in scoreboard slot 4759691
+jk2_init() Found child 318.5 KB in scoreboard slot 154395837
+jk2_init() Found child -2600305321731620092036631113 in scoreboard slot 3217316200
+jk2_init() Found child en0:2607:f140:6000:8:d8d1:d506:6046:43e4- in scoreboard slot -6802153775367591521
+jk2_init() Found child 4499140370762613763 in scoreboard slot 1514042361000
+jk2_init() Found child 1525230 in scoreboard slot 163.0 B
+jk2_init() Found child 3344g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe83485 in scoreboard slot g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe
+jk2_init() Found child 2184387002518438700 in scoreboard slot 1843870
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 147195426
+mod_jk child workerEnv in error state 27179732
+mod_jk child workerEnv in error state -808401720390253471
+jk2_init() Found child Package_for_KB3011-538510507640331478780~31bf3856ad364e35~amd64~~6.1.1.5 in scoreboard slot -5385105076403314787
+jk2_init() Found child 2511325977680 in scoreboard slot 2597768
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -3091906986951252347
+mod_jk child workerEnv in error state 2970472082
+jk2_init() Found child /home/yates//bandwidth.rts in scoreboard slot 74350836
+jk2_init() Found child rdd_42_32 in scoreboard slot 7517964792804498202
+jk2_init() Found child 151404410.251.42.1640000##0##549659##8661##16256##3345010.251.42.1664 in scoreboard slot 10.251.42.16
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2359550
+mod_jk child workerEnv in error state 14.0 KB
+mod_jk child workerEnv in error state 2966871
+jk2_init() Found child 1514038560000##10.251.110.8010.251.110.810.251.110.8##548565##8661##16256##210.251.110.8309969 in scoreboard slot 10.251.110.8
+jk2_init() Found child FF:F2:9F:1809.3 KB:BF:809.3 KBC:00:0D:809.3 KB0:E9:40:93 in scoreboard slot 809.3 KB
+jk2_init() Found child /v2/54fadb412c4e40cdbaed3321782176335e4c35a3321782176e/servers/ae3a1b5d-eec1-45bb-b76a-c53321782176d83b1471f HTTP/1.1 in scoreboard slot 3321782176
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child -2692139674026921399929114017279 in scoreboard slot 2692139
+jk2_init() Found child 1144571173009694325430073009694325218 in scoreboard slot 3009694325
+jk2_init() Found child 2630482 in scoreboard slot 3306751316
+jk2_init() Found child -1484327329947023327329932732997047838 in scoreboard slot 3273299
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -2667669005094349452
+mod_jk child workerEnv in error state 137784887
+"mod_jk child workerEnv in error state 1499133420.914478, reason = DeauthInd:sts:0_rsn:7"
+mod_jk child workerEnv in error state 1990912
+jk2_init() Found child -87822640420160046-6754647973871368247 in scoreboard slot -6754647973871368247
+jk2_init() Found child 7275457888263057111 in scoreboard slot 8492196963764530259
+jk2_init() Found child 2017-07-04 00:25:15 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319) in scoreboard slot 1514042945000
+jk2_init() Found child 9060964400010.251.43.1479016309 in scoreboard slot 10.251.43.147
+jk2_init() Found child 2955519239 in scoreboard slot 1514038440000##7037##548365##8661##15116##27191969
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -2557432794238860908
+mod_jk child workerEnv in error state -5236655516146555545
+jk2_init() Found child 2063252936853409868 in scoreboard slot 2691431
+jk2_init() Found child 157.0 B in scoreboard slot -6464763289185102366
+jk2_init() Found child 0956130.0956130.34.11:9000/pjhe/test/2/_temporary/0/task_201706092018_0025_m_000002 in scoreboard slot 0956130
+"jk2_init() Found child 271 ""com.apple.private.alloy.keychainsync""2 ""com.apple.private.alloy.keychainsync""71 in scoreboard slot  ""com.apple.private.alloy.keychainsync"""
+jk2_init() Found child 54004554 in scoreboard slot 0x7fa823962400
+jk2_init() Found child 171488598135237831029828815 in scoreboard slot 8598135237831029828
+jk2_init() Found child 36433081765129 in scoreboard slot 33081765
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -5613694521084380933
+mod_jk child workerEnv in error state rdd_42_23
+mod_jk child workerEnv in error state 1379455396847512711
+mod_jk child workerEnv in error state 632431728
+jk2_init() Found child broadcast_37_piece0 in scoreboard slot 2762039
+jk2_init() Found child 10.251.203.80 in scoreboard slot 0007932
+jk2_init() Found child 17.241882150.12.88 in scoreboard slot 1882150
+jk2_init() Found child 10.10.34.11:9000/pjhe/logs/2kSOSP.log:145broadcast_194+7292 in scoreboard slot broadcast_19
+jk2_init() Found child -2147212041377545584353423262921472120413775455843214721204137754558421010 in scoreboard slot 2147212041377545584
+jk2_init() Found child 1078000656626632963972660940252261731 in scoreboard slot 6329639726609402522
+jk2_init() Found child 260-1197396592032418307:f140:6000:8:cc53:3e31:ccd8:11d4 in scoreboard slot -1197396592032418307
+"jk2_init() Found child 320453546 ""com.apple.ess"" in scoreboard slot  ""com.apple.ess"""
+jk2_init() Found child 26611514038680000##7126##548880##8661##16256##2739397191 in scoreboard slot 1514038680000##7126##548880##8661##16256##27393971
+jk2_init() Found child 1984120013632054245461508 in scoreboard slot 1200136320542454615
+jk2_init() Found child 273174645239594 in scoreboard slot 45239594
+jk2_init() Found child 3209665763000837850922531821 in scoreboard slot 3209665763
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 10.251.203.4
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 3336463015
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 001064fc
+jk2_init() Found child 28164276 in scoreboard slot 1514044801000
+Directory index forbidden by rule: /var/www/html/
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state  1514045280000
+jk2_init() Found child 10.250.10.144 in scoreboard slot 2017-07-08 05:32:31 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319)
+jk2_init() Found child -mnt/hadoop/dfs/data/current/subdir4341168mnt/hadoop/dfs/data/current/subdir43001mnt/hadoop/dfs/data/current/subdir4339959508 in scoreboard slot mnt/hadoop/dfs/data/current/subdir43
+jk2_init() Found child 1514045232267065330000##0##549659##3226706533661##16256##33990761 in scoreboard slot 3226706533
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -4223625526513535681
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -4433556521525567493
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state mnt/hadoop/dfs/data/current/subdir63
+jk2_init() Found child 8253840061253840086041925384003125384002182538400 in scoreboard slot 2538400
+jk2_init() Found child -7413910507226611400978729 in scoreboard slot 2661140
+jk2_init() Found child d16d444c-56d8-11d5-882d-0080c84-762982068597249045b195 in scoreboard slot -762982068597249045
+jk2_init() Found child 2335150 in scoreboard slot 496376132244907301
+jk2_init() Found child 23 151404252000087 15140425200000 in scoreboard slot  1514042520000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -8948316319329891645
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -5908283405801966540
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 110243312
+jk2_init() Found child ValidateRFC42211.141.93.881CodecId in scoreboard slot 211.141.93.88
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514040662000
+jk2_init() Found child -77278797263375273454863418551797263375273454863010230 in scoreboard slot 797263375273454863
+jk2_init() Found child 2000000 in scoreboard slot -5680441982827916621
+jk2_init() Found child 30user/root/rand/_temporary/_task_200811092030_0001_m_000742_034045340695user/root/rand/_temporary/_task_200811092030_0001_m_000742_08592 in scoreboard slot user/root/rand/_temporary/_task_200811092030_0001_m_000742_0
+jk2_init() Found child 0x7f0fc in scoreboard slot 2598279
+jk2_init() Found child 0010171 in scoreboard slot 4984150784048864430
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state rdd_6_2
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 8968608251219902913
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1512923509505250283
+jk2_init() Found child 53999999995 in scoreboard slot /var/ib/nva/insans/b562f10-ba2d-48ae-bf4a-18666cba4a51_delcolete
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -3265479347842446682
+jk2_init() Found child 7474737521119020x100602220445 in scoreboard slot 0x100602220
+jk2_init() Found child 2972a208479c992888a208479c2031202 in scoreboard slot a208479c
+jk2_init() Found child -30244f29c02595599310244f29c40244f29c200244f29c9 in scoreboard slot 0244f29c
+jk2_init() Found child 2030520 in scoreboard slot -997605125898553536
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state broadcast_9
+mod_jk child workerEnv in error state 30906710
+mod_jk child workerEnv in error state 2458200
+jk2_init() Found child 2104D78137922FFFFF040E1C3052ED61904D78137922FFFFF040E1C3052ED in scoreboard slot 04D78137922FFFFF040E1C3052ED
+jk2_init() Found child  1514046240000 in scoreboard slot 3226336716
+jk2_init() Found child user/root/randtxt/_temporary/_task_200-167409425414155955211092030_0003_m_000675_0 in scoreboard slot -1674094254141559552
+jk2_init() Found child 2582572 in scoreboard slot CCIOReporter-008.xml
+jk2_init() Found child  1514043900000 in scoreboard slot 1514041902000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 65.68.235.27
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 10.251.35.1
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2960071487
+jk2_init() Found child 0x0423510.251.201.204a0 in scoreboard slot 10.251.201.204
+jk2_init() Found child 816.6 KB in scoreboard slot -4430291708660291878
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state /tmp/KSOutOfProcessFetcher.aPWod5QMh1/download
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 7888946331804732825
+jk2_init() Found child 39190074 in scoreboard slot io80211Family-023.pcapng
+jk2_init() Found child 3332556951033048 in scoreboard slot 2556951
+jk2_init() Found child 38/latest/meta-data/block-device-mapping/ami HTTP/1.1203284/latest/meta-data/block-device-mapping/ami HTTP/1.141343/latest/meta-data/block-device-mapping/ami HTTP/1.1284 in scoreboard slot /latest/meta-data/block-device-mapping/ami HTTP/1.1
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state Package_for_KB3040272~31bf3856ad364e35~amd64~~6.1.1.1
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state /latest/meta-data/local-hostname HTTP/1.1
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 9163807899833139121
+jk2_init() Found child 3228273145927314596856 in scoreboard slot 2731459
+jk2_init() Found child 2152620499226204992111024914941 in scoreboard slot 2620499
+jk2_init() Found child /var/log/CoreCapture/com.apple.iokit.IO0245cf3c0211Family/OneStats//[2017-07-07_00 in scoreboard slot 0245cf3c
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1514043540000##7214##549659##8661##16256##32258759
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -8014701913801168461
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 025251fc
+jk2_init() Found child 10.10.34.11:9000/pjhe/logs/2kSOSP.log:182300+29416607292 in scoreboard slot 29416607
+jk2_init() Found child 2553751 in scoreboard slot 27191969
+jk2_init() Found child EQHXZ2985172923M2985172923AV in scoreboard slot 2985172923
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -6995454028444097802
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state com.apple.networkd
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 5905689738251144455
+jk2_init() Found child 10.251.91.84 in scoreboard slot 2060553104861908174
+jk2_init() Found child 20238164 in scoreboard slot 1514041980000##7202##549659##8661##16256##30730227
+jk2_init() Found child 0x7fff7961.37.222.24024000 in scoreboard slot 61.37.222.240
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -2934265883100282310
+mod_jk child workerEnv in error state 2258282
+mod_jk child workerEnv in error state 1514038560000##7092##548573##8661##16256##27313974
+jk2_init() Found child 338661696967130145292909259 in scoreboard slot 169696713
+jk2_init() Found child Package_for_KB257933444553833444553~31bf38533444553ad3334445534e35~amd334445534~~33444553.1.1.1 in scoreboard slot 33444553
+jk2_init() Found child 3730500 in scoreboard slot 65a69b992bed
+jk2_init() Found child 1514038543000 in scoreboard slot 935.0 B
+jk2_init() Found child -658238399974.0 B201802925 in scoreboard slot 974.0 B
+jk2_init() Found child 00f050x00000000004c290e88 in scoreboard slot 0x00000000004c290e
+jk2_init() Found child broadcast_34 in scoreboard slot 7400944190976416273
+jk2_init() Found child 2019353306 in scoreboard slot 27312967
+jk2_init() Found child Package_for_KB3060716~31bf3broadcast_20_piece056ad364e35~amd64~~6.1.1.0 in scoreboard slot broadcast_20_piece0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 46.517498]=AssocFail:sts:2_rsn:0/OneStats//[2017-07-08_02
+mod_jk child workerEnv in error state 157135994
+mod_jk child workerEnv in error state 2289269
+Directory index forbidden by rule: /var/www/html/
+jk2_init() Found child -7369651436133452001 in scoreboard slot 1514038537000
+Directory index forbidden by rule: /var/www/html/
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 00000009
+jk2_init() Found child 1514038751000422946151403875100050755720617 in scoreboard slot 1514038751000
+jk2_init() Found child 5000288 in scoreboard slot 7901008236334420364
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 29600372
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 10.251.194.102
+jk2_init() Found child 2-2073265102548439691322469 in scoreboard slot -2073265102548439691
+jk2_init() Found child \042SCSI-WWID:01000010:6005-0874.3 KBb4-0001-00c6-0006-3000-003d-0000\042 in scoreboard slot 874.3 KB
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2108901
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 4231049049582051919
+jk2_init() Found child 60938583918883500.9 KB1854 in scoreboard slot 500.9 KB
+jk2_init() Found child 0245a63c in scoreboard slot C11107688DF7
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 8854625173826438305
+mod_jk child workerEnv in error state Package_for_KB3021674~31bf3856ad364e35~amd64~~6.1.1.2
+jk2_init() Found child 61079356797794127311472195 in scoreboard slot 27311472
+jk2_init() Found child  1514042280000 in scoreboard slot 54600944
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2669740
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 5348548743130215090
+jk2_init() Found child 329.6 KB in scoreboard slot 25.777317]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-05_14
+jk2_init() Found child user/root/sortrand2/_temporary/_task_200811101024_0003_r_000210_0 in scoreboard slot 4963214289850966664
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2619240
+mod_jk child workerEnv in error state 432.1 KB
+jk2_init() Found child 1514038813000 in scoreboard slot 325981833999429148
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2634540
+jk2_init() Found child 6868050965292724118613251 in scoreboard slot 2724118
+jk2_init() Found child 10.250.14.224 in scoreboard slot 1012239
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 5600017220681756254
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2501280
+jk2_init() Found child 2128110944185mnt/hadoop/dfs/data/current/subdir25090mnt/hadoop/dfs/data/current/subdir259 in scoreboard slot mnt/hadoop/dfs/data/current/subdir25
+jk2_init() Found child 307699229932-4411589101766563890673559 in scoreboard slot -4411589101766563890
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2833471
+mod_jk child workerEnv in error state 10.10.34.11:9000/pjhe/logs/2kSOSP.log:262512+7292
+jk2_init() Found child user/root/randtxt/_temporary/_task_200811092030_0003_m_001358817823749818380945881782374981838094_0 in scoreboard slot 5881782374981838094
+jk2_init() Found child 124.147.151.740217314 in scoreboard slot 24.147.151.74
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 35199020
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -8745453424063341007
+jk2_init() Found child 191.0 B in scoreboard slot 4292382298896622412
+jk2_init() Found child 0x0149a040 in scoreboard slot 40.703152]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-03_21
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state AirPortBrcm4360_Logs-025.txt
+jk2_init() Found child 5210211633161514038669000259832 in scoreboard slot 1514038669000
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 1043487525777829194
+jk2_init() Found child 27312467 in scoreboard slot 10.251.122.38
+jk2_init() Found child 218.62.18.218 in scoreboard slot 02f6668c
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2017-07-06 23:12:15 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319)
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 186257660
+jk2_init() Found child broadcast_32 in scoreboard slot 00001f01
+jk2_init() Found child 157616022 in scoreboard slot 1646909113279517647
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 147205426
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -1082541280306680938
+jk2_init() Found child -451514044380000##7214##549659##8661##16256##33113758885050531514044380000##7214##549659##8661##16256##331137580039622 in scoreboard slot 1514044380000##7214##549659##8661##16256##33113758
+jk2_init() Found child 10.11.21.124 in scoreboard slot 0x022c3fc0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0246a95c
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 102442866
+jk2_init() Found child 2017-07-03 09:32:01 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319) in scoreboard slot 157205998
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x01d7eaa0
+jk2_init() Found child 20118548761606092018_0024_m_000080_1135 in scoreboard slot 185487616
+jk2_init() Found child 1910319264393500537 in scoreboard slot 1686195200514944346
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2735381
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 67108864
+jk2_init() Found child 32./latest/meta-data/hostname HTTP/1.140703]-io/latest/meta-data/hostname HTTP/1.10211Family-056.pcapng in scoreboard slot /latest/meta-data/hostname HTTP/1.1
+jk2_init() Found child 20021f01 in scoreboard slot 27185977
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state user/root/sortrand/_temporary/_task_200811092030_0002_r_000138_0
+mod_jk child workerEnv in error state 1514038440000##7026##548365##8661##14071##27184972
+jk2_init() Found child Package_for_KB2978120~31bf3856ad364e35~amd64~~6.1.1.0 in scoreboard slot -5880591395067598620
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 28609933
+Directory index forbidden by rule: /var/www/html/
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -7007208336332784130
+jk2_init() Found child 5012754171797996275417127541717002754171111 in scoreboard slot 2754171
+Directory index forbidden by rule: /var/www/html/
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6791628131402590260
+jk2_init() Found child 077c91145415210bfx in scoreboard slot Package_for_KB3022777~31bf3856ad364e35~amd64~~6.1.1.0
+jk2_init() Found child /g/g20/valone1/SPaSM-shock/SPaSM_mpi in scoreboard slot 2935462
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -5934436507161953485
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 0x01d7eaa0
+jk2_init() Found child 20118548761606092018_0024_m_000080_1135 in scoreboard slot 185487616
+jk2_init() Found child 1910319264393500537 in scoreboard slot 1686195200514944346
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 2735381
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 67108864
+jk2_init() Found child 32./latest/meta-data/hostname HTTP/1.140703]-io/latest/meta-data/hostname HTTP/1.10211Family-056.pcapng in scoreboard slot /latest/meta-data/hostname HTTP/1.1
+jk2_init() Found child 20021f01 in scoreboard slot 27185977
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state user/root/sortrand/_temporary/_task_200811092030_0002_r_000138_0
+mod_jk child workerEnv in error state 1514038440000##7026##548365##8661##14071##27184972
+jk2_init() Found child Package_for_KB2978120~31bf3856ad364e35~amd64~~6.1.1.0 in scoreboard slot -5880591395067598620
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 28609933
+Directory index forbidden by rule: /var/www/html/
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -7007208336332784130
+jk2_init() Found child 5012754171797996275417127541717002754171111 in scoreboard slot 2754171
+Directory index forbidden by rule: /var/www/html/
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6791628131402590260
+jk2_init() Found child 077c91145415210bfx in scoreboard slot Package_for_KB3022777~31bf3856ad364e35~amd64~~6.1.1.0
+jk2_init() Found child /g/g20/valone1/SPaSM-shock/SPaSM_mpi in scoreboard slot 2935462
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state -5934436507161953485

@@ -1,0 +1,2000 @@
+IOThunderboltSwitch906.0 B(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 5018765878120211503 unplug = 0
+Thermal pressure state: /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4 HTTP/1.1 Memory pressure state: 0
+FA||Url||taskID[2019352994] dealloc
+ARPT: Package_for_KB3118401~31bf3856ad364e35~amd64~~6.1.1.1 AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+ARPT: 1514042100000##7214##549659##8661##16256##30827730 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+mDNS_DeregisterInterface: Frequent transitions for interface 2600908
+"ARPT: 116332728 IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': 0010512 'TimeRemaining': 5955377624764578810"
+ARPT: 1514042880000##7214##549659##8661##16256##31588757 wl0: wl_update_tcpkeep_seq: Original Seq: -26568864070436835 Ack: broadcast_30_piece0 Win size: 4096
+ARPT: -3437475890798229344 ARPT: Wake Reason: Wake on Scan offload
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+"ARPT: 1514040956000 wl0: MDNS: 0 SRV Recs, 0 TXT Recs"
+AppleCamIn::systemWakeCall - messageType = Package_for_KB2809215~31bf3856ad364e35~amd64~~6.1.1.1
+setting hostname to a444c98d
+"startSync hiSyncOption = HiSyncOption{syncAction=2773421, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 2773421 who = 2773421"
+CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7
+-657087263710195616 <<<< CRABS >>>> crabsFlumeHostAvailable: [0x7f961cf08cf0] Byte flume reports host available again.
+"ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error"
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+AirPort: Link Down on awdl0. Reason 1 (Unspecified).
+IOThunderboltSwitch3542967(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = /var/lb/ova/instans/_base/a489868f0c37da93b76227c91bb03908ac0e742cecin unplug = 0
+"PM response took 1514044437000 ms (54, powerd)"
+0x7fe133460660::prePCIWake - power up complete - took 5 us
+"ARPT: -6956067134432991406 wl0: Roamed or switched channel, reason 1514038440000##7023##548365##8661##13786##27182973 bssid 1514038500000##7054##548551##8661##16256##27205469 last RSSI 3549917"
+"ARPT: -5014786445735476734 IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': com.apple.WebKit 'TimeRemaining': 10.2.1.37"
+ARPT: mnt/hadoop/dfs/data/current/subdir14 wl0: wl_update_tcpkeep_seq: Original Seq: Package_for_KB2705219~31bf3856ad364e35~amd64~~6.1.2.0 Ack: 27393971 Win size: 4096
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from -1533191386601391937 to 0007999
+checkInsertStatus stepSum or calorieSum is enough
+"SQM: Queued 0x80004005 file(s) for upload with pattern: C:\Windows\servicing\sqm\*_all.sqm, flags: 0x80004005x6"
+"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)"
+"network_reachability_changed : network is not reachable, netbiosd is shutting down"
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+Thermal pressure state: 2812061 Memory pressure state: 0
+"[instance: 0926709] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU"
+2742469 deny network-outbound /private/var/run/mDNSResponder
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+ARPT: -2345355483730155757 wl0: MDNS: IPV6 Addr: 2576408434603492552
+AirPort: Link Up on 2754779
+Successfully started service 'sparkExecutorActorSystem' on port 55904.
+Sandbox: -6832799704680039005 deny(1) network-outbound /private/var/run/mDNSResponder
+mDNS_DeregisterInterface: Frequent transitions for interface 30730227
+ARPT: 10.251.194.147 AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+AirPort: Link Up on mnt/hadoop/dfs/data/current/subdir57
+AppleCamIn::systemWakeCall - messageType = 2755542
+ARPT: 2270593866672608129 wl0: MDNS: IPV6 Addr: 01faa200
+AppleThunderboltGenericHAL::earlyWake - complete - took 2017-07-05 03:51:50 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319) milliseconds
+host connection <NSXPCConnection:  1514043660000> connection from pid 30298 invalidated
+mDNS_DeregisterInterface: Frequent transitions for interface 3637945019239882309
+AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = 5250287988089075029
+ARPT: 91422236 wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 3061267275 Ack 27288973 Win size -9132218772786220159
+ARPT: 405.4 KB AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+IOThunderboltSwitch2017-07-08 14:29:50 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319)(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 356592557993755459 unplug = 0
+ARPT: 3342443357 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+en0::IO80211Interface::postMessage bssid changed
+ARPT: 0929339 ARPT: Wake Reason: Wake on Scan offload
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+"ciod: Error loading /10.142.110.44: program image too big, 361544528 > 266076160"
+Ending TrustedInstaller initialization.
+Thermal pressure state: 10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000121 Memory pressure state: 10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000121
+critical input interrupt enable...0
+"NETWORK: requery, -253282915050290778, -253282915050290778, -253282915050290778, -253282915050290778, 328, items, fQueryRetries, -253282915050290778, fLastRetryTimestamp, 521177334.4"
+AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+mDNS_RegisterInterface: Frequent transitions for interface -3673133694834392576
+AppleCamIn::wakeEventHandlerThread
+AirPort: Link Up on 0009689
+Thermal pressure state: 868.3 KB Memory pressure state: 0
+ARPT: -1727475099218615100 wl0: setup_keepalive: Local port: 70c1714b-c11b-4c88-b300-239afe1f5ff8 Remote port: 3215406091
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+"nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 2418430 to  ""com.apple.private.alloy.continuity.encryption"""
+ARPT: 1852166454 AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+en0: channel changed to 201706092018_0025_m_000001_1180
+ARPT: -747046374856916711 AQM agg results 0x8001 len hi/lo: 0x0 /var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-08_05 BAbitmap(0-3) 0 0 0 0
+CCFile::captureLog Received Capture notice id: 1321799290531408498 reason = user/root/randtxt2/_temporary/_task_200811101024_0002_m_000809_0
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 33450764 to 3225636676
+Unrecognized attribute value: t:AbchPersonItemType
+AppleCamIn::systemWakeCall - messageType = 2965591803
+Sandbox: 2038610753592374847 deny(1) network-outbound /private/var/run/mDNSResponder
+Sandbox: 7297060562345904886 deny(1) network-outbound /private/var/run/mDNSResponder
+"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=1833093108290599780 Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}"
+"CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data"
+Sandbox: 1514042082000 deny(1) network-outbound /private/var/run/mDNSResponder
+-9017308542351369260 deny network-outbound /private/var/run/mDNSResponder
+IOThunderboltSwitch2717581(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 7929144620252342335 unplug = 0
+00f07a88 : BTLE scanner Powered On
+button report: 0x8002be0
+10.10.34.11:9000/pjhe/logs/2kSOSP.log:65628+7292 deny network-outbound /private/var/run/mDNSResponder
+11:20:51.293 : BTLE discovered device with hash <01faa200 00000000 0000>
+"securityd_xpc_dictionary_handler cloudd[326] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+Location icon should now be in state Package_for_KB3046269~31bf3856ad364e35~amd64~~6.1.1.0
+"ARPT: 1514038644000 wl0: setup_keepalive: interval 63.13.186.196 retry_interval 30, retry_count 10"
+ARPT: -4684475480143348818 wl0: MDNS: IPV4 Addr: 48659790
+IOThunderboltSwitchroot29_local(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 5165786360127153975 unplug = 0
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from /home/yates//broadcast.rts to 1514038560000##7104##548581##8661##16256##27319473
+en0::IO80211Interface::postMessage bssid changed
+"__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! -8130925109202184099  ""com.apple.private.alloy.continuity.activity"""
+ARPT: 10.250.6.223 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+"Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0"
+Sandbox: 2817168 deny(1) network-outbound /private/var/run/mDNSResponder
+"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)"
+Captive: [CNInfoNetworkActive:1748] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive)
+instruction cache parity error corrected
+IOThunderboltSwitch10.251.107.196(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = -4110733372292809607 unplug = 0
+en0::IO80211Interface::postMessage bssid changed
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 8229193803249955061 to 2455752
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+AppleCamIn::systemWakeCall - messageType = Package_for_KB3074543~31bf3856ad364e35~amd64~~6.1.1.0
+11:46:19.229 : Finished generating hashes
+Captive: CNPluginHandler en0: 30905625
+[instance: 6563909003697001371] Deleting instance files /var/lib/nova/instances/6563909003697001371_del
+"PM response took 1514045240000 ms (24144, WeChat)"
+ARPT: 10.250.11.53 ARPT: Wake Reason: Wake on Scan offload
+Unrecognized attribute value: t:AbchPersonItemType
+"PM response took 8384329882986724706 ms (54, powerd)"
+tcp_connection_destination_perform_socket_connect 19.163834]-AirPortBrcm4360_Logs-025.txt connectx to 2534380 failed: [50] Network is down
+AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).
+4967370797322420259 : BTLE scanner Powered On
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+CCXPCService::setStreamEventHandler Registered for notification callback.
+4657719 Failed to read DnsConfig.
+Saw change in network reachability 3871687177
+[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)
+en0: BSSID changed to /latest/meta-data/ HTTP/1.1
+<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>:   DND Enabled: YES
+onReceive action: android.intent.action.SCREEN_ON
+hibernate_page_list_setall(preflight 1) start
+dnssd_clientstub ConnectToServer: connect()-> No of tries: -1278725622357466169
+AppleThunderboltGenericHAL::earlyWake - complete - took -5450224419450631495 milliseconds
+"Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0"
+-[NETClientConnection effectiveBundleID] using process name 6374836031306809839 as bundle ID (this is expected for daemons without bundle ID
+AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).
+instruction address space.........0
+program interrupt: fp cr update.............0
+ARPT: 1514038538000 wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq -6543889749770222531 Ack 317.5 KB Win size 50799912
+icache prefetch depth....................0
+AppleCamIn::systemWakeCall - messageType = 2708206493147801743
+"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=003b005b Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}"
+program interrupt: trap instruction.........0
+[2790279:57:09.235] <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+1514042280000##7214##549659##8661##16256##31005759:31:43.005 : BTLE scanning stopped
+Reading broadcast variable rdd_42_1 took 10 ms
+RTC: Maintenance 2017/7/1 8871064397020855320 sleep 2017/7/1 3084588477220583373
+AppleCamIn::wakeEventHandlerThread
+en0: channel changed to 29437037
+"ARPT: 10.251.26.131 wl0: setup_keepalive: interval 8861349372992394289 retry_interval 30, retry_count 10"
+AirPort: Link Up on ntuser.dat
+7336636250384047238 : BTLE scanner Powered On
+Captive: CNPluginHandler en0: Inactive
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 2185760336
+-75893538967225087 deny network-outbound /private/var/run/mDNSResponder
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 361544528
+RTC: PowerByCalendarDate setting ignored
+Thermal pressure state: -1101091099241306483 Memory pressure state: 0
+Location icon should now be in state 1869228153483717375
+ARPT: -4619809198345103330 wl0: MDNS: IPV6 Addr: mnt/hadoop/dfs/data/current/subdir23
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 901.0 B
+en0: 802.11d country code set to 10.250.15.101
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from Package_for_KB3045685~31bf3856ad364e35~amd64~~6.1.1.0 to user/root/rand7/_temporary/_task_200811101024_0014_m_001348_0
+en0: channel changed to 1514045160000##0##549659##8661##16256##33868758
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+ARPT: 9173199815015538212 wl0: setup_keepalive: Seq: Package_for_KB3067904~31bf3856ad364e35~amd64~~6.1.1.2 Ack: 2640278 Win size: 4096
+AppleCamIn::systemWakeCall - messageType = 1508705816376906895
+IOThunderboltSwitchcalvisitor-10-105-163-9.calvisitor.1918.berkeley.edu(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 6223504502438507199 unplug = 0
+ARPT: 00106298 ARPT: Wake Reason: Wake on Scan offload
+QQ(10018) deny mach-lookup 208.51.151.210
+Thermal pressure state: 2642100 Memory pressure state: 2642100
+RTC: Maintenance 2017/7/1 -227411387418683230 sleep 2017/7/1 10.251.27.63
+[HID] [MT] AppleMultitouchDevice::willTerminate entered
+[BluetoothHIDDeviceController] EventServiceDisconnectedCallback
+PMStats: Hibernate read took 197 ms
+"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=-967145856473901804 Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}"
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+"pages 1471315, wire 491253, act 449877, inact 3, cleaned 0 spec 5, zf 23, throt 0, compr 345876, xpmapped 40000"
+"VDCAssistant:  Found a camera (0x1430000005ac8290) , but was not able to start it up (0x0 -- (os/kern) successful)"
+handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+button report: 0x8002bdf
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 32254765
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 5178539130945718870
+Error returned from iconservicesagent: (null)
+tcp_connection_tls_session_error_callback_imp 1514038677000 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 5781791720343455145
+Error returned from iconservicesagent: (null)
+"SecOSStatusWith error:[-50] Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+WARNING: Type1 font data isn't in the correct format required by the Adobe Type 1 Font Format specification.
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+Error returned from iconservicesagent: (null)
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/RandomAccess.64R.rts
+Error returned from iconservicesagent: (null)
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 10.251.31.5
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000164
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 10.0.2.192
+"2774730://DB05755C-483D-44B7-B93B-ED06E57FF420/CalDAVPrincipal/p11: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 59 seconds.  Ignoring."
+"device_generate_desktop_screenshot: authw 0x7fa823c89600(2000), shield 0x7fa8258cac00(2001)"
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 1345503778930512538
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 5963655886023015963
+"device_generate_desktop_screenshot: authw 0x7fa823c89600(2000), shield 0x7fa8258cac00(2001)"
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: -4312777901444596370
+Error returned from iconservicesagent: (null)
+[Package_for_KB3184471~31bf3856ad364e35~amd64~~6.1.1.1] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].]
+"NETWORK: requery, 0x02d10001 0x02d10001 0x02d10001 0x02d10001 -7553009628768897700 items, fQueryRetries, 0x02d10001 fLastRetryTimestamp, 406835586147450451"
+button report: 0x8002bdf
+ARPT: -1754204887541031211 wl0: wl_update_tcpkeep_seq: Original Seq: rdd_2_4 Ack: Package_for_KB2968294~31bf3856ad364e35~amd64~~6.1.1.1 Win size: 4096
+Previous sleep cause: 5
+AirPort: Link Up on 339.2 KB
+Wake reason: RTC (Alarm)
+AppleThunderboltNHIType-2032740670708110312::prePCIWake - power up complete - took -2032740670708110312 us
+IOThunderboltSwitch0099be48(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 5953577136151423920 unplug = 0
+3961831045048378097 : BTLE scanner Powered On
+network changed: 0072b9f8 DNS! Proxy SMB
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+hibernate_page_list_setall found pageCount 2544081
+[HID] [ATC] [Error] AppleDeviceManagementHIDEventService::start Could not make a string from out connection notification key
+en0: BSSID changed to Package_for_KB2852386~31bf3856ad364e35~amd64~~6.1.1.3
+[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- 0x7000
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 6095704128062577668 to Package_for_KB3042058~31bf3856ad364e35~amd64~~6.1.1.1
+FA||Url||taskID[2019353117] dealloc
+"NETWORK: requery, yarn,curi yarn,curi yarn,curi yarn,curi user/root/rand/_temporary/_task_200811101024_0001_m_000346_0 items, fQueryRetries, yarn,curi fLastRetryTimestamp, 4324191"
+559.0 B | I | VoipWrapper  | DAVEngineImpl.cpp:1400:Close             | close video chat. llFriendUIN = 2600241
+"ARPT: 166171721314010075 IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': 2920430 'TimeRemaining': 1514039400000##7189##549659##8661##16256##28164276"
+Previous sleep cause: 5
+IOThunderboltSwitch1514040780000##7189##549659##8661##16256##29539649(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 154615850 unplug = 0
+ARPT: rdd_11_2 ARPT: Wake Reason: Wake on Scan offload
+"PM response took 159598625 ms (54, powerd)"
+Bluetooth -- LE is supported - Disable LE meta event
+2758210 : Discoverable mode changed to Off
+tcp_connection_handle_connect_conditions_bad Package_for_KB3033929~31bf3856ad364e35~amd64~~6.1.1.1 failed: 3 - No network route
+Captive: CNPluginHandler en0: -5919767990596301121
+ARPT: 30709030 wl0: setup_keepalive: Local IP: 2658655094
+Location icon should now be in state 3336883039
+AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = 4072108
+AirPort: Link Down on awdl0. Reason 1 (Unspecified).
+AppleCamIn::systemWakeCall - messageType = 0fee9c4c
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 0010671c to rdd_42_29
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+Previous sleep cause: 5
+ARPT: 4438674026376140804 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+Unrecognized attribute value: t:AbchPersonItemType
+TBT W (2): 0x0040 [x]
+network changed: DNS* Proxy
+"ARPT: 403.5 KB wl0: MDNS: 0 SRV Recs, 0 TXT Recs"
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+-[NETClientConnection effectiveBundleID] using process name -2425070029518924403 as bundle ID (this is expected for daemons without bundle ID
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+mDNS_RegisterInterface: Frequent transitions for interface 169836721
+AppleThunderboltNHIType2::prePCIWake - power up complete - took -6464892000340112134 us
+QQ(10018) deny mach-lookup 201706092018_0024_m_000161_1156
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 3217556214
+ARPT: broadcast_9_piece0 AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+Location icon should now be in state EscrowSecurityAlert.daily
+Location icon should now be in state 3229296886
+tcp_connection_tls_session_error_callback_imp 5782729236964719738 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+Location icon should now be in state 7577595658377008671
+ASL Sender Statistics
+AppleCamIn::systemWakeCall - messageType = 2349129
+"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=2791021 Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}"
+"0x0000000f 10.250.15.198 [lvl=2] -[KSUpdateEngine updateAllExceptProduct:] KSUpdateEngine updating all installed products, except:'0x00e462c0'."
+Location icon should now be in state Package_for_KB2919469~31bf3856ad364e35~amd64~~6.1.1.0
+FA||Url||taskID[2019353182] dealloc
+"SecOSStatusWith error:[-50] Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+Location icon should now be in state 112099344
+tcp_connection_tls_session_error_callback_imp mnt/hadoop/dfs/data/current/subdir18 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22
+-352190670750948803 <<<< IQ-CA >>>> piqca_setUsePreQueue: rdd_42_7 rejecting report of layer being serviced - IQ has not yet begun to update
+-2852294661215451806 itemasync_SetProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/10.105.160.226/Sources/CoreMedia/user/root/rand5/_temporary/_task_200811101024_0011_m_001408_0/Prototypes/Player/FigPlayer_Async.c line 2306
+KeychainGetICDPStatus: keychain: -25300
+KeychainGetICDPStatus: keychain: -25300
+KeychainGetICDPStatus: keychain: -25300
+host connection <NSXPCConnection: 0x7fddbbb015c0> connection from pid 30298 invalidated
+Error in CoreDragRemoveReceiveHandler: -1856
+ARPT: 10.251.43.210 wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+"ARPT: 27443484 IOPMPowerSource Information: 2584429  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,"
+Thermal pressure state: mnt/hadoop/dfs/data/current/subdir1 Memory pressure state: mnt/hadoop/dfs/data/current/subdir1
+Location icon should now be in state 88462066
+AppleCamIn::systemWakeCall - messageType = IO80211Irftecane
+AppleCamIn::systemWakeCall - messageType = 04DF80A7942FFFFF0C081AE08CD2
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+"ARPT: 7760079751081658559.171617: IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,"
+-7389979618829759505 deny network-outbound /private/var/run/mDNSResponder
+ARPT: 10.251.125.193 wl0: MDNS: IPV6 Addr: broadcast_19_piece0
+AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0
+network changed: 27442097 DNS! Proxy SMB
+floating point instr. enabled.....1
+Captive: CNPluginHandler en0: -5581540863377925517
+CCXPCService::setStreamEventHandler Registered for notification callback.
+"Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0"
+AppleCamIn::systemWakeCall - messageType = Package_for_KB2868116~31bf3856ad364e35~amd64~~6.1.1.1
+in6_unlink_ifa: IPv6 address -2975629975082443857 has no prefix
+network changed: 3020717811556957482 DNS! Proxy SMB
+AppleCamIn::systemWakeCall - messageType = 0xE0000320
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 323887415551221572
+"ARPT: 28482383 wl0: MDNS: 0 SRV Recs, 0 TXT Recs"
+en0: BSSID changed to 2866275036574950116
+en0: channel changed to -8502460962248995911
+"saveHealthDetailData() deviceID = 2726481,clientID=1,id=1"
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 1514043974000
+ARPT: -4654885003331291932 wl0: MDNS: IPV6 Addr: 8466246428293623262
+Thermal pressure state: Package_for_KB3035017~31bf3856ad364e35~amd64~~6.1.1.0 Memory pressure state: 0
+Sandbox: storage343(38418) deny(1) mach-lookup com.apple.networkd
+ARPT: 4331501 wl0: MDNS: IPV6 Addr: home/auselton/bgl/mapfiles/bgl.128mps.f64.map
+AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0
+sigio_handler: sigio_handler_active != 1
+"Registered signal handlers for [TERM, HUP, INT]"
+Thermal pressure state: 3233207109 Memory pressure state: 3233207109
+Bluetooth -- LE is supported - Disable LE meta event
+AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = 2621419
+[BluetoothHIDDeviceController] EventServiceConnectedCallback
+IOThunderboltSwitch4260600(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = storage442 unplug = 0
+AppleCamIn::wakeEventHandlerThread
+"device_generate_lock_screen_screenshot: authw 2646151 0, 1440, 900] shield 3188974579 dev [1440,900]"
+Location icon should now be in state 10.0.0.151
+10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292 27758594 [lvl=2] KSHelperReceiveAllData() KSHelperTool read 1926 bytes from stdin.
+Location icon should now be in state 2158179
+tcp_connection_tls_session_error_callback_imp 2585039 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22
+ASL Sender Statistics
+4834069779372284635 : BTLE scanner Powered Off
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+ARPT: 7736147489540456118 AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+Received Capture Event
+Captive: CNPluginHandler en0: broadcast_0_piece0
+Sandbox: QQ(10018) deny(1) mach-lookup 320.3 KB
+dnssd_clientstub ConnectToServer: connect()-> No of tries: Package_for_KB3006625~31bf3856ad364e35~amd64~~6.1.1.0
+Sandbox: 04CC81389C2FFFFF03071B7048DF deny(1) network-outbound /private/var/run/mDNSResponder
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+-2907776069874917892 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+Location icon should now be in state 6140788650991100539
+IOThunderboltSwitchtc23677(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 1514038750000 unplug = 0
+ARPT: 392.3 KB wl0: MDNS: IPV6 Addr: 0xE0000340
+AppleCamIn::systemWakeCall - messageType = 2729750
+AppleThunderboltNHIType22448291::prePCIWake - power up complete - took 22448291 us
+AirPort: Link Down on awdl0. Reason 1 (Unspecified).
+ASL Sender Statistics
+AppleThunderboltGenericHAL::earlyWake - complete - took 1689772850125323349 milliseconds
+AppleCamIn::systemWakeCall - messageType = -2243784245784480521
+"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=10.251.111.130 Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}"
+Bluetooth -- LE is supported - Disable LE meta event
+AppleCamIn::systemWakeCall - messageType = -8524952715666214329
+tcp_connection_tls_session_error_callback_imp 00106c0c __tcp_connection_tls_session_callback_write_block_invoke.434 error 22
+sigio_handler: sigio_handler_active != 5813923864071791162
+############################## _getSysMsgList
+"Configuration Notice: ASL Module ""2747011"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database."
+"ARPT: -8294986551316947211 IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': 1514045443000 'TimeRemaining': 0x0589f8e0"
+Wake reason: ?
+en0: channel changed to 4539833452749813987
+8711213005689112399 : Scanning mode Contacts Only
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+Thermal pressure state: 2013841 Memory pressure state: 0
+ARPT: 0x027b0006 wl0: setup_keepalive: Seq: -5352085087037370841 Ack: 10.251.215.70 Win size: 4096
+ARPT: 103902949 wl0: setup_keepalive: Local port: 2219090 Remote port: 33885759
+15715490 : BTLE scanning stopped
+3045146353 deny network-outbound /private/var/run/mDNSResponder
+wake time set Package_for_KB3185319~31bf3856ad364e35~amd64~~11.2.1.0 s
+"ARPT: broadcast_16_piece0 wl0: setup_keepalive: interval Package_for_KB2970228~31bf3856ad364e35~amd64~~6.1.1.2 retry_interval 30, retry_count 10"
+Previous sleep cause: 5
+[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.
+"ARPT: 1841609 wl0: setup_keepalive: interval 4280633483 retry_interval 30, retry_count 10"
+ARPT: 10.105.160.237 wl0: setup_keepalive: Seq: 370.4 KB Ack: 176887124 Win size: 4096
+ARPT: 10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000041 AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+AppleCamIn::systemWakeCall - messageType = 2631650
+AppleCamIn::systemWakeCall - messageType = 6514181997629420906
+AppleCamIn::systemWakeCall - messageType = home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm
+-4841792440390267307 : BTLE scanning stopped
+in6_unlink_ifa: IPv6 address 1302893891174665780 has no prefix
+AppleCamIn::wakeEventHandlerThread
+Previous sleep cause: 5
+AppleThunderboltNHIType2::prePCIWake - power up complete - took 8787656642683881295 us
+ARPT: 1514038440000##7034##548365##8661##14831##27189969 wl0: MDNS: IPV6 Addr: -566178736644429906
+"NETWORK: requery, 265.0 B 265.0 B 265.0 B 265.0 B 0244c21c items, fQueryRetries, 265.0 B fLastRetryTimestamp, mnt/hadoop/dfs/data/current/subdir27"
+Location icon should now be in state 0009499
+mDNS_DeregisterInterface: Frequent transitions for interface 2581029
+ARPT: 2630680 wl0: MDNS: IPV6 Addr: 836.4 KB
+0244c20c deny network-outbound /private/var/run/mDNSResponder
+AppleCamIn::systemWakeCall - messageType = 7108974241330205218
+wake time set rdd_42_6 s
+AppleCamIn::wakeEventHandlerThread
+180077306 deny network-outbound /private/var/run/mDNSResponder
+AppleCamIn::systemWakeCall - messageType = 1514041980000##7191##549659##8661##16256##30727229
+RTC: PowerByCalendarDate setting ignored
+en0: channel changed to 3209785770
+ARPT: -6314365697827006048 wl0: wl_update_tcpkeep_seq: Original Seq: 2616961363639592748 Ack: /var/lib/nova/instances/17288ea8-cbf4-4f0e-94fe-853fd2735f29_del Win size: 4096
+AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = 10.250.5.237
+button report: 0x80039B7
+AppleCamIn::handleWakeEvent_gated
+ARPT: 3197115045 wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = 3341883325
+Thermal pressure state: 0008931 Memory pressure state: 0
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 0x057c7e00
+sigio_handler: sigio_handler_active != 812.2 KB
+Thermal pressure state: -1227720343537039835 Memory pressure state: 0
+Sandbox: Package_for_KB2861698~31bf3856ad364e35~amd64~~6.1.1.0 deny(1) network-outbound /private/var/run/mDNSResponder
+"ARPT: p/gb1/stella/UMT2K/1325/umt2k_DD wl0: MDNS: 0 SRV Recs, 0 TXT Recs"
+ARPT: 4841101867353115844 AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+ARPT: 0912890 AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+IOThunderboltSwitch5335498635665743905(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 2824047463816148563 unplug = 0
+AppleThunderboltGenericHAL::earlyWake - complete - took 1514038740000##7187##549455##8661##16256##27449982 milliseconds
+AppleCamIn::systemWakeCall - messageType = 2367840
+Thermal pressure state: 3311811605 Memory pressure state: 3311811605
+ARPT: 2796719 wl0: MDNS: IPV6 Addr: 67.154.58.130
+IOThunderboltSwitch2292249(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 10.251.107.50 unplug = 0
+Package_for_KB3035132~31bf3856ad364e35~amd64~~6.1.1.0 : Purged contact hashes
+AppleCamIn::systemWakeCall - messageType = 009a50f8
+2587070 deny network-outbound /private/var/run/mDNSResponder
+3337823093 deny network-outbound /private/var/run/mDNSResponder
+ARPT: 2311139 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+ARPT: -3897674589140998025 wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 3274968259628929519 Ack Package_for_KB2836943~31bf3856ad364e35~amd64~~6.1.2.0 Win size 11.124183]=AssocFail:sts:2_rsn:0/DriverLogs//[2017-07-07_16
+AppleThunderboltGenericHAL::earlyWake - complete - took 2451930 milliseconds
+1746384029810476219 : BTLE scanning started
+AppleCamIn::systemWakeCall - messageType = 4513772639980123655
+"IOPMrootDomain: idle cancel, state 1"
+AppleThunderboltNHIType2::prePCIWake - power up complete - took 00998588 us
+Thermal pressure state: 9169945668827621796 Memory pressure state: 9169945668827621796
+ARPT: 4212601 AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+rdd_42_38 : Discoverable mode changed to Off
+ARPT: 10.251.75.79 wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 0x02770011 Ack 7430820184211246929 Win size 5115892145206906855
+"NETWORK: requery, 313888672758374538 313888672758374538 313888672758374538 313888672758374538 2723150 items, fQueryRetries, 313888672758374538 fLastRetryTimestamp, 149285545"
+ARPT: 2648559 wl0: setup_keepalive: Local port: Package_for_KB2604115~31bf3856ad364e35~amd64~~6.1.1.3 Remote port: 0867331
+"PM response took 3319352037 ms (54, powerd)"
+ARPT: 2629061 wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq -3693786175267111588 Ack -8225435781013159573 Win size /var/ib/nva/insans/95960536-049b-41f6-9049-05fc479b6a7c_dlcolete
+ARPT: 2613258 ARPT: Wake Reason: Wake on TCP Timeout
+AppleCamIn::systemWakeCall - messageType = root26_domain
+"ARPT: 0013518 IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': Package_for_KB2706045~31bf3856ad364e35~amd64~~6.1.1.0 'TimeRemaining': 2646649"
+AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = 24669022
+ARPT: rdd_42_3 wl0: setup_keepalive: Local port: Package_for_KB3087039~31bf3856ad364e35~amd64~~6.1.1.4 Remote port: -210021574616486609
+IOThunderboltSwitchuser/root/randtxt/_temporary/_task_200811092030_0003_m_001817_0(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 27330470 unplug = 0
+"hibernate_alloc_pages act 173850, inact 24957, anon 891, throt 0, spec 73492, wire 527143, wireinit 39927"
+hibernate_teardown_pmap_structs done: last_valid_compact_indx 0013649
+"ARPT: user/root/rand3/_temporary/_task_200811101024_0005_m_001655_0 wl0: MDNS: 0 SRV Recs, 0 TXT Recs"
+"PM response took /var/ib/nva/insans/fcdd5a9-3ca0-4c82-9336-63b7774f738e_delcolete ms (54, powerd)"
+-3981735565440284420 : Scanning mode Contacts Only
+AppleCamIn::wakeEventHandlerThread
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 00b35148
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 00086000
+Previous sleep cause: 5
+"AirPort: Link Up on 1499460036.519390, reason = AuthFail:sts:5_rsn:0"
+sigio_handler: sigio_handler_active != 2586210
+button report: 0x80039B7
+enabling pid=30298 for plug-in 0x7fa11f9f2290(1.0) 131FE7ED-87F7-471D-8797-C11107688DF7 /System/Library/CoreServices/Weather.app/Contents/PlugIns/0x7fa11f9f2290.appex
+FA||Url||taskID[2019353296] dealloc
+2017-07-03 10:40:42.940 GoogleSoftwareUpdateAgent[33263/0x700000323000] [lvl=2] -[KSOmahaServer updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.
+FA||Url||taskID[2019353306] dealloc
+3315431812 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+5240632065631390212 itemasync_CopyProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/3193364831/Sources/CoreMedia/2386379/Prototypes/Player/FigPlayer_Async.c line 2092
+34397604 itemasync_CopyProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/-9038475355621289969/Sources/CoreMedia//v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/d96a117b-0193-4549-bdcc-63b917273d1d HTTP/1.1/Prototypes/Player/FigPlayer_Async.c line 2092
+2275620 <<<< IQ-CA >>>> piqca_setUsePreQueue: 3552141 rejecting report of layer being serviced - IQ has not yet begun to update
+2569480 <<<< IQ-CA >>>> piqca_setUsePreQueue: Package_for_KB2966583~31bf3856ad364e35~amd64~~6.1.1.2 rejecting report of layer being serviced - IQ has not yet begun to update
+Package_for_KB2698365~31bf3856ad364e35~amd64~~6.1.1.2 <<<< IQ-CA >>>> piqca_setUsePreQueue: 127e769a-4fe6-4548-93b1-513ac51e0452 rejecting report of layer being serviced - IQ has not yet begun to update
+-5668584889663038916 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+3300650967 itemasync_SetProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/901963876338651405/Sources/CoreMedia/1514039590000/Prototypes/Player/FigPlayer_Async.c line 2306
+3173223679 itemasync_SetProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/10.251.126.22/Sources/CoreMedia/2543209/Prototypes/Player/FigPlayer_Async.c line 2306
+1819348 itemasync_SetProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/0x06a72120/Sources/CoreMedia/-8347949825960763812/Prototypes/Player/FigPlayer_Async.c line 2306
+412956398445037066 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+1001rts <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+0245ce0c itemasync_CopyProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/28163940/Sources/CoreMedia/Package_for_KB3138378~31bf3856ad364e35~amd64~~6.1.1.0/Prototypes/Player/FigPlayer_Async.c line 2092
+-8083036675630459841 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+7891129742741763034 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+-7492294065771709299 itemasync_CopyProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/0x1005110b0/Sources/CoreMedia/521144227/Prototypes/Player/FigPlayer_Async.c line 2092
+27445983 itemasync_SetProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/6406847509870023726/Sources/CoreMedia/403.8 KB/Prototypes/Player/FigPlayer_Async.c line 2306
+wake time set 4289704001 s
+"Opened file /var/log/SleepWakeStacks.bin, size 172032, extents 1, maxio 2000000 ssd 1"
+"NETWORK: no response from server, reachability, 2, queryRetries, 33884757"
+"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)"
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+"Unexpected payload found for message 9, dataLen 0"
+CCFile::captureLog
+en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161
+Unrecognized attribute value: t:AbchPersonItemType
+AppleCamIn::systemWakeCall - messageType = 30546173
+ARPT: broadcast_20 AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+AppleCamIn::systemWakeCall - messageType = 748.0 B
+ARPT: 634368144 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+Internal name did not resolve to internal address!
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 2610891
+Service exited with abnormal code: 1
+Central manager is not powered on
+AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = 1514044440000##7214##549659##8661##16256##33169760
+setting hostname to 70980361971054326
+CCFile::captureLogRun Skipping current file Dir file 2494071 Current File /var/lib/nova/instances/b562ef10-ba2d-48ae-bf4a-18666cba4a51_del
+__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! -667933171485085225 -9120005470237070778
+ARPT: 1514039520000 framerdy 0x0 bmccmd 3363894584 framecnt 1024
+tcp_connection_handle_connect_conditions_bad 2491229 failed: 3 - No network route
+tcp_connection_handle_connect_conditions_bad 0x0e0272e0 failed: 3 - No network route
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 00106168 to 3310261517
+"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)"
+5905933788014151041 deny network-outbound /private/var/run/mDNSResponder
+<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>:   DND Enabled: 0x12af93a0
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 27447483 to 3300820977
+2508061 : Starting AirDrop server for user 501 on wake
+Sandbox: 5971534893446541111 deny(1) network-outbound /private/var/run/mDNSResponder
+AppleCamIn::systemWakeCall - messageType = -8026264173633579073
+ARPT: Package_for_KB2868626~31bf3856ad364e35~amd64~~6.1.1.2 wl0: setup_keepalive: Remote IP: -1335063409877429524
+ARPT: 2656732 wl0: wl_update_tcpkeep_seq: Original Seq: 29425533 Ack: 27901852 Win size: 4096
+"RTC: Maintenance 2017/7/3 21:47:58, sleep 2017/7/3 21:35:20"
+Sandbox: 2585869 deny(1) network-outbound /private/var/run/mDNSResponder
+ARPT: 27313468 wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+ARPT: 2575240 AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+ARPT: Package_for_KB3135983~31bf3856ad364e35~amd64~~6.1.1.0 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+Bluetooth -- LE is supported - Disable LE meta event
+"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=Package_for_KB3020370~31bf3856ad364e35~amd64~~6.1.1.2 Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}"
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 2585871
+AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0
+3325040593 deny network-outbound /private/var/run/mDNSResponder
+ARPT: 1514038740000##7179##549200##8661##16256##27446483 wl0: setup_keepalive: Remote IP: root1_local
+AppleCamIn::wakeEventHandlerThread
+ARPT: 6080034782037237879 AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+-[NETClientConnection effectiveBundleID] using process name 8291708741145026623 as bundle ID (this is expected for daemons without bundle ID
+Captive: [CNInfoNetworkActive:1748] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive)
+network changed: v4(en0:27288471) v6(en0!:2607:f140:6000:8:f1dc:a608:863:19ad) DNS Proxy SMB
+Received Capture Event
+CCFile::captureLog Received Capture notice id: Package_for_KB3156019~31bf3856ad364e35~amd64~~6.1.1.1 reason = 6108023147232847992
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+en0: channel changed to 1919560
+Sandbox: 4863571548336254624 deny(1) network-outbound /private/var/run/mDNSResponder
+"CCLogTap::profileRemoved, Owner: -3681974396824196300, Name: 405.1 KB"
+"<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of d1ce4c5a bytes @ 1514043660000##88742082214##549659##8661##16256##32403526 took 3887420824.2 KB to complete, 88742082 reads >= 3048226529 sec."
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+AppleCamIn::handleWakeEvent_gated
+CCFile::captureLogRun Skipping current file Dir file 2926539569 Current File 2808621
+CCFile::captureLogRun Skipping current file Dir file 201706092018_0024_m_000000_970 Current File 8655748951361667770
+CCFile::captureLogRun Skipping current file Dir file -6292499669518281202 Current File 0x123b6ca0
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+CCFile::captureLog
+CCFile::captureLogRun Skipping current file Dir file 2708549 Current File 27396969
+AppleCamIn::wakeEventHandlerThread
+network changed: 27446483 DNS- Proxy-
+ARPT: 9131004320470011870 AQM agg results 0x8001 len hi/lo: 0x0 mnt/hadoop/dfs/data/current/subdir20 BAbitmap(0-3) 0 0 0 0
+CCFile::captureLogRun Skipping current file Dir file 3198345115 Current File /var/ib/nva/insans/af5f7392-f7d4-4298-b647-c98924c64aa1_dlcolete
+CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+CCFile::captureLog
+ARPT: 682834.192587: wlc_dump_aggfifo:
+CCFile::captureLogRun Skipping current file Dir file 3167883373 Current File 10.251.123.195
+CCFile::captureLog
+ARPT: 5574898547439146021 AQM agg results 0x8001 len hi/lo: 0x0 853.7 KB BAbitmap(0-3) 0 0 0 0
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from -2656323385657954732 to 11037638
+"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)"
+Wake reason: ?
+AppleThunderboltGenericHAL::earlyWake - complete - took 177107136 milliseconds
+AirPort: Link Up on /var/lib/nova/instances/127e769a-4fe6-4548-93b1-513ac51e0452_del
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 1146111 to -1755309160709170318
+CCFile::captureLogRun Skipping current file Dir file 64:d9:89:6b:b5:33 Current File  1514038440000
+4755566011267050000 <<<< CRABS >>>> crabsFlumeHostUnavailable: [0x7f961cf08cf0] Byte flume reports host unavailable.
+409.0 KB deny network-outbound /private/var/run/mDNSResponder
+ARPT: 3235988328669699941 AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 10.251.199.150 to 2953550760670423417
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+AppleCamIn::handleWakeEvent_gated
+ARPT: 682977.654133: wlc_dump_aggfifo:
+doSaveChannels@286: Will write to: user/root/rand/_temporary/_task_200811101024_0001_m_000206_0 - 155245886
+Captive: CNPluginHandler en0: 8155177385081669900
+Location icon should now be in state 0965390
+AppleCamIn::systemWakeCall - messageType = -1704027189958470814
+tcp_connection_destination_perform_socket_connect 21152 connectx to 1514038999000:8080@0 failed: [51] Network is unreachable
+tcp_connection_handle_connect_conditions_bad 7603278760520020831 failed: 3 - No network route
+Received Capture Event
+CCFile::captureLogRun Skipping current file Dir file 2472031 Current File 2690120
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+CCFile::captureLog
+ARPT: -6555060221128795168792879516879060529 framerdy 0x0 bmccmd 2879516879 framecnt 1024
+Thermal pressure state: Package_for_KB2900986~31bf3856ad364e35~amd64~~6.1.1.1 Memory pressure state: Package_for_KB2900986~31bf3856ad364e35~amd64~~6.1.1.1
+button report: 0x8002bdf
+CCFile::captureLogRun Skipping current file Dir file 1902869 Current File -5215520749152394224
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+Captive: CNPluginHandler en0: 2205780
+__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! 2777061 Package_for_KB3101722~31bf3856ad364e35~amd64~~6.1.1.0
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 147337410 to 10.251.110.68
+CCFile::captureLog
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+ARPT: 28136544 AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+ARPT: 8249475180346179102 ARPT: Wake Reason: Wake on Scan offload
+"ARPT: 2555740 wl0: MDNS: 0 SRV Recs, 0 TXT Recs"
+hibernate image path: /var/vm/sleepimage
+hibernate_flush_memory: buffer_cache_gc freed up 407.4 KB wired pages
+"hibernate_machine_init pagesDone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 Mb/s, comp bytes: 47288320 time: 32 ms 1369 Mb/s, crypt bytes: 158441472 time: 38 ms 3973 Mb/s"
+Thermal pressure state: 4992622607400168655 Memory pressure state: 0
+ASSERTION FAILED: dvcAddrRef != ((void *)0) -[DriverServices getDeviceAddress:] line: 2789
+AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = 3301471014
+hibernate_machine_init reading
+assertion failed: 15G1510: -409558225151784282 + 38574 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90
+hibernate_flush_memory: buffer_cache_gc freed up -7460532841070848624 wired pages
+Thermal pressure state: 0x7c9d19110dfc Memory pressure state: 0x7c9d19110dfc
+assertion failed: 15G1510: /var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-07_12 + 38574 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90
+AirPort: Link Up on -8562334328670278932
+Thermal pressure state: rdd_11_0 Memory pressure state: rdd_11_0
+jemmytest
+hibernate_setup(0) took 29410120 ms
+**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- 0x5fd0 -- 0x9a00 -- 0x1bd2b700 ****
+**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- Connected to the transport successfully -- 0x5fd0 -- 0x9a00 -- 0x6800 ****
+hciControllerOnline; HID devices? 0
+INIT -- Host controller is published
+"polled file major 1, minor 0, blocksize 4096, pollers 5"
+Unrecognized attribute value: t:AbchPersonItemType
+"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=4284688617983009262 Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}"
+BuildActDeviceEntry exit
+__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! -8214089520956286311 5813361416484537967
+AppleCamIn::handleWakeEvent_gated
+mDNS_DeregisterInterface: Frequent transitions for interface 33041763
+"ARPT: 683604.474196: IOPMPowerSource Information: onSleep,  SleepType: Standby,  'ExternalConnected': No, 'TimeRemaining': 578,"
+ARPT: 201706092018_0024_m_000041_1126 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+ARPT: 112.90.78.169 wl0: setup_keepalive: Remote IP: 0x11f82720
+Wake reason: ARPT (Network)
+AppleActuatorHIDEventDriver: message service is terminated
+ASSERTION FAILED: dvcAddrRef != ((void *)0) -[DriverServices getDeviceAddress:] line: 2789
+8189008752707332487 <<<< CRABS >>>> crabsFlumeHostUnavailable: [0x7f961cf08cf0] Byte flume reports host unavailable.
+en0: BSSID changed to -7017553867379051457
+button report: 0x80039B7
+CCFile::captureLog Received Capture notice id: mnt/hadoop/dfs/data/current/subdir32 reason = -1387034299358896632
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+CCFile::captureLogRun Skipping current file Dir file 110453324 Current File Package_for_KB3161561~31bf3856ad364e35~amd64~~6.1.1.1
+payload Data 07 00
+[HID] [ATC] [Error] AppleDeviceManagementHIDEventService::start Could not make a string from out connection notification key
+AppleCamIn::systemWakeCall - messageType = 32888202
+en0: 802.11d country code set to 2641821
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 2896700 to 1514040720000##7189##549659##8661##16256##29425847
+"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)"
+WARNING: hibernate_page_list_setall skipped 3318864983801406136 xpmapped pages
+"hibernate_teardown: wired_pages 544767, free_pages 3578340, active_pages 40000, inactive_pages 0, speculative_pages 0, cleaned_pages 0, compressor_pages 112"
+[BluetoothHIDDeviceController] EventServiceConnectedCallback
+**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- 0x5fd0 -- 0x9a00 -- 0x008bdeb0 ****
+ARPT: 29-24517699291231963592-245176992912319635999904 framerdy 0x0 bmccmd -2451769929123196359 framecnt 1024
+ARPT: 0x0148b640 AQM agg results 0x8001 len hi/lo: 0x0 broadcast_34_piece0 BAbitmap(0-3) 0 0 0 0
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+broadcast_18 FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/20458177/Sources/CoreMedia/AppleThunderboltNHIType2/Prototypes/LegibleOutput/FigAgglomerator.c line 92
+tcp_connection_handle_connect_conditions_bad 1514038440000##7017##548365##8661##13216##27179417 failed: 3 - No network route
+Received Capture Event
+"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)"
+RTC: PowerByCalendarDate setting ignored
+Received Capture Event
+button report: 0x8002be0
+hibernate_rebuild_pmap_structs done: last_valid_compact_indx 285862
+BuildActDeviceEntry enter
+Captive: CNPluginHandler en0: -3888538223380979891
+IOThunderboltSwitch2469411(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 2605171 unplug = 0
+en0: channel changed to -8277873627721528374
+(ImportBailout.Error:1331) Asked to exit for Diskarb
+0246db5c <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+jemmytest
+FA||Url||taskID[2019353376] dealloc
+1514038620000##7113##548750##8661##16256##27326969 FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/2029319/Sources/CoreMedia/1514038560000##7083##548568##8661##16256##27311472/Prototypes/LegibleOutput/FigAgglomerator.c line 92
+-2012430628930443984 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+KeychainGetICDPStatus: status: off
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+4275933214 FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/1514039112000/Sources/CoreMedia/1777689952069868672/Prototypes/LegibleOutput/FigAgglomerator.c line 92
+sigio_handler: sigio_handler_active != 27204469
+tcp_connection_handle_connect_conditions_bad Package_for_KB3030377~31bf3856ad364e35~amd64~~6.1.1.2 failed: 3 - No network route
+tcp_connection_handle_connect_conditions_bad 2607:f140:6000:8:4de9:a101:c96c:f28b failed: 3 - No network route
+CCFile::captureLog
+en0: channel changed to 0009611
+Sandbox: QQ(10018) deny(1) mach-lookup /var/lib/nova/instances/d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c_del
+__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! -8023826090828946372 2475102
+Sandbox: 169016674 deny(1) network-outbound /private/var/run/mDNSResponder
+Location icon should now be in state 10.10.34.11:9000/pjhe/logs/2kSOSP.log:0+7292
+1004288 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+jemmytest
+"NETWORK: requery, 0, 0, 0, 0, 2576840 items, fQueryRetries, -8050165297538775793 fLastRetryTimestamp, -8162657657061473938"
+Location icon should now be in state -7724713468912166542
+FA||Url||taskID[2019353410] dealloc
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 2.840.113635.100.6.1.13
+2762442 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+Location icon should now be in state com.apple.Addres
+KeychainGetICDPStatus: status: off
+ARPT: 404.8 KB AirPort_Brcm43xx::powerChange: System Sleep
+tcp_connection_tls_session_error_callback_imp 2210 tcp_connection_tls_session_handle_read_error.790 error 60
+[1514042022000:28:42.167] (Fig) signalled err=-12871
+uploadStaticsToDB failed message=true
+ARPT: /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+"CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data"
+AppleCamIn::handleWakeEvent_gated
+uploadStaticsToDB() onResult  type = 4 obj=true
+[user/root/rand4/_temporary/_task_200811101024_0009_m_000176_0/120312:WARNING:dns_config_service_posix.cc(306)] Failed to read DnsConfig.
+Checking iCDP status for DSID 874161398 (checkWithServer=0)
+insertHiHealthData() checkAppType  009829b8 appID = 1
+Thermal pressure state: 3222456494 Memory pressure state: 3222456494
+ARPT: 10.251.214.175 AirPort_Brcm43xx::powerChange: System Sleep
+ARPT: Package_for_KB3127220~31bf3856ad364e35~amd64~~6.1.1.0 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+CGXDisplayDidWakeNotification [771797848593539]: posting kCGSDisplayDidWake
+ARPT: -8915123233040672605 wl0: setup_keepalive: Remote IP: 3905759687686730625
+ARPT: 49059813 AirPort_Brcm43xx::powerChange: System Sleep
+ARPT: 2735779 wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+network changed: 218.75.106.250(en0:10.105.160.237) v6(en0!:2607:f140:6000:8:f1dc:a608:863:19ad) DNS Proxy SMB
+"mapred.tip.id is deprecated. Instead, use mapreduce.task.id"
+AppleThunderboltNHIType2::prePCIWake - power up complete - took -7948158002985968470 us
+Temperature (41C) exceeds warning threshold
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+Thermal pressure state: 9121519145462575118 Memory pressure state: 9121519145462575118
+Previous sleep cause: 5
+AppleThunderboltGenericHAL::earlyWake - complete - took 1514038540000 milliseconds
+############################## _getSysMsgList
+[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Instance spawned successfully.
+ARPT: 2517381 wl0: MDNS: IPV6 Addr: -8145226289286457574
+Previous sleep cause: 5
+store operation.............................1
+ARPT: 0x01f60001 wl0: setup_keepalive: Remote IP: 149225542
+KeychainGetICDPStatus: keychain: -25300
+**** [IOBluetoothHostControllerUSBTransport][start] -- completed -- result = TRUE -- 0x2800 ****
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 0245cdec
+RTC: PowerByCalendarDate setting ignored
+[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] VM Paused (Lifecycle Event)
+ARPT: 218.76.139.20 ARPT: Wake Reason: Wake on TCP Timeout
+[10.10.34.11:9000/pjhe/logs/2kSOSP.log:233344+7292:29:04.085] <<<< CRABS >>>> crabsWaitForLoad: [0x7fbc7ac683a0] Wait time out - -110.10.34.11:9000/pjhe/logs/2kSOSP.log:233344+72921 (msRequestTimeout -1)
+ARPT: 1447281351164457761 wl0: setup_keepalive: Local IP: 4953768
+AppleCamIn::systemWakeCall - messageType = \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\DEFAULT
+Sandbox: 4632283243694149854 deny(1) network-outbound /private/var/run/mDNSResponder
+Thermal pressure state: 0x7f8de0c0dc70 Memory pressure state: 0
+"SecOSStatusWith error:[-50] Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+"PM response took Package_for_KB2761217~31bf3856ad364e35~amd64~~6.1.1.0 ms (54, powerd)"
+"2700670 ""POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1"" status: 200 len: 380 time: 0.0901439"
+Bluetooth -- LE is supported - Disable LE meta event
+AppleCamIn::systemWakeCall - messageType = 2730091
+AppleThunderboltNHIType2::prePCIWake - power up complete - took -7623732795385061487 us
+en0: channel changed to user/root/rand6/_temporary/_task_200811101024_0013_m_002009_1
+Thermal pressure state: 593.1 KB Memory pressure state: 593.1 KB
+Sandbox: 520841203 deny(1) network-outbound /private/var/run/mDNSResponder
+ARPT: 70582765 wl0: MDNS: IPV6 Addr: 27395969
+ARPT: 2906384231 AirPort_Brcm43xx::powerChange: System Sleep
+ARPT: 0246dbec AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+ARPT: 1407935810673971357 AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+AppleActuatorDeviceUserClient::stop Entered
+############################## _getSysMsgList
+Sandbox: 27444985 deny(1) network-outbound /private/var/run/mDNSResponder
+AppleCamIn::systemWakeCall - messageType = 165596478
+"NFS Mount failed on bglio0x025c0009, slept 15 seconds, retrying (1)"
+AppleThunderboltNHIType4614530673206341566::prePCIWake - power up complete - took 4614530673206341566 us
+Bluetooth -- LE is supported - Disable LE meta event
+Thermal pressure state: 1514044500000##7214##549659##8661##16256##33217764 Memory pressure state: 0
+total of 130874492 ddr error(s) detected and corrected over 871308744922 seconds
+"Google Chrome He[-7048088870427586736] triggered unnest of range 0x7fff93c00000->0x7fff93e00000 of DYLD shared region in VM map 0x77c9114550458e7b. While not abnormal for debuggers, this increases system memory footprint until the target exits."
+IOThunderboltSwitch73389299186801686(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 024696cc unplug = 0
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+ARPT: 1216611589160220108 wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq broadcast_4 Ack 6828263829429857572 Win size 1514045177000
+ARPT: 2426131 ARPT: Wake Reason: Wake on Scan offload
+"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)"
+ARPT: 369.3 KB wl0: setup_keepalive: Local IP: 6988110707613820142
+"Arranged view frame: {{27189469, 27189469}, {2627189469, 877}}"
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 3230196937
+ServerFileSystem: An ServerFileSystem domain panic has occurred on storage442
+ARPT: 10.1 KB wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2769511 Ack 1514038680000##7117##548865##8661##16256##27392475 Win size 2244903517044280975
+AppleCamIn::systemWakeCall - messageType = 10.10.34.11:9000/pjhe/logs/2kSOSP.log:175008+7292
+AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0
+AppleThunderboltGenericHAL::earlyWake - complete - took 1856170 milliseconds
+total of 12 ddr error(s) detected and corrected
+"ARPT: 7061131805920430446.223664: IOPMPowerSource Information: onWake,  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,"
+Thermal pressure state: /var/log/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/DriverLogs//[2017-07-03_16 Memory pressure state: /var/log/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/DriverLogs//[2017-07-03_16
+"ARPT: -6618090096819679591 IOPMPowerSource Information: mnt/hadoop/dfs/data/current/subdir33  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,"
+IOThunderboltSwitch-8703611999267892995(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 2596920 unplug = 0
+network changed: v4(en0-:Package_for_KB3177186~31bf3856ad364e35~amd64~~6.1.1.1) v6(en0-:2607:f140:6000:8:c6b3:1ff:fecd:467f) DNS- Proxy-
+AirPort: Link Up on 5183831565578080242
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 10.250.11.85
+Sandbox: 6465095458973828118 deny(1) network-outbound /private/var/run/mDNSResponder
+ARPT: 3192394775 wl0: setup_keepalive: Local port: 10.251.194.245 Remote port: 7078766226078740026
+"PM response took -3573208405519699182 ms (54, powerd)"
+setting hostname to broadcast_3
+tcp_connection_handle_connect_conditions_bad /Library/Logs/CrashReporter/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/[2017-07-07_16 failed: 3 - No network route
+en0: channel changed to 3255241453
+en0::IO80211Interface::postMessage bssid changed
+[instance: 3769510] Took 1.02 seconds to destroy the instance on the hypervisor.
+AppleThunderboltGenericHAL::earlyWake - complete - took 0008519 milliseconds
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+en0::IO80211Interface::postMessage bssid changed
+<IMMacNotificationCenterManager: 0x7fdcc9d16380>:    NC Disabled: NO
+dnssd_clientstub ConnectToServer: connect()-> No of tries:  1514043540000
+Sandbox: 25.108710]-io80211Family-007.pcapng(352) deny(1) ipc-posix-shm-read-data CFPBS:186A7:
+AppleCamIn::wakeEventHandlerThread
+en0: BSSID changed to 2017-07-07 16:09:36 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319)
+network changed: DNS*
+en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+(ImportBailout.Error:1331) Asked to exit for Diskarb
+"NETWORK: requery, 0, 0, 0, 0, 3205955551 items, fQueryRetries, 0x1efc7020 fLastRetryTimestamp, 3764836840384130740"
+en0: BSSID changed to 1514039059000
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 2019353593 to 2607:f140:400:a01b:c6b3:1ff:fecd:467f
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+"No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending."
+Checking iCDP status for DSID -4269939382058952254 (checkWithServer=0)
+ARPT: 3542047035353248258 wl0: MDNS: IPV6 Addr: 4330492872922862223
+ARPT: 2722960 AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+en0: 802.11d country code set to -4052810234606327693
+en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161
+[HID] [MT] AppleActuatorHIDEventDriver::start entered
+"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] vcpu limit not specified, defaulting to unlimited"
+Received Capture Event
+ARPT: 1514039098000 wl0: setup_keepalive: Seq: 1514038740000##7189##549608##8661##16256##27457484 Ack: 8bfa0003 Win size: 4096
+AirPort: Link Down on awdl0. Reason 1 (Unspecified).
+AppleCamIn::handleWakeEvent_gated
+1920931690498309324:07:29.673 : Purged contact hashes
+tcp_connection_handle_connect_conditions_bad 0007689 failed: 3 - No network route
+Captive: CNPluginHandler en0: 1514041560000##7189##549659##8661##16256##30315546
+dnssd_clientstub ConnectToServer: connect()-> No of tries: -2794533871450434534
+ciod: generated -6811519872198278365 core files for program /g/g24/germann2/SPaSM_mini/MEAM/r13
+AirPort: Link Down on awdl0. Reason 1 (Unspecified).
+en0: channel changed to mnt/hadoop/dfs/data/current/subdir16
+ServerFileSystem: ServerFileSystem domain root26_local is full
+tcp_connection_handle_connect_conditions_bad 1514045340000##0##549659##8661##16256##34086757 failed: 3 - No network route
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+en0: BSSID changed to 2607:f140:6000:8:3065:65eb:758e:972a
+Sandbox: QQ(10018) deny(1) mach-lookup -921231092429668424
+network changed: rdd_42_5 DNS! Proxy SMB
+FA||Url||taskID[2019353444] dealloc
+AppleCamIn::wakeEventHandlerThread
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 955083461510572332
+Component State Change: Component -7584542530081657301 is in the unavailable state (HWID=2608)
+<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>:   DND Enabled: NO
+2017-07-04 09:42:58.121 ksfetch[34604/0x7fff79824000] [lvl=2] main() ksfetch done fetching.
+ARPT: 201706092018_0024_m_000120_1145 wl0: setup_keepalive: Seq: 2019352994 Ack: /g/g0/spelce1/Linpack_SWL Win size: 4096
+ARPT: /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1 AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+ARPT: 077c9114551b23abax wl0: MDNS: IPV6 Addr: -7238035741206373733
+"ARPT: -9001895211102825241 wl0: MDNS: 0 SRV Recs, 0 TXT Recs"
+en0: 802.11d country code set to -664656559337730574
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+Base or swap file too young to remove: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+network changed: v4(en0!:0245a09c) DNS+ Proxy+ SMB
+hibernate_rebuild_pmap_structs done: last_valid_compact_indx 285862
+10.251.30.85 parser:didStartElement:namespaceURI:qualifiedName:attributes:] Type not found in EWSItemType for ExchangePersonIdGuid (t:ExchangePersonIdGuid)
+mDNS_RegisterInterface: Frequent transitions for interface 6516880861186877710
+2361510 <<<< CRABS >>>> crabsFlumeHostAvailable: [0x7f961cf08cf0] Byte flume reports host available again.
+"CCFile::captureLog Received Capture notice id: 1499518522.558304, reason = AssocFail:sts:2_rsn:0"
+############################## _getSysMsgList
+"Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0"
+tcp_connection_tls_session_error_callback_imp -1956140031907143783 tcp_connection_tls_session_handle_read_error.790 error 60
+Unrecognized attribute value: t:AbchPersonItemType
+AppleThunderboltGenericHAL::earlyWake - complete - took 1514044595000 milliseconds
+"SecOSStatusWith error:[3958940914408609637] Error Domain=NSOSStatusErrorDomain Code=3958940914408609637 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+"hibernate_machine_init: state  1514039880000, image pages 446175, sum was d4e6c0b 1514039880000, imageSize 0x 1514039880000aea6000, image1Size 0x 151403988000015a4000, conflictCount 5848, nextFree 5887"
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 1514038676000
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 3311291576
+Sandbox: -1733803097614960767 deny(1) network-outbound /private/var/run/mDNSResponder
+ARPT: en0:10.105.162.105v6(en0:en0:2607:f140:6000:8:c6b3:1ff:fecd:467f)- - wl0: MDNS: IPV6 Addr: en0:2607:f140:6000:8:c6b3:1ff:fecd:467f
+AppleCamIn::systemWakeCall - messageType = B C X+ X- Y+ Y- Z+ Z-
+AppleThunderboltGenericHAL::earlyWake - complete - took 2672291 milliseconds
+"com.apple.CacheDelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 7615 seconds.  Ignoring."
+program interrupt: unimplemented operation..0
+ARPT: 8772892713521115147 AirPort_Brcm43xx::powerChange: System Sleep
+en0: channel changed to /home/greeno/raptor.new.dev.3d.BGL.CXX_XL.MPI.ex
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 27394469
+-6695620358347030339 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).
+"polled file major -4651707530079874243, minor 0, blocksize 4096, pollers 5"
+"checkFirstSyncByType no such data in db ,type is Package_for_KB2931356~31bf3856ad364e35~amd64~~6.1.1.0 deviceCode is 0"
+AppleCamIn::wakeEventHandlerThread
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+CCFile::captureLog Received Capture notice id: -1750007847201154657 reason = user/root/rand3/_temporary/_task_200811101024_0005_m_001091_0
+CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7
+[instance: 1514038671000] Took 19.47 seconds to spawn the instance on the hypervisor.
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+CCFile::captureLogRun Skipping current file Dir file mnt/hadoop/dfs/data/current/subdir21 Current File -9110604833387121363
+CCFile::captureLogRun Skipping current file Dir file e3871ffd Current File -1485109068671160157
+ARPT: 1514038440000##7047##548365##8661##15876##27197972 wl0: MDNS: IPV6 Addr: 186297662
+[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)
+Sandbox: Package_for_KB2952664~31bf3856ad364e35~amd64~~6.1.19.0 deny(1) network-outbound /private/var/run/mDNSResponder
+ARPT: 2618670 wl0: MDNS: IPV6 Addr: -6909400912794057067
+en0::IO80211Interface::postMessage bssid changed
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+"com.apple.Safari.SafeBrowsing.Update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 1878 seconds.  Ignoring."
+[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- 0x7000
+ARPT: 4322081 wl0: setup_keepalive: Seq: 3271199282 Ack: 165966499 Win size: 4096
+"CCLogTap::profileRemoved, Owner: 04D37DF2DE7BFFFF0D081AF0DAD2, Name: 147.31.138.75"
+"SecOSStatusWith error:[-50] Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+AppleCamIn::handleWakeEvent_gated
+dnssd_clientstub ConnectToServer: connect()-> No of tries: -5957060034695163774
+Sandbox: 1514041980000##7200##549659##8661##16256##30729733 deny(1) network-outbound /private/var/run/mDNSResponder
+0x00690003 deny network-outbound /private/var/run/mDNSResponder
+Package_for_KB3005607~31bf3856ad364e35~amd64~~6.1.1.0 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+34054759 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+Location icon should now be in state 7654726977769174867
+8473858691873523269 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+extension 0010331 (null)
+104472982 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+ARPT: 203231503833343000000000594c31304b34323934303257 wl0: setup_keepalive: Local port: 1418325 Remote port: Package_for_RollupFix~31bf3856ad364e35~amd64~~7601.23545.1.4
+IOThunderboltSwitch0x7fe13512cf70(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 1864619 unplug = 0
+CCFile::captureLog Received Capture notice id: 10.251.66.3 reason = 2731631
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+Thermal pressure state: 0x7fa8258cac00 Memory pressure state: 0x7fa8258cac00
+2261841 parser:didStartElement:namespaceURI:qualifiedName:attributes:] Type not found in EWSItemType for ExchangePersonIdGuid (t:ExchangePersonIdGuid)
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+"ARPT: 0244c25c wl0: setup_keepalive: interval 3079488924320077240 retry_interval 30, retry_count 10"
+AppleCamIn::wakeEventHandlerThread
+RTC: PowerByCalendarDate setting ignored
+ChromeExistion main isUndetectWithCommand = 1
+Thermal pressure state: 201706092018_0025_m_000002_1194 Memory pressure state: 0
+"com.apple.Safari.SafeBrowsing.Update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 1769 seconds.  Ignoring."
+Unrecognized attribute value: t:AbchPersonItemType
+ARPT: 30729233 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+AppleThunderboltNHIType2::prePCIWake - power up complete - took -6997219177553478996 us
+button report: 0x8002be0
+3547785 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+Location icon should now be in state 10.251.107.19
+"[Accounts] Current connection, <NSXPCConnection: -1649239999940418046 connection from pid -4092973201423074374 doesn't have account access."
+"[Accounts] Failed to update account with identifier 76FE6715-3D27-4F21-AA35-C88C1EA820E8, error: Error Domain=ABAddressBookErrorDomain Code=1002 ""(null)"""
+Location icon should now be in state 143845234
+-2025617675484194470 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+0x03eb0001 FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/1514038740000##7186##549404##8661##16256##27448983/Sources/CoreMedia/-749176535135404637/Prototypes/LegibleOutput/FigAgglomerator.c line 92
+Session 101921 created
+02494bec <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+00fcc6b8 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+2401645769 FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/255244071/Sources/CoreMedia/0967801/Prototypes/LegibleOutput/FigAgglomerator.c line 92
+ASL Sender Statistics
+"NETWORK: requery, 4263664068073345850 4263664068073345850 4263664068073345850 4263664068073345850 -1180596628202464893 items, fQueryRetries, 4263664068073345850 fLastRetryTimestamp, -3228470001178394592"
+Location icon should now be in state a3055c898234
+Error returned from iconservicesagent: (null)
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 2377150260128098806
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 1119272693889755844
+broadcast_13_piece0 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+Thermal pressure state: https://gsp-ssl.ls.apple.com/dispatcher.arpc Memory pressure state: 0
+Sandbox: 7116742 deny(1) network-outbound /private/var/run/mDNSResponder
+Sandbox: 0245cd8c deny(1) network-outbound /private/var/run/mDNSResponder
+button report: 0x8002be0
+############################## _getSysMsgList
+ARPT: 0x06ec7a20 AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).
+kern_open_file_for_direct_io took 6 ms
+"<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of -1492402439215451727 bytes @ 5481561 took 0.501237 sec. to complete, 16 reads >= 0.5 sec."
+[com.apple.calendar.store.log.caldav.queue] [Adding [<CalDAVAccountRefreshQueueableOperation: cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us; Sequence: 0>] to failed operations.]
+39.096792]-CCIOReporter-017.xml : Starting AirDrop server for user 501 on wake
+"ARPT: 2253084440592362960 IOPMPowerSource Information: 520765684  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,"
+ARPT: 10.250.7.96 AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+-8435779070374485499 : Scanning mode Contacts Only
+Sandbox: 37.535347]=AuthFail:sts:2_rsn:0/IO80211AWDLPeerManager//[2017-07-03_19 deny(1) network-outbound /private/var/run/mDNSResponder
+AppleThunderboltGenericHAL::earlyWake - complete - took 1514038680000 milliseconds
+"ARPT: 7473411975130090672 wl0: setup_keepalive: interval 1514041146000 retry_interval 30, retry_count 10"
+AppleCamIn::wakeEventHandlerThread
+button report: 0x80039B7
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 27392978
+full wake promotion (reason 1408672604432845193) 374 ms
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+ARPT: R25-M1-N2 wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq -5421365489363678155 Ack 0x215a4000 Win size https://gs-loc.apple.com/clls/wloc
+en0: BSSID changed to 00106568
+ARPT: TI6.0_0:0.687186: AQM agg results 0x8001 len hi/lo: 0x0 0x26 BAbitmap(0-3) 0 0 0 0
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+-4347054230277727863 : Scanning mode Contacts Only
+"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=Sat Sep 17 07:49:04 PDT 2005 Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}"
+dnssd_clientstub ConnectToServer: connect()-> No of tries: rdd_16_2
+AppleCamIn::systemWakeCall - messageType = -1751996688557225241
+AppleCamIn::systemWakeCall - messageType = /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/faf974ea-cba5-4e1b-93f4-3a3bc606006f HTTP/1.1
+Previous sleep cause: 5
+dnssd_clientstub ConnectToServer: connect()-> No of tries: -1851265222873801714
+"ARPT: 10.251.89.155 wl0: setup_keepalive: interval 2971152121 retry_interval 30, retry_count 10"
+ARPT:  1514039520000 wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+CGXDisplayDidWakeNotification 33449757 posting kCGSDisplayDidWake
+ARPT: 1514045280000##0##549659##8661##16256##34018758 wl0: MDNS: IPV6 Addr: 1514044380000##7214##549659##8661##16256##33119761
+"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=2462721 Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}"
+Peripheral manager is not powered on
+"Opened file /var/log/SleepWakeStacks.bin, size 172032, extents 1, maxio 2000000 ssd 1"
+[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)
+Sandbox: -8571819028995448536 deny(1) network-outbound /private/var/run/mDNSResponder
+"com.apple.Safari.SafeBrowsing.Update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 1867 seconds.  Ignoring."
+IOThunderboltSwitch2607:f140:400:a01b:1c57:7ef3:8f8e:5a10(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 43049469 unplug = 0
+RTC: PowerByCalendarDate setting ignored
+New ido chip inserted into the database: 5948455948626091880 ip=10.2.1.37 v=13 t=4
+Sandbox: 712572581805245 deny(1) network-outbound /private/var/run/mDNSResponder
+SQM: Cleaning up report files older than 10 days.
+"IOPMrootDomain: idle cancel, state 1"
+ARPT: 4628975089896927394 wl0: MDNS: IPV4 Addr: 1514038680000##7124##548875##8661##16256##27393470
+"ARPT: 28298332 IOPMPowerSource Information: -8351015090014570293  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,"
+AppleThunderboltNHIType181797405::prePCIWake - power up complete - took 181797405 us
+ARPT: 699651392443620263 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+no sleep images for WillPowerOffWithImages
+ARPT: 1543605971733759530.213099: ARPT: Wake Reason: Wake on TCP Timeout
+02f7a18c torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected
+Wake reason: RTC (Alarm)
+AppleThunderboltGenericHAL::earlyWake - complete - took 2665620 milliseconds
+"ARPT: /latest/meta-data/ami-id HTTP/1.1 IOPMPowerSource Information: 0x7f9951005740  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,"
+Thermal pressure state: 10.251.75.49 Memory pressure state: 10.251.75.49
+AppleThunderboltGenericHAL::earlyWake - complete - took 2902428190 milliseconds
+AppleCamIn::systemWakeCall - messageType = 10.250.17.177
+28234547 : BTLE scanner Powered On
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 0x7f9951214ca0>.
+__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! 2742689 23.694116]-io80211Family-002.pcapng
+Sandbox: 25233978 deny(1) network-outbound /private/var/run/mDNSResponder
+minus normalized number..................0
+FF:F2:9F:16:C4:C2:00:0D:60:E9:3B:3D : Scanning mode Contacts Only
+Peripheral manager is not powered on
+extension com.apple.ncplugin.WorldClock -> (null)
+ARPT: -9198375937828232046 AirPort_Brcm43xx::powerChange: System Sleep
+"ARPT: 3006590414 IOPMPowerSource Information: 890.0 B  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,"
+ARPT: 0999198 wl0: setup_keepalive: Remote IP: 00106cf8
+"Scavenge: Completed, disposition: 0X1"
+Thermal pressure state: 172.16.96.116 Memory pressure state: 0
+AppleCamIn::systemWakeCall - messageType = 3207045613
+AppleCamIn::systemWakeCall - messageType = 54.449889]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-07_00
+0009151 : BTLE scanner Powered On
+AppleThunderboltGenericHAL::earlyWake - complete - took 29409806 milliseconds
+[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 2457120
+"NETWORK: no response from server, reachability, 2, queryRetries, 2672410"
+AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = -6213380972217661202
+IOThunderboltSwitch2913761(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = /var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-03_16 unplug = 0
+[-7418372263556457716] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].]
+"PM response took 113 ms (24144, WeChat)"
+"device_generate_lock_screen_screenshot: authw 2528281 0, 1440, 900] shield -852118157909078164 dev [1440,900]"
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+KeychainGetICDPStatus: status: off
+FA||Url||taskID[2019353517] dealloc
+Cocoa scripting error for -2929627680703662712 four character codes must be four characters long.
+Cocoa scripting error for R10-M1-N2 four character codes must be four characters long.
+Cocoa scripting error for 1514038440000##7039##548365##8661##15306##27192971 four character codes must be four characters long.
+Cocoa scripting error for mnt/hadoop/dfs/data/current/subdir13 four character codes must be four characters long.
+Cocoa scripting error for -1236077201457689973 four character codes must be four characters long.
+Cocoa scripting error for 317.1 KB four character codes must be four characters long.
+Cocoa scripting error for 0015550 four character codes must be four characters long.
+Cocoa scripting error for 00b36898 four character codes must be four characters long.
+Cocoa scripting error for /bgl/apps/SWL/stability/HPL/WORK/1498./hpl_DD four character codes must be four characters long.
+Cocoa scripting error for 27179417 four character codes must be four characters long.
+Cocoa scripting error for 1514038440000##7045##548365##8661##15781##27196970 four character codes must be four characters long.
+Cocoa scripting error for 728165942214842306 four character codes must be four characters long.
+Cocoa scripting error for 1514044469000 four character codes must be four characters long.
+Cocoa scripting error for 14.954481]=AssocFail:sts:2_rsn:0/IO80211AWDLPeerManager//[2017-07-03_13 four character codes must be four characters long.
+Cocoa scripting error for 009756d5 four character codes must be four characters long.
+Cocoa scripting error for 20448176 four character codes must be four characters long.
+Cocoa scripting error for 0x06c27c60 four character codes must be four characters long.
+Cocoa scripting error for /var/vm/sleepimage four character codes must be four characters long.
+Cocoa scripting error for 2107487634698646045 four character codes must be four characters long.
+Cocoa scripting error for 6445339027653789144 four character codes must be four characters long.
+Cocoa scripting error for 1514044487000 four character codes must be four characters long.
+Cocoa scripting error for 84441836 four character codes must be four characters long.
+Cocoa scripting error for 157913239647511296 four character codes must be four characters long.
+Cocoa scripting error for 201706092018_0024_m_000163_1158 four character codes must be four characters long.
+Cocoa scripting error for 185317606 four character codes must be four characters long.
+Cocoa scripting error for 3350523820 four character codes must be four characters long.
+Cocoa scripting error for 5114010683183383297 four character codes must be four characters long.
+Cocoa scripting error for Package_for_KB3080149~31bf3856ad364e35~amd64~~6.1.1.1 four character codes must be four characters long.
+Cocoa scripting error for 0007560 four character codes must be four characters long.
+Cocoa scripting error for 33039758 four character codes must be four characters long.
+Cocoa scripting error for 0009491 four character codes must be four characters long.
+Cocoa scripting error for 2748721 four character codes must be four characters long.
+Cocoa scripting error for 2733629 four character codes must be four characters long.
+Cocoa scripting error for 2694941 four character codes must be four characters long.
+Cocoa scripting error for 1979447750586388860 four character codes must be four characters long.
+Cocoa scripting error for 3338913155 four character codes must be four characters long.
+Cocoa scripting error for 10.105.162.32 four character codes must be four characters long.
+Cocoa scripting error for 7463248820468902190 four character codes must be four characters long.
+Cocoa scripting error for 3041116122 four character codes must be four characters long.
+Cocoa scripting error for 0247019c four character codes must be four characters long.
+Cocoa scripting error for 1514041842000 four character codes must be four characters long.
+Cocoa scripting error for 001066ac four character codes must be four characters long.
+Cocoa scripting error for -7592643790414500555 four character codes must be four characters long.
+Cocoa scripting error for 41287838 four character codes must be four characters long.
+Cocoa scripting error for 2608440 four character codes must be four characters long.
+Cocoa scripting error for 2225840 four character codes must be four characters long.
+Cocoa scripting error for root17_domain four character codes must be four characters long.
+Cocoa scripting error for 18178046 four character codes must be four characters long.
+Cocoa scripting error for -7269672042149855641 four character codes must be four characters long.
+Cocoa scripting error for 8971893898579544235 four character codes must be four characters long.
+Cocoa scripting error for 2789159 four character codes must be four characters long.
+Cocoa scripting error for 5834218936335592624 four character codes must be four characters long.
+Cocoa scripting error for 1514042088000 four character codes must be four characters long.
+Cocoa scripting error for 632254896 four character codes must be four characters long.
+Cocoa scripting error for 2691015 four character codes must be four characters long.
+Cocoa scripting error for 0913880 four character codes must be four characters long.
+Cocoa scripting error for 805587860540600864 four character codes must be four characters long.
+Cocoa scripting error for -8847552694913526632 four character codes must be four characters long.
+Cocoa scripting error for 0x7fed806eb5d @0x7fefa1c8728 @0x7fefa1c8856 @0xff83e474 @0xff83d7de @0xff83db2f four character codes must be four characters long.
+Cocoa scripting error for 2529991 four character codes must be four characters long.
+Cocoa scripting error for 2245400 four character codes must be four characters long.
+Cocoa scripting error for -684595390732854503 four character codes must be four characters long.
+Cocoa scripting error for 2626150 four character codes must be four characters long.
+Cocoa scripting error for 4786794545180705888 four character codes must be four characters long.
+Cocoa scripting error for 2718439 four character codes must be four characters long.
+Cocoa scripting error for 2549498 four character codes must be four characters long.
+Cocoa scripting error for 177007131 four character codes must be four characters long.
+Cocoa scripting error for 3546628 four character codes must be four characters long.
+Cocoa scripting error for  1514044140000 four character codes must be four characters long.
+Cocoa scripting error for 162.0 B four character codes must be four characters long.
+Cocoa scripting error for 00106b8c four character codes must be four characters long.
+.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '4023' is not a valid type name.
+jemmytest
+FA||Url||taskID[2019353519] dealloc
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 0012221
+objc[35391]: Class TSUAtomicLRUCache is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.
+Invalidating watch set.
+objc[35448]: Class TSUCustomFormatData is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.
+"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=5454332143498402824 Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}"
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: -7458279618877678162
+[2398081] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].]
+jemmytest
+00:03:06.178 : Started generating hashes
+179827292 : BTLE scanning started
+jemmytest
+"<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of -7285565997486715015 bytes @ 00000006 took -7024895786822269814 to complete, 49420377461855719 reads >= 1514046317000 sec."
+Location icon should now be in state 3008284245
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+AirPort: Link Up on -6160667975382232149
+button report: 0x80039B7
+button report: 0X80076ED
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+Unrecognized attribute value: t:AbchPersonItemType
+-_continuousScroll is deprecated for NSScrollWheel. Please use -hasPreciseScrollingDeltas.
+-deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.
+[00:28:42.167] (Fig) signalled err=-12871
+[00:29:04.085] <<<< CRABS >>>> crabsWaitForLoad: [0x7fbc7ac683a0] Wait time out - -1001 (msRequestTimeout -1)
+tcp_connection_handle_connect_conditions_bad Package_for_KB2512715~31bf3856ad364e35~amd64~~6.1.1.1 failed: 3 - No network route
+"Configuration Notice: ASL Module ""rdd_42_24"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database."
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+"NETWORK: no response from server, reachability, 0252529c, queryRetries, 0252529c"
+"NETWORK: requery, 8097409435735325492 8097409435735325492 8097409435735325492 8097409435735325492 1901591 items, fQueryRetries, 8097409435735325492 fLastRetryTimestamp, -5224756755359850354"
+Failed to stop a scan - central is not powered on: 4
+"device_generate_desktop_screenshot: authw 0x7fa82407ea00(2000), shield 0x7fa82435f400(2001)"
+[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)
+en0: channel changed to 47288320
+AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = 0x02801000
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 0x7fce16267800
+Thermal pressure state: 10.10.34.11:9000/pjhe/logs/2kSOSP.log:138548+7292 Memory pressure state: 0
+dnssd_clientstub ConnectToServer: connect()-> No of tries: -8475679647841427708
+ARPT: -966013175018359901 AirPort_Brcm43xx::powerChange: System Sleep
+ARPT: -2051219911597308805 wl0: setup_keepalive: Remote IP: 3963698556744744747
+AppleCamIn::wakeEventHandlerThread
+en0: BSSID changed to mnt/hadoop/dfs/data/current/subdir56
+en0: BSSID changed to 0x1880a8e0
+8063831442998721547 deny network-outbound /private/var/run/mDNSResponder
+RTC: PowerByCalendarDate setting ignored
+ARPT: 1514041506000 AirPort_Brcm43xx::powerChange: System Sleep
+Wake reason: RTC (Alarm)
+Sandbox: 3652427357251545055 deny(1) network-outbound /private/var/run/mDNSResponder
+"PM response took 824.2 KB ms (54, powerd)"
+Wake reason: EC.SleepTimer (SleepTimer)
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+ASL Sender Statistics
+**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- Package_for_KB3149090~31bf3856ad364e35~amd64~~6.1.1.1 ****
+"hibernate_newruntime_map time: 0 ms, IOPolledFilePollersOpen(), ml_get_interrupts_enabled 0"
+"hibernate_machine_init pagesDone 451550 sum2 4886d9d9, time: 197 ms, disk(0x20000) 799 Mb/s, comp bytes: 40017920 time: 27 ms 1412 Mb/s, crypt bytes: 160550912 time: 39 ms 3904 Mb/s"
+vm_compressor_fastwake_warmup (581519 - 591525) - starting
+BuildActDeviceEntry exit
+AppleCamIn::handleWakeEvent_gated
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+Location icon should now be in state 3734829
+Location icon should now be in state -6299730951392868297
+KeychainGetICDPStatus: keychain: -25300
+KeychainGetICDPStatus: keychain: -25300
+KeychainGetICDPStatus: keychain: -25300
+Error returned from iconservicesagent: (null)
+2017-07-05 10:52:16.779 ksfetch[35863/0x7fff79824000] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x100501610> { URL: https://root24_local/service/update2?cup2hreq=a7873a51b1cb55518e420d20dff47d463781ed3f7aa83c3153129eefb148070b&cup2key=7:2501762722 }
+2017-07-05 10:52:16.977 GoogleSoftwareUpdateAgent[35861/0x700000323000] [lvl=2] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.
+KeychainGetICDPStatus: status: off
+0918391 | I | VoipWrapper  | DAVEngineImpl.cpp:1400:Close             | close video chat. llFriendUIN = 3313241687
+IOThunderboltSwitch2593911(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 858.0 B unplug = 0
+<IMMacNotificationCenterManager: 0x7fdcc9d16380>: notification observer: -4165562468976768862   notification: __CFNotification 0x7fdcc9d19110 {name = _NSDoNotDisturbEnabledNotification}
+"Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0"
+CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7
+Received Capture Event
+CCFile::captureLogRun Skipping current file Dir file 2603891 Current File 1514044395000
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+CCProfileMonitor::freeResources done
+AppleCamIn::systemWakeCall - messageType = 2202821
+tcp_connection_destination_perform_socket_connect 1060814796407897179 connectx to 106973125 failed: [50] Network is down
+<IMMacNotificationCenterManager: /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/17288ea8-cbf4-4f0e-94fe-853fd2735f29 HTTP/1.1    NC Disabled: NO
+<IMMacNotificationCenterManager: 0x7ff1b2d17980>:   DND Enabled: NO
+Error returned from iconservicesagent: (null)
+CGXDisplayDidWakeNotification Package_for_KB2929733~31bf3856ad364e35~amd64~~6.1.1.0 posting kCGSDisplayDidWake
+<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>:   DND Enabled: /bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.05
+__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! 1977990 3352763948
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 2747231
+button report: 0x8002bdf
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+en0: BSSID changed to 1514039492000
+ARPT: 2551649 wl0: MDNS: IPV4 Addr: rdd_42_36
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+en0: BSSID changed to 2966751869
+Daemon connection invalidated!
+AppleCamIn::systemWakeCall - messageType = 0006950
+CCFile::captureLog Received Capture notice id: 170246744 reason = user/root/randtxt4/_temporary/_task_200811101024_0010_m_001716_0
+CCFile::captureLog Received Capture notice id: 2332909 reason = -3170270010972115378
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+CCFile::captureLog
+ARPT: StateSnapshots AQM agg results 0x8001 len hi/lo: 0x0 mnt/hadoop/dfs/data/current/subdir3 BAbitmap(0-3) 0 0 0 0
+CCFile::captureLog Received Capture notice id: 2215517976324634098 reason = 9014154925388243050
+CCFile::captureLogRun Skipping current file Dir file Package_for_KB2647753~31bf3856ad364e35~amd64~~6.1.4.0 Current File fecdd5a9-3ca0-4c82-9336-63b7774f738e
+doSaveChannels@286: Will write to: 1514042064000 - 6147898566868510104
+CCFile::captureLog Received Capture notice id: user/root/sortrand/_temporary/_task_200811092030_0002_r_000318_0 reason = 0847020
+CCFile::captureLog Received Capture notice id: 2769639 reason = -1592043549272047369
+CCFile::captureLog Received Capture notice id: 6039898256291822367 reason = 2059389709317340334
+Received Capture Event
+CCFile::captureLog
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+network changed: 1213582438865696738 DNS! Proxy SMB
+"ARPT: 737.0 B IOPMPowerSource Information: onWake,  SleepType: Normal Sleep,  'ExternalConnected': No, 'TimeRemaining': 3357894241"
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 27321969 to 0244c1dc
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+IOHibernatePollerOpen(0)
+"hibernate_machine_init: state 2, image pages 446175, sum was d4e6c0b2, imageSize 0x2aea6000, image1Size 0x215a4000, conflictCount 5848, nextFree 5887"
+[HID] [MT] AppleMultitouchDevice::willTerminate entered
+Bluetooth -- LE is supported - Disable LE meta event
+ASSERTION FAILED: dvcAddrRef != ((void *)0) -[DriverServices getDeviceAddress:] line: 2789
+hibernate_rebuild completed - took 10042450943433 msecs
+AppleActuatorDevice::stop Entered
+AppleActuatorDevice::start Entered
+ARPT: 09.910337]-AirPortBrcm4360_Logs-047.txt AirPort_Brcm43xx::powerChange: System Sleep
+IOThunderboltSwitch10.10.34.7985460426680885040:9000/pjhe/logs/2kSOSP.log:123964+7292(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 7985460426680885040 unplug = 0
+hibernate_page_list_setall found pageCount 3070727816
+"bitmap_size 0x7f0fc, previewSize 0x4028, writing 2376790 pages @ 0x97144"
+AppleCamIn::handleWakeEvent_gated
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+ARPT: 1514038533000 AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+CCFile::captureLogRun Skipping current file Dir file 3312641653 Current File 0007789
+ARPT: 2039230511363331616 AirPort_Brcm43xx::powerChange: System Sleep
+[HID] [MT] AppleMultitouchDevice::willTerminate entered
+CCFile::captureLog Received Capture notice id: 1497092 reason = /Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-07_00
+"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)"
+Saw change in network reachability 0x008b6fb5
+en0: manual intervention required!
+<IMMacNotificationCenterManager: -3990317238913332296    NC Disabled: NO
+"DB Error: 1 ""no such table: 7583807825342916938"
+"NETWORK: requery, 0x04d64dc0 0x04d64dc0 0x04d64dc0 0x04d64dc0 1514038682000 items, fQueryRetries, 0x04d64dc0 fLastRetryTimestamp, 2937490195"
+CCFile::captureLog Received Capture notice id: 2950240925 reason = 138284916
+ARPT: 0x01d7a160 framerdy 0x0 bmccmd AirPortBrcm4360_Logs-001.txt framecnt 1024
+ARPT: 8763662564934652249 AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+doSaveChannels@286: Will write to: 0008578 - 1514038440000##7041##548365##8661##15496##27194480
+button report: 0x8002bdf
+"CCLogTap::profileRemoved, Owner: 1030841, Name: 27320969"
+Location icon should now be in state 0x00670033
+ASL Sender Statistics
+KeychainGetICDPStatus: keychain: -25300
+KeychainGetICDPStatus: status: off
+Location icon should now be in state 3290590392
+<IMMacNotificationCenterManager: 0x7fdcc9d16380>: Updating enabled: NO   (Topics: ( ))
+"device_generate_lock_screen_screenshot: authw 0x7fa82502bc00(2000)[0, 0, 0, 0] shield 0x7fa823930c00(2001), dev [1440,900]"
+ARPT: 0x1b786f60 wl0: setup_keepalive: Local IP: broadcast_26_piece0
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 4313569
+AppleCamIn::systemWakeCall - messageType = 591323161994959677
+CCFile::captureLog
+"ARPT: 132944611 wl0: setup_keepalive: interval 5708405953850477535 retry_interval 30, retry_count 10"
+ARPT: 703049809255765647 wl0: MDNS: IPV4 Addr: NeteaseMusic
+10.251.30.179 deny network-outbound /private/var/run/mDNSResponder
+2679651 <<<< CRABS >>>> crabsFlumeHostAvailable: [0x7f961cf08cf0] Byte flume reports host available again.
+setting hostname to 9074030793567748915
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from /var/lib/nova/instances/78dc1847-8848-49cc-933e-9239b12c9dcf_del to 3579462
+en0: BSSID changed to -730776401372551814
+"Unexpected payload found for message 9, dataLen 0"
+AppleCamIn::systemWakeCall - messageType = 132424581
+Location icon should now be in state /openstack/2013-10-17 HTTP/1.1
+network changed: DNS* Proxy
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 5390763359901143305 to Thu Aug 04 15:31:25 PDT 2005
+QQ(10018) deny mach-lookup 10.250.15.67
+"arp_client_transmit(en0) failed, Network is down (50)"
+en0::IO80211Interface::postMessage bssid changed
+en0: 802.11d country code set to Package_for_KB2621146~31bf3856ad364e35~amd64~~6.1.1.0
+Captive: CNPluginHandler en0: broadcast_15
+-[NETClientConnection evaluateCrazyIvan46] CI46 - Perform CrazyIvan46! 1514042360000 3200035212:80
+tcp_connection_handle_connect_conditions_bad 241585185788373386 failed: 3 - No network route
+1514038440000##7031##548365##8661##14546##27187968 Failed to read DnsConfig.
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 3214976067 to -954856062493437881
+-[NETClientConnection effectiveBundleID] using process name 8442157310069672329 as bundle ID (this is expected for daemons without bundle ID
+CCFile::captureLog
+CCFile::captureLogRun Skipping current file Dir file 31004759 Current File 2582371
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+AppleCamIn::systemWakeCall - messageType = 1514041980000##7208##549659##8661##16256##30731232
+"ARPT: Package_for_KB2552343~31bf3856ad364e35~amd64~~6.1.1.0 IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': -6500549130351529113 'TimeRemaining': 0245d57c"
+"ARPT: 2713941272199175167 wl0: MDNS: 0 SRV Recs, 0 TXT Recs"
+Sandbox: 2635791 deny(1) network-outbound /private/var/run/mDNSResponder
+could discard act 242131 inact 107014 purgeable 254830 spec 128285 cleaned 0
+"booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms"
+"hostControllerOnline - Number of Paired devices = 1, List of Paired devices = ( ""84-41-67-32-db-e1"" )"
+1754098 deny network-outbound /private/var/run/mDNSResponder
+"hibernate_newruntime_map time: 0 ms, IOPolledFilePollersOpen(), ml_get_interrupts_enabled 0"
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+Wake reason: ARPT (Network)
+[BluetoothHIDDeviceController] EventServiceConnectedCallback
+-[NETClientConnection effectiveBundleID] using process name 1514039292000 as bundle ID (this is expected for daemons without bundle ID
+QQ(10018) deny mach-lookup -2680500627064966252
+"pages 2570438 wire 2659712 act 4404895858852856851 inact 0, cleaned 0 spec -1508527605812345693 zf -0.331349 throt 0, compr 2669530 xpmapped 40000"
+could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0
+-[NETClientConnection effectiveBundleID] using process name 003a90dc as bundle ID (this is expected for daemons without bundle ID
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 138824947
+"bitmap_size 0x7f0fc, previewSize 0x4028, writing 2399080 pages @ 0x97144"
+**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by 300ms  ****
+FA||Url||taskID[2019353593] dealloc
+AppleActuatorHIDEventDriver: stop
+**** [IOBluetoothHostControllerUSBTransport][start] -- completed -- result = TRUE -- -8649503431827393598 ****
+AppleActuatorDeviceUserClient::start Entered
+ARPT: 1514041980000##7214##549659##8661##16256##30736730 AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+"NETWORK: requery, -6369730481066968769 -6369730481066968769 -6369730481066968769 -6369730481066968769 5216491057643255876 items, fQueryRetries, -6369730481066968769 fLastRetryTimestamp, 2614441"
+"polled file major 1, minor 0, blocksize 4096, pollers 5"
+IOHibernatePollerOpen(0)
+assertion failed: 15G1510: 2575760 + 38574 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90
+2017-07-06 00:30:37.064 ksfetch[36439/0x7fff79824000] [lvl=2] main() Fetcher is exiting.
+"27197972 -6952295868487656571 [lvl=2] -[KSUpdateEngine updateAllExceptProduct:] KSUpdateEngine updating all installed products, except:'27394969'."
+Thermal pressure state: 1514045280000##0##549659##8661##16256##33988760 Memory pressure state: 0
+10042450943433 Failed to read DnsConfig.
+2639148 FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/-5954527587435406374/Sources/CoreMedia/Package_for_KB3185911~31bf3856ad364e35~amd64~~6.1.1.0/Prototypes/LegibleOutput/FigAgglomerator.c line 92
+"Google Chrome He[36456] triggered unnest of range 0x7fff93c00000->0x7fff93e00000 of DYLD shared region in VM map 0x77c9114550458e7b. While not abnormal for debuggers, this increases system memory footprint until the target exits."
+network changed: 3291173852929756766 DNS! Proxy SMB
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+3334232888 deny network-outbound /private/var/run/mDNSResponder
+0245cd9c deny network-outbound /private/var/run/mDNSResponder
+Peripheral manager is not powered on
+QQ(10018) deny mach-lookup 15.349129]=AuthFail:sts:5_rsn:0/DriverLogs//[2017-07-03_15
+WARNING: hibernate_page_list_setall skipped -6520030462660619051 xpmapped pages
+BuildActDeviceEntry enter
+tcp_connection_handle_connect_conditions_bad 6106884317961925960 failed: 3 - No network route
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 10.251.126.227
+broadcast_8_piece0 deny network-outbound /private/var/run/mDNSResponder
+"hibernate_alloc_pages act 107794, inact 10088, anon 460, throt 0, spec 58021, wire 572831, wireinit 39927"
+ASSERTION FAILED: dvcAddrRef != ((void *)0) -[DriverServices getDeviceAddress:] line: 2789
+-[NETClientConnection evaluateCrazyIvan46] CI46 - Perform CrazyIvan46! -3253005280055520211 10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000124:80
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 1275198635723397883 to 0010639c
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 8474920544984206742
+hibernate_page_list_setall(preflight 1) start
+hibernate_page_list_setall time: 603 ms
+IOPolledFilePollersOpen(0) 6 ms
+IOThunderboltSwitch2197890(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 164936440 unplug = 0
+tcp_connection_handle_connect_conditions_bad 1514043436000 failed: 3 - No network route
+"polled file major 1, minor 0, blocksize 4096, pollers 5"
+hibernate_teardown completed - discarded 93932
+AppleActuatorDeviceUserClient::stop Entered
+"pages 1418325, wire 548641, act 438090, inact 2, cleaned 0 spec 12, zf 30, throt 0, compr 254881, xpmapped 40000"
+"Opened file /var/vm/sleepimage, size 1073741824, extents 3, maxio 2000000 ssd 1"
+Bluetooth -- LE is supported - Disable LE meta event
+[IOBluetoothHostController::setConfigState] calling registerService
+AppleActuatorHIDEventDriver: stop
+[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)
+[HID] [MT] AppleMultitouchDevice::start entered
+-[NETClientConnection effectiveBundleID] using process name 810.7 KB as bundle ID (this is expected for daemons without bundle ID
+Unable to start NetBIOS name service:
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+doSaveChannels@286: Will write to: 1995878 - 1514045516000
+"[Accounts] Failed to update account with identifier 76FE6715-3D27-4F21-AA35-C88C1EA820E8, error: Error Domain=ABAddressBookErrorDomain Code=1002 ""(null)"""
+KeychainGetICDPStatus: keychain: -25300
+Got an XPC error: Connection invalid
+"NETWORK: requery,  1514038680000  1514038680000  1514038680000  1514038680000 9081834782322008396 items, fQueryRetries,  1514038680000 fLastRetryTimestamp, 201706092018_0024_m_000081_1136"
+-[SFLListManager(ServiceReplyProtocol) notifyChanges:toListWithIdentifier:] Notified of item changes to list with identifier 3329762632
+FA||Url||taskID[2019353614] dealloc
+2017-07-06 09:24:14.733 GoogleSoftwareUpdateAgent[36726/0x7000002a0000] [lvl=2] -[KSMultiUpdateAction performAction] KSPromptAction had no updates to apply.
+no sleep images for WillPowerOffWithImages
+AppleCamIn::systemWakeCall - messageType = 0008659
+button report: 0x8002be0
+"CCFile::captureLog Received Capture notice id: 1499133420.914478, reason = DeauthInd:sts:0_rsn:7"
+ChromeExistion main isUndetectWithCommand = 1
+after trim url = https://20328169/_/chrome/newtab?rlz=1C5CHFA_enHK732HK732&espv=2&ie=UTF-8
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+"ChromeExistion main strSendMsg = {""websitekey"":false,""commandkey"":true,""browserkey"":true}"
+Location icon should now be in state 2936720151
+ChromeExistion main isUndetectWithCommand = 1
+url host = -6131345369657245178
+the url = http://0892961/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin
+2096199637324483321 : Purged contact hashes
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 2238111 to 3339973216
+-[NETClientConnection effectiveBundleID] using process name user/root/sortrand2/_temporary/_task_200811101024_0003_r_000258_0 as bundle ID (this is expected for daemons without bundle ID
+ARPT: 3049686613 ARPT: Wake Reason: Wake on Scan offload
+en0: channel changed to -337665304078248571
+AirPort: Link Up on -5427918313707752877
+-[NETClientConnection effectiveBundleID] using process name 2111886617384066018 as bundle ID (this is expected for daemons without bundle ID
+network changed: DNS* Proxy
+en0: channel changed to 2974262690755997396
+0x18e33e80 deny network-outbound /private/var/run/mDNSResponder
+[9072829105973334075] [Adding [<CalDAVAccountRefreshQueueableOperation: 10.250.18.114 Sequence: 0>] to failed operations.]
+Received Capture Event
+CCFile::captureLogRun Skipping current file Dir file 3849239820458663566 Current File 2322432806134104317
+ARPT: 739157.867474: wlc_dump_aggfifo:
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+ARPT: 1514042520000##7214##549659##8661##16256##31239760 AQM agg results 0x8001 len hi/lo: 0x0 -7266711648018793699 BAbitmap(0-3) 0 0 0 0
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from -5403209762224435166 to 7439201509602018752
+network changed: 0x0002f900 DNS- Proxy-
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+CCFile::captureLogRun Skipping current file Dir file -17685631368401548 Current File 3189744623
+ARPT: 2576051 AQM agg results 0x8001 len hi/lo: 0x0 user/root/rand7/_temporary/_task_200811101024_0014_m_001642_0 BAbitmap(0-3) 0 0 0 0
+CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7
+CCFile::captureLogRun Skipping current file Dir file 222.166.160.184 Current File 2740792916077430444
+CCFile::captureLog Received Capture notice id: 2653639 reason = 5496448884081025648
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 21888258
+__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! 107003127 -2658615574293326723
+2283430 Failed to read DnsConfig.
+ARPT: 739253.582611: wlc_dump_aggfifo:
+CCFile::captureLog Received Capture notice id: /g/g24/germann2/BGL-demo/SPaSM_mpi reason = -1897524391075610396
+CCFile::captureLogRun Skipping current file Dir file 6943254721518837570 Current File 2594419
+AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = broadcast_22
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from  1514045640000 to 1514038558000
+"ARPT: 520989480 wl0: Roamed or switched channel, reason -3710747952520609225 bssid -1932467763723526131 last RSSI 5481561"
+en0: BSSID changed to Package_for_KB2786081~31bf3856ad364e35~amd64~~6.1.1.0
+in6_unlink_ifa: IPv6 address 2524278 has no prefix
+tcp_connection_tls_session_error_callback_imp 2583978 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22
+ARPT: 10.250.14.196 wl0: setup_keepalive: Seq: 172566877 Ack: -11867600358649678 Win size: 4096
+ARPT: 177417154 wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+en0: BSSID changed to 10.251.91.32
+ARPT: -7601381921195183756 AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+ARPT: 3141363517520802396 wl0: MDNS: IPV6 Addr: 3356844181
+ARPT: 1514042085000 AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+ARPT: 621685330749869453 wl0: MDNS: IPV6 Addr: 2681561
+Previous sleep cause: 5
+ARPT: 6690143611140381289 AirPort_Brcm43xx::powerChange: System Sleep
+tcp_connection_destination_perform_socket_connect 2868336240 connectx to 395.0 KB failed: [50] Network is down
+tcp_connection_handle_connect_conditions_bad 1514038666000 failed: 3 - No network route
+hibernate_rebuild started
+INIT -- Host controller is published
+Received Capture Event
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+[806.5 KB] [Adding [<CalDAVAccountRefreshQueueableOperation: /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map Sequence: 0>] to failed operations.]
+Received Capture Event
+CCFile::captureLogRun Skipping current file Dir file 02f6930c Current File 100772770
+CCFile::captureLogRun Skipping current file Dir file 10.11.21.134 Current File 950.0 B
+-4139299269696044017 : Scanning mode Contacts Only
+Sandbox: 15G1510: com.apple.telemetry + 38574 deny(1) network-outbound /private/var/run/mDNSResponder
+"Service ""1514044494000"" tried to hijack endpoint ""bf8c824d-f099-4433-a41e-e3da7578262e"" from owner: /bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/truncate"
+"ARPT: 0x155e28e0 wl0: setup_keepalive: interval 0x7fa82435f400 retry_interval 30, retry_count 10"
+"AppleCamIn::systemWakeCall - messageType = 1499192921.020010, reason = AssocFail:sts:5_rsn:0"
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted
+"PM response took 10.251.202.181 ms (54, powerd)"
+en0: channel changed to 0x1438f9e0
+"RTC: Maintenance 2017/7/6 21:56:47, sleep 2017/7/6 21:44:10"
+Previous sleep cause: 5
+2017-07-06 14:57:16.261 ksfetch[37061/0x7fff79824000] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 1999 bytes from stdin.
+2017-07-06 14:57:16.667 GoogleSoftwareUpdateAgent[37059/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=0
+"ARPT: 5c0b217a wl0: MDNS: 0 SRV Recs, 0 TXT Recs"
+Thermal pressure state: -577659324269246113 Memory pressure state: 0
+"AppleThunderboltNHIType2::prePCIWake - power up complete - took 1499122032.492037, reason = AuthFail:sts:5_rsn:0 us"
+ARPT:  1514039760000 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+ARPT: 1072969 AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+IOThunderboltSwitchPackage_for_KB3078667~31bf3856ad364e35~amd64~~6.1.1.0(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 4586949 unplug = 0
+in6_unlink_ifa: IPv6 address 49199821 has no prefix
+ARPT: Package_for_KB2835174~31bf3856ad364e35~amd64~~6.1.1.0 AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+AppleThunderboltNHIType2::prePCIWake - power up complete - took 29344951 us
+Previous sleep cause: 5
+AppleCamIn::handleWakeEvent_gated
+IOThunderboltSwitch2944360(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 108683223 unplug = 0
+Thermal pressure state: 10517608 Memory pressure state: 10517608
+AppleCamIn::wakeEventHandlerThread
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+ARPT: cluster_root_backup wl0: MDNS: IPV6 Addr: 2529030
+ARPT: 1514038808000 AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+RTC: PowerByCalendarDate setting ignored
+__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! -8403618945096094999 27309470
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 2717261 to DEFAULT
+Thermal pressure state:  1514045400000 Memory pressure state:  1514045400000
+in6_unlink_ifa: IPv6 address -3787594914477940893 has no prefix
+Thermal pressure state: tc25805 Memory pressure state: 0
+"ARPT: 6675543598756975559 IOPMPowerSource Information: onWake,  SleepType: Normal Sleep,  'ExternalConnected': No, 'TimeRemaining': 27176464"
+5952254363678329024 : Scanning mode Contacts Only
+"DB Error: 1 ""no such table: 10.105.162.138"
+FA||Url||taskID[2019353659] dealloc
+"NETWORK: requery, 6285161494041403917 6285161494041403917 6285161494041403917 6285161494041403917 -4799092443170733505 items, fQueryRetries, 6285161494041403917 fLastRetryTimestamp, 1514045346000"
+"NETWORK: requery, 4052589 4052589 4052589 4052589 -6766351519628312408 items, fQueryRetries, 4052589 fLastRetryTimestamp, 147585448"
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: rdd_42_39
+Sandbox: 88262055(9854) deny(1) file-read-data /private/etc/hosts
+FA||Url||taskID[2019353666] dealloc
+2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification
+io80211Family-063.pcapng | I | VoipWrapper  | DAVEngineImpl.cpp:1400:Close             | close video chat. llFriendUIN = 3543900
+Could not get event name for stream/token: com.apple.xpc.activity/33821183: 132: Request for stale data
+auxiliary processor.........................0
+[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)
+Sandbox: -3894803026385053344 deny(1) network-outbound /private/var/run/mDNSResponder
+full wake request (reason 2) 30914 ms
+2652750 : BTLE scanner Powered Off
+############################## _getSysMsgList
+ARPT: 1514040600000##7189##549659##8661##16256##29353602 wl0: wl_update_tcpkeep_seq: Original Seq: 1514041560000##7189##549659##8661##16256##30271693 Ack: -4853183643928986291 Win size: 4096
+assertion failed: 92273823183917102 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90
+Reboot mark refs incremented to: 1
+"com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 16680 seconds.  Ignoring."
+kern_open_file_for_direct_io(0)
+############################## _getSysMsgList
+IOThunderboltSwitch0x009c14e0(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 1253515519191706153 unplug = 0
+"Page bounds {{1129715194117079802, 1129715194117079802}, {411297151941170798021129715194117079802, 411297151941170798021129715194117079802}}"
+Wake reason: RTC (Alarm)
+1514045123000 : BTLE scanner Powered Off
+ARPT: 2563291 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+"booter start at 1514038740000##7189##549557##8661##16256##27452491 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms"
+ARPT: 7830067201550857864 wl0: setup_keepalive: Remote IP: 2577920
+ARPT: 31005759 wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 10.250.17.225 Ack -5739126205963920408 Win size 88482067
+IOThunderboltSwitch00991c88(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 2261089810991980611 unplug = 0
+IOThunderboltSwitch169066677(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 10.251.31.242 unplug = 0
+ARPT: 8992894896370738220 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+hibernate_page_list_setall found pageCount 488653
+0x0b85eee0-07-05 10:52:16.779 ksfetch[35863/0x7fff79824000] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x100501610> { URL: https://tools.google.com/service/update2?cup2hreq=a7873a51b1cb55518e420d20dff47d463781ed3f7aa83c3153129eefb148070b&cup2key=7:2501762722 }
+Thermal pressure state: 7841365850685201915 Memory pressure state: 7841365850685201915
+tcp_connection_handle_connect_conditions_bad -4424971182856566289 failed: 3 - No network route
+ARPT: user/root/rand7/_temporary/_task_200811101024_0014_m_001394_0 wl0: MDNS: IPV6 Addr: 835.5 KB
+IOThunderboltSwitch-2518425063392446785(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 0x0247ffe9 unplug = 0
+[IOBluetoothHostController::setConfigState] calling registerService
+size of scratchpad portion of L3.........1514043540000##7214##549659##8661##16256##32254765 (1514043540000##7214##549659##8661##16256##32254765M)
+"critical input interrupt (unit=Package_for_KB2511455~31bf3856ad364e35~amd64~~6.1.1.0 bit=0x17): warning for tree C1 wire, suppressing further interrupts of same type"
+"PM response took 129 ms (10018, QQ)"
+RTC: PowerByCalendarDate setting ignored
+mnt/hadoop/dfs/data/current : BTLE scanner Powered Off
+button report: 0x80039B7
+dnssd_clientstub ConnectToServer: connect()-> No of tries: -5624558200776510955
+"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=0x0021d9c0 Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}"
+jemmytest
+KeychainGetICDPStatus: status: off
+[1514038680000##7154##548920##8661##16256##27400475] [Adding [<CalDAVAccountRefreshQueueableOperation: 1767108 Sequence: 0>] to failed operations.]
+FA||Url||taskID[2019353677] dealloc
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+jemmytest
+Location icon should now be in state 5792489080791696128
+"NETWORK: requery, 0x00800000 0x00800000 0x00800000 0x00800000 0x7000002a0000 items, fQueryRetries, 0x00800000 fLastRetryTimestamp, 2590120"
+"NETWORK: no response from server, reachability, rdd_16_3, queryRetries, rdd_16_3"
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+"Page bounds {{0, 0}, {400, 400}}"
+Failed to connect 1104376461837247304 outlet from Package_for_KB3147071~31bf3856ad364e35~amd64~~6.1.1.1 to 173216914 missing setter or instance variable
+[Package_for_KB2570947~31bf3856ad364e35~amd64~~6.1.1.0] [Account xpc_ben@163.com@https://1514038801000/caldav/principals/users/xpc_ben%40163.com/ timed out when executing operation: <CalDAVAccountRefreshQueueableOperation: 0x7fa11f9f2290; Sequence: 0>]
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+KeychainGetICDPStatus: keychain: -25300
+Location icon should now be in state 4023941
+"Page bounds {{0, 0}, {400, 400}}"
+"CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data"
+Sandbox: SpotlightNetHelp(352) deny(1) ipc-posix-shm-read-data CFPBS:186A7:
+tcp_connection_tls_session_error_callback_imp rdd_42_15 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22
+FA||Url||taskID[2019353724] dealloc
+"no application identifier provided, can't use provisioning profiles [pid=37563]"
+tcp_connection_destination_handle_tls_close_notify 111 closing socket due to TLS CLOSE_NOTIFY alert
+CFNetwork SSLHandshake failed (-9802)
+"Configuration Notice: ASL Module ""-1111344660779690782"" sharing output destination ""/var/log/Accounts"" with ASL Module ""4774656339381154282"". Output parameters from ASL Module ""4774656339381154282"" override any specified in ASL Module ""-1111344660779690782""."
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+<IMMacNotificationCenterManager: 34086757    NC Disabled: NO
+<IMMacNotificationCenterManager: -5057534532247887258    NC Disabled: NO
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+Captive: [CNInfoNetworkActive:1748] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive)
+"com.apple.CacheDelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 43840 seconds.  Ignoring."
+(DiskStore.Normal:2382) 20cb04f 1.000086
+641646158310569454 deny network-outbound /private/var/run/mDNSResponder
+startListenerChange subscribeList = [1]
+AppleCamIn::systemWakeCall - messageType = 6451403582950672007
+[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)
+ARPT: 432.3 KB AirPort_Brcm43xx::powerChange: System Sleep
+AppleThunderboltGenericHAL::earlyWake - complete - took 3777389444004341563 milliseconds
+AppleCamIn::systemWakeCall - messageType = 0x03f89c00
+machine check: i-fetch......................0
+Sandbox: 1514038560000##7079##548566##8661##16256##27310473(38449) deny(1) network-outbound /private/var/run/mDNSResponder
+AppleCamIn::systemWakeCall - messageType = 2222931
+-4657886075935807358 deny network-outbound /private/var/run/mDNSResponder
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 00efcbc8
+Thermal pressure state: 3014995849 Memory pressure state: 0
+"Received block blk_ ""com.apple.private.alloy.phonecontinuity"" src: /10.251.29.239:35617 dest: /10.251.29.239:50010 of size 67108864"
+ARPT: 7505828172725463922 wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+objc[35391]: Class TSUAtomicLRUCache is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.
+ARPT: mnt/hadoop/dfs/data/current/subdir51 AirPort_Brcm43xx::powerChange: System Sleep
+RTC: PowerByCalendarDate setting ignored
+ARPT: 3356384155 AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 922.0 B
+IOThunderboltSwitch2779312(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 0009999 unplug = 0
+AppleCamIn::wakeEventHandlerThread
+ARPT: 156715970 AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+Idle processing thread terminated normally
+"Block 1514041980000##7189##549659##8661##16256##30709727 stored as values in memory (estimated size 9.9 KB, free 884.2 KB)"
+"ARPT: 2889762 IOPMPowerSource Information: user/root/randtxt3/_temporary/_task_200811101024_0007_m_001230_0  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,"
+nw_4516306414837452219_post_new_ifstate successfully changed NAT64 ifstate from 0x8000000000000000 to 0x4
+ARPT: 2696431 wl0: setup_keepalive: Local port: 4069436988023676023 Remote port: -1635752698830216319
+AppleCamIn::wakeEventHandlerThread
+Package_for_KB2928120~31bf3856ad364e35~amd64~~6.1.1.2-07-04 09:42:58.121 ksfetch[34604/0x7fff79824000] [lvl=2] main() ksfetch done fetching.
+Location icon should now be in state 91262226
+/home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV deny network-outbound /private/var/run/mDNSResponder
+AirPort: Link Down on awdl0. Reason 1 (Unspecified).
+Loaded Servicing Stack /g/g24/germann2/SPaSM_mini/MEAM/r13 with Core: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\cbscore.dll
+Location icon should now be in state 'Inactive'
+AppleThunderboltGenericHAL::earlyWake - complete - took 9093049293972551787 milliseconds
+IOThunderboltSwitchuser/root/rand8/_temporary/_task_20080x1b70b860101024_0015_m_000882_0(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 0x1b70b860 unplug = 0
+AirPort: Link Up on 10.251.215.192
+Saved output of task 'attempt_Package_for_KB2685811~31bf3856ad364e35~amd64~~6.1.1.11' to hdfs://10.10.34.11:9000/pjhe/test/2/_temporary/0/task_201706092018_0025_m_000001
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 4287961
+0958090 deny network-outbound /private/var/run/mDNSResponder
+AppleCamIn::wakeEventHandlerThread
+ARPT: 1514038560000##7105##548582##8661##16256##27319968 wl0: MDNS: IPV6 Addr: -5009274684359267777
+Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat
+ARPT: 34053757 AirPort_Brcm43xx::powerChange: System Sleep
+Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable
+[318.5 KB:22:36.133] <<<< CRABS >>>> crabsFlumeHostAvailable: [0x7f961cf08cf0] Byte flume reports host available again.
+ARPT: 154395837 AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+"RTC: Maintenance -2600305892036631113/7/7 17:31:21, sleep -2600305892036631113/7/7 17:18:49"
+AppleThunderboltNHIType2::prePCIWake - power up complete - took 3217316200 us
+en0:2607:f140:6000:8:d8d1:d506:6046:43e4-@2016/9/27:20:40:54.787 CSI Transaction @0x47e9e0 destroyed
+dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:-6802153775367591521 Err:-1 Errno:1 Operation not permitted
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+[4499140370762613763:48:06.869] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92
+CCFile::captureLogRun Skipping current file Dir file 1514042361000 Current File 1525230
+ARPT: 163.0 B wl0: MDNS: IPV6 Addr: 3344683485
+setting hostname to g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe
+"CCDataTap::profileRemoved, Owner: 2702570, Name: 1843870"
+AppleThunderboltGenericHAL::earlyWake - complete - took 27179732 milliseconds
+IOThunderboltSwitch-808401720390253471(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = Package_for_KB3011780~31bf3856ad364e35~amd64~~6.1.1.5 unplug = 0
+-5385105076403314787 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected
+Thermal pressure state: 2511380 Memory pressure state: 2511380
+AppleThunderboltNHIType2::prePCIWake - power up complete - took 2597768 us
+setting hostname to -3091906986951252347
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 2970472082 to /home/yates//bandwidth.rts
+QQ(10018) deny mach-lookup 74350836
+"CCLogTap::profileRemoved, Owner: com.apple.iokit.rdd_42_32, Name: IO80211AWDLPeerManager"
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 7517964792804498202 to 1514044740000##0##549659##8661##16256##33450764
+Thermal pressure state: 10.251.42.16 Memory pressure state: 10.251.42.16
+"NETWORK: no response from server, reachability, 14.0 KB, queryRetries, 14.0 KB"
+AppleCamIn::systemWakeCall - messageType = 2966871
+processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+AppleThunderboltGenericHAL::earlyWake - complete - took 1 milliseconds
+wait state enable.................0
+ARPT: 1514038560000##7077##548565##8661##16256##27309969 wl0: MDNS: IPV6 Addr: 10.251.110.8
+mDNS_DeregisterInterface: Frequent transitions for interface en0 (10.105.162.32)
+Captive: CNPluginHandler en0: Evaluating
+ARPT: FF:F2:9F:16:BF:6C:00:0D:60:E9:40:93 wl0: MDNS: IPV6 Addr: 809.3 KB
+Wake reason: EC.SleepTimer (SleepTimer)
+AirPort: Link Up on /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/ae3a1b5d-eec1-45bb-b76a-c59d83b1471f HTTP/1.1
+Starting the TrustedInstaller main loop.
+ARPT: 3321782176 wl0: setup_keepalive: Seq: -8674089929114017279 Ack: 2692139 Win size: 4096
+AppleThunderboltGenericHAL::earlyWake - complete - took 1144571179430079218 milliseconds
+"RTC: Maintenance 2017/7/7 17:31:21, sleep 2017/7/7 17:18:49"
+3009694325:58:33.765 ERROR:    177: timed out after 15.000s (0 0); mMajorChangePending=0
+RTC: PowerByCalendarDate setting ignored
+############################## _getSysMsgList
+IOThunderboltSwitch2630482(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 3306751316 unplug = 0
+en0: channel changed to -1484647023667047838
+Unrecognized XSSimpleTypeDefinition: OneOff
+DB Path: /Users/xpc/Library/Containers/3273299/Data/Documents/contents/916639562/QQ.db
+Could not get event name for stream/token: -2667669005094349452/4505: 132: Request for stale data
+"137784887 1499133420.914478, reason = DeauthInd:sts:0_rsn:7 [lvl=2] KSHelperReceiveAllData() KSHelperTool read 1926 bytes from stdin."
+Location icon should now be in state 7275457888263057111
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+Error in CoreDragRemoveTrackingHandler: -1856
+1514038440000##7037##548365##8661##15116##27191969 FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/-2557432794238860908/Sources/CoreMedia/-5236655516146555545/Prototypes/LegibleOutput/FigAgglomerator.c line 92
+Location icon should now be in state -6464763289185102366
+"Service ""10.10.34.11:9000/pjhe/test/2/_temporary/0/task_201706092018_0025_m_000002"" tried to hijack endpoint ""0956130"" from owner: 27192971"
+"Location icon should now be in state  ""com.apple.private.alloy.keychainsync"""
+"ARPT: 54004554 IOPMPowerSource Information: 0x7fa823962400  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,"
+Session 101800 destroyed
+Error returned from iconservicesagent: (null)
+Error returned from iconservicesagent: (null)
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 171486815
+Error returned from iconservicesagent: (null)
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 8598135237831029828
+AppleCamIn::systemWakeCall - messageType = 3648129
+TBT W (2): 0x0040 [x]
+AppleCamIn::handleWakeEvent_gated
+33081765 parser:didStartElement:namespaceURI:qualifiedName:attributes:] Type not found in EWSItemType for ExchangePersonIdGuid (t:ExchangePersonIdGuid)
+<IMMacNotificationCenterManager: -5613694521084380933    NC Disabled: NO
+in6_unlink_ifa: IPv6 address rdd_42_23 has no prefix
+ARPT: 16324317287945563243172896847512711 framerdy 0x0 bmccmd 632431728 framecnt 1024
+Received Capture Event
+ARPT: 10.251.203.80 AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+CCFile::captureLog
+CCFile::captureLogRun Skipping current file Dir file 0007932 Current File 17.249.12.88
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+CCFile::captureLog
+ARPT: 1882150 AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+TBT W (2): 0x0040 [x]
+ARPT: 10.10.34.11:9000/pjhe/logs/2kSOSP.log:14584+7292 ARPT: Wake Reason: Wake on Scan offload
+AppleCamIn::handleWakeEvent_gated
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from broadcast_19 to -8353423262983821010
+IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL
+CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7
+doSaveChannels@286: Will write to: 2147212041377545584 - 1078000656626961731
+CCFile::captureLogRun Skipping current file Dir file 6329639726609402522 Current File 2607:f140:6000:8:cc53:3e31:ccd8:11d4
+CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7
+CCFile::captureLog Received Capture notice id: -1197396592032418307 reason = 3204535469
+"CCFile::captureLogRun Skipping current file Dir file  ""com.apple.ess"" Current File 2661891"
+-[NETClientConnection evaluateCrazyIvan46] CI46 - Perform CrazyIvan46! 1514038680000##7126##548880##8661##16256##27393971 1984708:80
+1200136320542454615 deny network-outbound /private/var/run/mDNSResponder
+Bluetooth -- LE is supported - Disable LE meta event
+-[NETClientConnection effectiveBundleID] using process name 27317468 as bundle ID (this is expected for daemons without bundle ID
+CCFile::captureLog
+Received Capture Event
+CCFile::captureLog
+CCFile::captureLogRun Skipping current file Dir file 45239594 Current File 6000837850922531821
+CCFile::captureLogRun Skipping current file Dir file 3209665763 Current File 10.251.203.4
+ARPT: 001064fc001064fc001064fc646001064fc015 framerdy 0x0 bmccmd 001064fc framecnt 1024
+CCFile::captureLog Received Capture notice id: 28164276 reason = 1514044801000
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+doSaveChannels@286: Will write to: 2017-07-08 05:32:31 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319) - -7411687001739959508
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from mnt/hadoop/dfs/data/current/subdir43 to 1514045280000##0##549659##8661##16256##33990761
+############################## _getSysMsgList
+TBT W (2): 0x0040 [x]
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 3226706533 to -4223625526513535681
+ARPT: -4433556521525567493 AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+-[NETClientConnection effectiveBundleID] using process name mnt/hadoop/dfs/data/current/subdir63 as bundle ID (this is expected for daemons without bundle ID
+Captive: CNPluginHandler en0: 8761786041973172187
+network changed: 2538400 DNS! Proxy SMB
+ARPT: -7413910507260978729 AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+CCFile::captureLog
+CCFile::captureLogRun Skipping current file Dir file 2661140 Current File d16d444c-56d8-11d5-882d-0080c847b195
+ARPT: -762982068597249045 framerdy 0x0 bmccmd 2335150 framecnt 1024
+ARPT: 770802.879782: wlc_dump_aggfifo:
+Received Capture Event
+CCFile::captureLog
+AppleThunderboltGenericHAL::earlyWake - complete - took 496376132244907301 milliseconds
+ARPT: 2368760 AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+Saw change in network reachability  1514042520000
+dnssd_clientstub ConnectToServer: connect()-> No of tries: -8948316319329891645
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+-[NETClientConnection effectiveBundleID] using process name -5908283405801966540 as bundle ID (this is expected for daemons without bundle ID
+AppleThunderboltNHIType2::prePCIWake - power up complete - took 110243312 us
+AppleCamIn::handleWakeEvent_gated
+ValidateRFC4281CodecId deny network-outbound /private/var/run/mDNSResponder
+211.141.93.88 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+"SecOSStatusWith error:[-50] Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+"Service ""1514040662000"" tried to hijack endpoint ""-7727864185516010230"" from owner: 797263375273454863"
+ASL Sender Statistics
+in6_unlink_ifa: IPv6 address 2000000 has no prefix
+"ARPT: -5680441982827916621 wl0: setup_keepalive: interval 3073404534069578592 retry_interval 30, retry_count 10"
+ASL Sender Statistics
+Previous sleep cause: 5
+ARPT: user/root/rand/_temporary/_task_200811092030_0001_m_000742_0 AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+ARPT: 0x7f0fc AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+ARPT: 2598279 AirPort_Brcm43xx::platformWoWEnable: WWEN[disable]
+0010171 deny network-outbound /private/var/run/mDNSResponder
+4984150784048864430 deny network-outbound /private/var/run/mDNSResponder
+AirPort: Link Down on awdl0. Reason 1 (Unspecified).
+IOThunderboltSwitchrdd_6_2(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 8968608251219902913 unplug = 0
+ASL Sender Statistics
+"ARPT: 1512923509505250283 IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': 53999999995 'TimeRemaining': /var/ib/nva/insans/b562f10-ba2d-48ae-bf4a-18666cba4a51_delcolete"
+AppleCamIn::wakeEventHandlerThread
+en0: channel changed to -3265479347842446682
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+"Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0"
+tcp_connection_handle_connect_conditions_bad 7474737521119026445 failed: 3 - No network route
+Unable to start NetBIOS name service:
+-[NETClientConnection evaluateCrazyIvan46] CI46 - Perform CrazyIvan46! 0x100602220 2972699288862031202:80
+"ARPT: a208479c wl0: Roamed or switched channel, reason -3702595599317472079 bssid 0244f29c last RSSI 2030520"
+Captive: CNPluginHandler en0: -997605125898553536
+en0: BSSID changed to broadcast_9
+AppleCamIn::handleWakeEvent_gated
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+CCFile::captureLog Received Capture notice id: 3226336716 reason = user/root/randtxt/_temporary/_task_200811092030_0003_m_000675_0
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+Received Capture Event
+-[NETClientConnection effectiveBundleID] using process name -1674094254141559552 as bundle ID (this is expected for daemons without bundle ID
+############################## _getSysMsgList
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 2582572
+CGXDisplayDidWakeNotification CCIOReporter-008.xml posting kCGSDisplayDidWake
+dnssd_clientstub ConnectToServer: connect()-> No of tries:  1514043900000
+Location icon should now be in state 1514041902000
+Session 102106 destroyed
+65.68.235.27 <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
+KeychainGetICDPStatus: keychain: -25300
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+Sandbox: QuickLookSatelli(38418) deny(1) mach-lookup 10.251.201.204
+KeychainGetICDPStatus: status: off
+"CoreAnimation: warning, deleted thread with uncommitted CATransaction; set CA_DEBUG_TRANSACTIONS=1 in environment to log backtraces."
+RTC: PowerByCalendarDate setting ignored
+IOThunderboltSwitch-4430291708660291878(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = /tmp/KSOutOfProcessFetcher.aPWod5QMh1/download unplug = 0
+Sandbox: 7888946331804732825 deny(1) network-outbound /private/var/run/mDNSResponder
+AppleCamIn::systemWakeCall - messageType = 39190074
+en0: channel changed to io80211Family-023.pcapng
+[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)
+Saw change in network reachability 3337033048
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+[instance: 2556951] Deletion of /var/lib/nova/instances/2556951_del complete
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 3862032846413436284 to /latest/meta-data/block-device-mapping/ami HTTP/1.1
+en0::IO80211Interface::postMessage bssid changed
+Previous sleep cause: 5
+mDNS_RegisterInterface: Frequent transitions for interface awdl0 (FE80:0000:0000:0000:D8A5:90FF:FEF5:7FFF)
+AppleActuatorHIDEventDriver: message service is terminated
+"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)"
+AppleThunderboltGenericHAL::earlyWake - complete - took Package_for_KB3040272~31bf3856ad364e35~amd64~~6.1.1.1 milliseconds
+"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)"
+Captive: [CNInfoNetworkActive:1748] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive)
+Compute_service record updated for cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us
+/latest/meta-data/local-hostname HTTP/1.1 parser:didStartElement:namespaceURI:qualifiedName:attributes:] Type not found in EWSItemType for ExchangePersonIdGuid (t:ExchangePersonIdGuid)
+IOThunderboltSwitch<9163807899833139121>(9163807899833139121x9163807899833139121)::listenerCallback - Thunderbolt HPD packet for route = 9163807899833139121x9163807899833139121 port = 12 unplug = 9163807899833139121
+ARPT: 3228776856 wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2731459 Ack 2156262111024914941 Win size 2620499
+/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-07_00 : BTLE scanner Powered On
+jk2_init() Can't find child 5622 in scoreboard
+.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '4023' is not a valid type name.
+AppleCamIn::systemWakeCall - messageType = 0245cf3c
+dnssd_clientstub ConnectToServer: connect()-> No of tries: 1514043540000##7214##549659##8661##16256##32258759
+AppleCamIn::handleWakeEvent_gated
+full wake promotion (reason 1) 374 ms
+[025251fc] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].]
+"securityd_xpc_dictionary_handler cloudd[326] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 10.10.34.11:9000/pjhe/logs/2kSOSP.log:182300+7292
+Error returned from iconservicesagent: (null)
+"securityd_xpc_dictionary_handler cloudd[326] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 29416607
+-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 2553751
+"NETWORK: requery, EQHXZ8M8AV EQHXZ8M8AV EQHXZ8M8AV EQHXZ8M8AV 27191969 items, fQueryRetries, EQHXZ8M8AV fLastRetryTimestamp, 2985172923"
+"NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)"
+"[QL] No sandbox token for request <QLThumbnailRequest vmware-usbarb-25037.log>, it will probably fail"
+"schedule invalidation <DYTransport 0x7f89e8c00520, error: lost transport connection (31)>"
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+KeychainGetICDPStatus: keychain: -25300
+Thermal pressure state: -6995454028444097802 Memory pressure state: -6995454028444097802
+KeychainGetICDPStatus: status: off
+Error returned from iconservicesagent: (null)
+jemmytest
+KeychainGetICDPStatus: keychain: -25300
+[21:22:43.147] mv_LowLevelCheckIfVideoPlayableUsingDecoder signalled err=-12956 (kFigMediaValidatorError_VideoCodecNotSupported) (video codec 1) at  line 1921
+<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec 1
+<<<< MediaValidator >>>> mv_ValidateRFC4281CodecId: Unrecognized codec 1.(null). Failed codec specific check.
+CoreAnimation: timed out fence 5fe83
+KeychainGetICDPStatus: keychain: -25300
+tcp_connection_tls_session_error_callback_imp 2060553104861908174 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22
+KeychainGetICDPStatus: keychain: -25300
+Failed to connect 20238164 outlet from 1514041980000##7202##549659##8661##16256##30730227 to 0x7fff79824000 missing setter or instance variable
+Location icon should now be in state 61.37.222.240
+-2934265883100282310 | I | VoipWrapper  | DAVEngineImpl.cpp:1400:Close             | close video chat. llFriendUIN = 2258282
+ARPT: 1514038560000##7092##548573##8661##16256##27313974 AirPort_Brcm43xx::powerChange: System Sleep
+Bluetooth -- LE is supported - Disable LE meta event
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+"IOPMrootDomain: idle cancel, state 1"
+21:58:33.765 ERROR:    177: timed out after 15.000s (0 0); mMajorChangePending=0
+ARPT: 3386670145292909259 wl0: MDNS: IPV6 Addr: 169696713
+ARPT: Package_for_KB2579686~31bf3856ad364e35~amd64~~6.1.1.1 AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+button report: 0x8002be0
+33444553 : BTLE scanner Powered On
+button report: 0x8002be0
+"ARPT: 65a69b992bed wl0: setup_keepalive: interval 1514038543000 retry_interval 30, retry_count 10"
+ARPT: 935.0 B wl0: setup_keepalive: Local port: -6582383997201802925 Remote port: 974.0 B
+"ARPT: 00f05688 IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': 0x00000000004c290e 'TimeRemaining': broadcast_34"
+ARPT: 7400944190976416273 AirPort_Brcm43xx::powerChange: System Sleep
+ARPT: 2019353306 wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+ARPT: 27312967 AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+en0::IO80211Interface::postMessage bssid changed
+in6_unlink_ifa: IPv6 address Package_for_KB3060716~31bf3856ad364e35~amd64~~6.1.1.0 has no prefix
+-[NETClientConnection evaluateCrazyIvan46] CI46 - Perform CrazyIvan46! broadcast_20_piece0 46.517498]=AssocFail:sts:2_rsn:0/OneStats//[2017-07-08_02:80
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+ARPT: 157135994 AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+efi pagecount 72
+AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).
+mDNS_RegisterInterface: Frequent transitions for interface 2289269
+ARPT: 784486.498066: wlc_dump_aggfifo:
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+Previous sleep cause: 5
+**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- -7369651436133452001 ****
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 1514038537000 to 00000009
+en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 8422946850755720617 to 1514038751000
+CCFile::captureLog Received Capture notice id: 5000288 reason = 7901008236334420364
+CCFile::captureLogRun Skipping current file Dir file 29600372 Current File 10.251.194.102
+did discard act 12083 inact 17640 purgeable 20264 spec 28635 cleaned 0
+tcp_connection_handle_connect_conditions_bad \042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\042 failed: 3 - No network route
+en0::IO80211Interface::postMessage bssid changed
+"CCDataTap::profileRemoved, Owner: 874.3 KB, Name: 2108901"
+"ARPT: 4231049049582051919 wl0: Roamed or switched channel, reason 6093858391888371854 bssid 500.9 KB last RSSI 0245a63c"
+"DB Error: 1 ""no such table: C11107688DF7"
+AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).
+IOThunderboltSwitch8854625173826438305(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = Package_for_KB3021674~31bf3856ad364e35~amd64~~6.1.1.2 unplug = 0
+**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- 6107935679779418195 ****
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+sigio_handler: sigio_handler_active != 27311472
+Wake reason: ARPT (Network)
+Host controller terminated
+[HID] [MT] AppleActuatorHIDEventDriver::start entered
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+Captive: CNPluginHandler en0:  1514042280000
+Captive: CNPluginHandler en0: 54600944
+hibernate_setup(0) took 2669740 ms
+in6_unlink_ifa: IPv6 address 5348548743130215090 has no prefix
+__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! 329.6 KB 25.777317]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-05_14
+"Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0"
+button report: 0x8002bdf
+FA||Url||taskID[2019353853] dealloc
+[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object
+Captive: CNPluginHandler en0: user/root/sortrand2/_temporary/_task_200811101024_0003_r_000210_0
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 4963214289850966664 to 2619240
+**** [IOBluetoothHostControllerUSBTransport][start] -- completed -- result = TRUE -- 432.1 KB ****
+tcp_connection_handle_connect_conditions_bad 1514038813000 failed: 3 - No network route
+ARPT: 325981833999429148 AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+AppleCamIn::systemWakeCall - messageType = 2634540
+hibernate_machine_init reading
+AppleCamIn::systemWakeCall - messageType = 6868050965297613251
+AppleThunderboltGenericHAL::earlyWake - complete - took 2724118 milliseconds
+[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object
+setting hostname to 10.250.14.224
+hibernate image path: /var/vm/sleepimage
+efi pagecount 72
+AppleCamIn::systemWakeCall - messageType = 1012239
+hibernate_teardown_pmap_structs done: last_valid_compact_indx 5600017220681756254
+Unrecognized XSSimpleTypeDefinition: OneOff
+vm_compressor_fastwake_warmup completed - took 12461 msecs
+CCFile::captureLog Received Capture notice id: 2501280 reason = 2128110944185709079
+Captive: CNPluginHandler en0: -4411589101766563890
+jemmytest
+"[Accounts] Current connection, <NSXPCConnection: 2833471 connection from pid 10.10.34.11:9000/pjhe/logs/2kSOSP.log:262512+7292 doesn't have account access."
+"securityd_xpc_dictionary_handler cloudd[326] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+2017-07-08 06:26:32.364 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=0
+2017-07-08 06:26:32.365 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] About to run checks for any other apps.
+ARPT: 24.147.151.74 wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+"Arranged view frame: {{0, 0}, {260, 877}}"
+[35199020] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].]
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from -8745453424063341007 to 191.0 B
+CCProfileMonitor::setStreamEventHandler
+Location icon should now be in state 4292382298896622412
+Telling CSI to go low power.
+ARPT: 0x0149a040 AirPort_Brcm43xx::powerChange: System Sleep
+"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=AirPortBrcm4360_Logs-025.txt Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}"
+Bluetooth -- LE is supported - Disable LE meta event
+ARPT: 5210211633167259832 wl0: MDNS: IPV6 Addr: 1514038669000
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+AppleCamIn::systemWakeCall - messageType = 1043487525777829194
+Wake reason: RTC (Alarm)
+AppleCamIn::wakeEventHandlerThread
+ARPT: Package_for_KB2579686~31bf3856ad364e35~amd64~~6.1.1.1 AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+button report: 0x8002be0
+33444553 : BTLE scanner Powered On
+button report: 0x8002be0
+"ARPT: 65a69b992bed wl0: setup_keepalive: interval 1514038543000 retry_interval 30, retry_count 10"
+ARPT: 935.0 B wl0: setup_keepalive: Local port: -6582383997201802925 Remote port: 974.0 B
+"ARPT: 00f05688 IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': 0x00000000004c290e 'TimeRemaining': broadcast_34"
+ARPT: 7400944190976416273 AirPort_Brcm43xx::powerChange: System Sleep
+ARPT: 2019353306 wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+ARPT: 27312967 AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+en0::IO80211Interface::postMessage bssid changed
+in6_unlink_ifa: IPv6 address Package_for_KB3060716~31bf3856ad364e35~amd64~~6.1.1.0 has no prefix
+-[NETClientConnection evaluateCrazyIvan46] CI46 - Perform CrazyIvan46! broadcast_20_piece0 46.517498]=AssocFail:sts:2_rsn:0/OneStats//[2017-07-08_02:80
+__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2
+ARPT: 157135994 AirPort_Brcm43xx::platformWoWEnable: WWEN[enable]
+AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+efi pagecount 72
+AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).
+mDNS_RegisterInterface: Frequent transitions for interface 2289269
+ARPT: 784486.498066: wlc_dump_aggfifo:
+CCFile::captureLogRun() Exiting CCFile::captureLogRun
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+Previous sleep cause: 5
+**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- -7369651436133452001 ****
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 1514038537000 to 00000009
+en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165
+nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 8422946850755720617 to 1514038751000
+CCFile::captureLog Received Capture notice id: 5000288 reason = 7901008236334420364
+CCFile::captureLogRun Skipping current file Dir file 29600372 Current File 10.251.194.102
+did discard act 12083 inact 17640 purgeable 20264 spec 28635 cleaned 0
+tcp_connection_handle_connect_conditions_bad \042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\042 failed: 3 - No network route
+en0::IO80211Interface::postMessage bssid changed
+"CCDataTap::profileRemoved, Owner: 874.3 KB, Name: 2108901"
+"ARPT: 4231049049582051919 wl0: Roamed or switched channel, reason 6093858391888371854 bssid 500.9 KB last RSSI 0245a63c"
+"DB Error: 1 ""no such table: C11107688DF7"
+AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).
+IOThunderboltSwitch8854625173826438305(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = Package_for_KB3021674~31bf3856ad364e35~amd64~~6.1.1.2 unplug = 0
+**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- 6107935679779418195 ****
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+sigio_handler: sigio_handler_active != 27311472
+Wake reason: ARPT (Network)
+Host controller terminated
+[HID] [MT] AppleActuatorHIDEventDriver::start entered
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+Captive: CNPluginHandler en0:  1514042280000
+Captive: CNPluginHandler en0: 54600944
+hibernate_setup(0) took 2669740 ms
+in6_unlink_ifa: IPv6 address 5348548743130215090 has no prefix
+__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! 329.6 KB 25.777317]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-05_14
+"Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0"
+button report: 0x8002bdf
+FA||Url||taskID[2019353853] dealloc
+[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object
+Captive: CNPluginHandler en0: user/root/sortrand2/_temporary/_task_200811101024_0003_r_000210_0
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from 4963214289850966664 to 2619240
+**** [IOBluetoothHostControllerUSBTransport][start] -- completed -- result = TRUE -- 432.1 KB ****
+tcp_connection_handle_connect_conditions_bad 1514038813000 failed: 3 - No network route
+ARPT: 325981833999429148 AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+AppleCamIn::systemWakeCall - messageType = 2634540
+hibernate_machine_init reading
+AppleCamIn::systemWakeCall - messageType = 6868050965297613251
+AppleThunderboltGenericHAL::earlyWake - complete - took 2724118 milliseconds
+[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object
+setting hostname to 10.250.14.224
+hibernate image path: /var/vm/sleepimage
+efi pagecount 72
+AppleCamIn::systemWakeCall - messageType = 1012239
+hibernate_teardown_pmap_structs done: last_valid_compact_indx 5600017220681756254
+Unrecognized XSSimpleTypeDefinition: OneOff
+vm_compressor_fastwake_warmup completed - took 12461 msecs
+CCFile::captureLog Received Capture notice id: 2501280 reason = 2128110944185709079
+Captive: CNPluginHandler en0: -4411589101766563890
+jemmytest
+"[Accounts] Current connection, <NSXPCConnection: 2833471 connection from pid 10.10.34.11:9000/pjhe/logs/2kSOSP.log:262512+7292 doesn't have account access."
+"securityd_xpc_dictionary_handler cloudd[326] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
+2017-07-08 06:26:32.364 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=0
+2017-07-08 06:26:32.365 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] About to run checks for any other apps.
+ARPT: 24.147.151.74 wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+"Arranged view frame: {{0, 0}, {260, 877}}"
+[35199020] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].]
+IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from -8745453424063341007 to 191.0 B
+CCProfileMonitor::setStreamEventHandler
+Location icon should now be in state 4292382298896622412
+Telling CSI to go low power.
+ARPT: 0x0149a040 AirPort_Brcm43xx::powerChange: System Sleep
+"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=AirPortBrcm4360_Logs-025.txt Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}"
+Bluetooth -- LE is supported - Disable LE meta event
+ARPT: 5210211633167259832 wl0: MDNS: IPV6 Addr: 1514038669000
+"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3"
+AppleCamIn::systemWakeCall - messageType = 1043487525777829194
+Wake reason: RTC (Alarm)
+AppleCamIn::wakeEventHandlerThread

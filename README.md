@@ -87,6 +87,52 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
+## Example usage ISSRE 23
+Use `logchimera` for mixing
+```bash
+# Apache example
+$ python
+Python 3.9.16 (main, Mar  8 2023, 04:29:44)
+[Clang 14.0.6 ] :: Anaconda, Inc. on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from logchimera.logchimera import increase_heterogeneity_for_file
+>>> increase_heterogeneity_for_file("experiments/Apache/Apache_2k.log_structured.csv", 0.58, "Apache")
+Heterogeneity is: 0.7463220973782771 for dataset datasets_mixing/15_Apache.csv
+```
+
+```bash
+# BGL example
+$ python
+Python 3.9.16 (main, Mar  8 2023, 04:29:44)
+[Clang 14.0.6 ] :: Anaconda, Inc. on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from logchimera.logchimera import increase_heterogeneity_for_file
+>>> increase_heterogeneity_for_file("experiments/BGL/BGL_2k.log_structured.csv", 0.69, "BGL")
+Heterogeneity is: 0.9082347066167291 for dataset datasets_mixing/15_BGL.csv
+```
+
+```bash
+# HPC example
+$ python
+Python 3.9.16 (main, Mar  8 2023, 04:29:44)
+[Clang 14.0.6 ] :: Anaconda, Inc. on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from logchimera.logchimera import increase_heterogeneity_for_file
+>>> increase_heterogeneity_for_file("experiments/HPC/HPC_2k.log_structured.csv", 0.59, "HPC")
+Heterogeneity is: 0.7299176029962546 for dataset datasets_mixing/15_HPC.csv
+```
+
+```bash
+# Mac example
+$ python
+Python 3.9.16 (main, Mar  8 2023, 04:29:44)
+[Clang 14.0.6 ] :: Anaconda, Inc. on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from logchimera.logchimera import increase_heterogeneity_for_file
+>>> increase_heterogeneity_for_file("experiments/Mac/Mac_2k.log_structured.csv", 0.40, "Mac")
+Heterogeneity is: 0.9011235955056179 for dataset datasets_mixing/5_Mac.csv
+```
+
 ## Installation
 
 ```bash

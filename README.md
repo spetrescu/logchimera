@@ -151,8 +151,19 @@ Python 3.9.16 (main, Mar  8 2023, 04:29:44)
 [Clang 14.0.6 ] :: Anaconda, Inc. on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> from logchimera.logchimera import fuzz_data
->>> fuzz_data("datasets_mixing/20_BGL.csv", "Apache", 25)
-Heterogeneity is: 1.0 for dataset fuzzing/BGL_20_fuzzed_final.csv
+>>> fuzz_data("datasets_mixing/20_BGL.csv", "BGL", 20)
+Heterogeneity is: 1.0 for dataset fuzzing/BGL_20_fuzzed.csv
+```
+
+```bash
+# Mac example
+$ python
+Python 3.9.16 (main, Mar  8 2023, 04:29:44)
+[Clang 14.0.6 ] :: Anaconda, Inc. on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from logchimera.logchimera import fuzz_data
+>>> fuzz_data("datasets_mixing/8_Mac.csv", "Mac", 8)
+Heterogeneity is: 1.0 for dataset fuzzing/Mac_8_fuzzed.csv
 ```
 
 

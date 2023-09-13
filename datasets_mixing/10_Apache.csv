@@ -1,98 +1,98 @@
 Content,EventTemplate,Variables
-CCProfileMonitor::setStreamEventHandler,CCProfileMonitor::setStreamEventHandler,0
-00000009@2016/9/28:16:01:03.072 PopulateComponentFamiliesKey - End,<*>@<*>/<*>/<*>:<*>:<*>:<*>.<*> PopulateComponentFamiliesKey - End,0
+"ChromeExistion main strSendMsg = {""websitekey"":false,""commandkey"":true,""browserkey"":true}","ChromeExistion main strSendMsg = {""websitekey"":false,""commandkey"":true,""browserkey"":true}",0
+AppleActuatorHIDEventDriver: message service is terminated,AppleActuatorHIDEventDriver: message service is terminated,0
 "timeStamp back,extendReportTimeStamp=1514042265000","timeStamp back,extendReportTimeStamp=<*>",0
 16 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,<*> tree receiver <*> in re-synch state event(s) (dcr <*>) detected,0
 2017-07-04 09:42:58.121 ksfetch[34604/0x7fff79824000] [lvl=2] main() ksfetch done fetching.,<*>-<*>-<*> <*>:<*>:<*>.<*> ksfetch[<*>/<*>] [lvl=<*>] main() ksfetch done fetching.,0
-"Partition rdd_42_39 not found, computing it","Partition rdd_<*> not found, computing it",0
-Bluetooth -- LE is supported - Disable LE meta event,Bluetooth -- LE is supported - Disable LE meta event,0
-"CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: IO80211AWDLPeerManager","CCLogTap::profileRemoved, Owner: com.apple.iokit.<*>, Name: <*>",0
-"upLoadOneMinuteDataToEngine time=25233979,0,46,0,20002","upLoadOneMinuteDataToEngine time=<*>,<*>,<*>,<*>,<*>",0
-"arp_client_transmit(en0) failed, Network is down (50)","arp_client_transmit(<*>) failed, Network is down (<*>)",0
-08:21:18.004 : Discoverable mode changed to Off,<*>:<*>:<*>.<*> : Discoverable mode changed to Off,0
+ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error,ciod: LOGIN chdir(<*>) failed: Input/output error,0
+[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01),[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (<*>),0
+-deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.,<*>-deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.,0
+CCXPCService::setStreamEventHandler Registered for notification callback.,CCXPCService::setStreamEventHandler Registered for notification callback.,0
+"hibernate_machine_init pagesDone 451550 sum2 4886d9d9, time: 197 ms, disk(0x20000) 799 Mb/s, comp bytes: 40017920 time: 27 ms 1412 Mb/s, crypt bytes: 160550912 time: 39 ms 3904 Mb/s","hibernate_machine_init pagesDone <*> sum2 <*>, time: <*> ms, disk(<*>) <*> Mb/s, comp bytes: <*> time: <*> ms <*> Mb/s, crypt bytes: <*> time: <*> ms <*> Mb/s",0
+"Block broadcast_40 stored as values in memory (estimated size 9.9 KB, free 884.2 KB)","Block <*> stored as values in memory (estimated size <*>, free <*>)",0
 "stepSyncOrNot appSynTimes is 0, statsyncTimes is 0","stepSyncOrNot appSynTimes is <*>, statsyncTimes is <*>",0
 "No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.","No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.",0
 "[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] memory limit: 96258.00 MB, free: 95746.00 MB","[instance: <*>] memory limit: <*>.<*> MB, free: <*>.<*> MB",0
-Started reading broadcast variable 40,Started reading broadcast variable <*>,0
-2017-07-05 10:52:16.977 GoogleSoftwareUpdateAgent[35861/0x700000323000] [lvl=2] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.,<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.,0
-data store interrupt caused by icbi.........0,data store interrupt caused by icbi.........<*>,0
+Failed to connect (titleField) outlet from (MMSessionPickerChoosenRowView) to (NSTextField): missing setter or instance variable,Failed to connect (titleField) outlet from (MMSessionPickerChoosenRowView) to (NSTextField): missing setter or instance variable,0
+"NETWORK: requery, 0, 0, 0, 0, 328, items, fQueryRetries, 0, fLastRetryTimestamp, 521177334.4","NETWORK: requery, <*>, <*>, <*>, <*>, <*>, items, fQueryRetries, <*>, fLastRetryTimestamp, <*>.<*>",0
+Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable,Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable,0
 Starting executor ID 5 on host mesos-slave-07,Starting executor ID <*> on host <*>,0
 [16:57:09.235] <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification,[<*>:<*>:<*>.<*>] <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification,0
 Captive: CNPluginHandler en0: Inactive,Captive: CNPluginHandler en0: Inactive,0
 10.250.15.198:50010 Starting thread to transfer block blk_4292382298896622412 to 10.250.15.240:50010,<*>:<*> Starting thread to transfer block blk_<*> to <*>:<*>,0
-Captive: [CNInfoNetworkActive:1748] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive),Captive: [CNInfoNetworkActive:<*>] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive),0
-"mapred.job.id is deprecated. Instead, use mapreduce.job.id","mapred.job.id is deprecated. Instead, use mapreduce.job.id",0
-Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat,Unloading offline registry hive: <*>,0
-"insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT","insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = <*>,errorMessage = ERR_DATA_INSERT",0
-Failed to internally open package. [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE],Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE],0
-[HID] [ATC] [Error] AppleDeviceManagementHIDEventService::start Could not make a string from out connection notification key,[HID] [ATC] [Error] AppleDeviceManagementHIDEventService::start Could not make a string from out connection notification key,0
+tcp_connection_destination_perform_socket_connect 45238 connectx to 123.125.50.30:993@0 failed: [50] Network is down,tcp_connection_destination_perform_socket_connect <*> connectx to <*>:<*>@<*> failed: [<*>] Network is down,0
+[11:48:06.869] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92,[<*>:<*>:<*>.<*>] FigAgglomeratorSetObjectForKey signalled err=<*> (kFigStringConformerError_ParamErr) (NULL key) at <*> line <*>,0
+QQ(10018) deny mach-lookup com.apple.networking.captivenetworksupport,<*>(<*>) deny mach-lookup com.apple.networking.captivenetworksupport,0
+"While synchronizing instance power states, found 1 instances in the database and 0 instances on the hypervisor.","While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",0
+KeychainGetICDPStatus: keychain: -25300,KeychainGetICDPStatus: keychain: <*>,0
+"CCFile::captureLog Received Capture notice id: 1499133420.914478, reason = DeauthInd:sts:0_rsn:7","CCFile::captureLog Received Capture notice id: <*>, reason = DeauthInd:sts:<NUM>_rsn:<NUM>",0
 TrustedInstaller service starts successfully.,TrustedInstaller service starts successfully.,0
 instruction address space.........0,instruction address space.........<*>,0
 "[QL] No sandbox token for request <QLThumbnailRequest vmware-usbarb-25037.log>, it will probably fail","[QL] No sandbox token for request <QLThumbnailRequest vmware-usbarb-<*>.log>, it will probably fail",0
-no sleep images for WillPowerOffWithImages,no sleep images for WillPowerOffWithImages,0
-<<<< MediaValidator >>>> mv_ValidateRFC4281CodecId: Unrecognized codec 1.(null). Failed codec specific check.,<<<< MediaValidator >>>> mv_<*>: Unrecognized codec <*>.(null). Failed codec specific check.,0
-"ciod: Received signal 15, code=0, errno=0, address=0x000001f2","ciod: Received signal <*>, code=<*>, errno=<*>, address=<*>",0
-byte ordering exception.....................0,byte ordering exception.....................<*>,0
+Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*>.<*> volt rail is OK. The <*>.<*> volt rail is OK.,0
+Starting the TrustedInstaller main loop.,Starting the TrustedInstaller main loop.,0
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.,-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.,0
+Idle processing thread terminated normally,Idle processing thread terminated normally,0
 "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage","image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage",0
 ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff,ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>,0
 [instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Took 1.02 seconds to destroy the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to destroy the instance on the hypervisor.,0
--[NETClientConnection effectiveBundleID] using process name CalendarAgent as bundle ID (this is expected for daemons without bundle ID,-[NETClientConnection effectiveBundleID] using process name CalendarAgent as bundle ID (this is expected for daemons without bundle ID,0
-Could not get event name for stream/token: com.apple.xpc.activity/4505: 132: Request for stale data,Could not get event name for stream/token: com.apple.xpc.activity/<*>: <*>: Request for stale data,0
-Lustre mount FAILED : bglio617 : block_id : location,Lustre mount FAILED : bglio<*> : block_id : location,0
-[12:22:42.202] itemasync_SetProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c line 2306,[<*>:<*>:<*>.<*>] itemasync_SetProperty signalled err=<*> (kFigBaseObjectError_Invalidated) (invalidated) at <*> line <*>,0
+after trim url = https://www.google.com/_/chrome/newtab?rlz=1C5CHFA_enHK732HK732&espv=2&ie=UTF-8,after trim url = https://www.google.com/_/chrome/newtab?rlz=<*>_<*>&espv=<*>&ie=UTF-<*>,0
+"2017-07-04 09:42:57.924 GoogleSoftwareUpdateAgent[34603/0x700000323000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/GoogleSoftwareUpdateDaemon' with the requirement 'anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists and certificate leaf[subject.OU]=""EQHXZ8M8AV"" and (identifier=""com.google.Keystone"")'","<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/GoogleSoftwareUpdateDaemon' with the requirement 'anchor apple generic and certificate <*>[field.<*>.<*>] exists and certificate leaf[field.<*>.<*>] exists and certificate leaf[subject.OU]=""<*>"" and (identifier=""com.google.Keystone"")'",0
+"securityd_xpc_dictionary_handler cloudd[326] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}","securityd_xpc_dictionary_handler cloudd[<*>] copy_matching Error Domain=NSOSStatusErrorDomain Code=<*> ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}",0
+instruction cache parity error corrected,instruction cache parity error corrected,0
 Cocoa scripting error for '0x02cb000d': four character codes must be four characters long.,Cocoa scripting error for '<*>': four character codes must be four characters long.,0
 CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions,CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions,0
 onReceive action: android.intent.action.SCREEN_OFF,onReceive action: android.intent.action.SCREEN_OFF,0
-00000010@2016/9/27:20:40:54.787 CSI Transaction @0x47e9e0 destroyed,<*>@<*>/<*>/<*>:<*>:<*>:<*>.<*> CSI Transaction @<*> destroyed,0
-"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Total vcpu: 16 VCPU, used: 0.00 VCPU","[instance: <*>] Total vcpu: <*> VCPU, used: <*>.<*> VCPU",0
+Lustre mount FAILED : bglio388 : point /p/gb1,Lustre mount FAILED : bglio<*> : point <*>,0
+objc[35448]: Class TSUCustomFormatData is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.,objc[<*>]: Class TSUCustomFormatData is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.,0
 hibernate_teardown completed - discarded 93932,hibernate_teardown completed - discarded <*>,0
 ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:51706,ciod: failed to read message prefix on control stream (CioStream socket to <*>:<*>,0
 program interrupt: fp cr field .............0,program interrupt: fp cr field .............<*>,0
 wait state enable.................0,wait state enable.................<*>,0
-handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3),handle_will_sleep_auth_and_shield_windows: Reordering authw <*>(<*>) (lock state: <*>),0
-ARPT: 770605.092581: ARPT: Wake Reason: Wake on Scan offload,ARPT: <*>.<*>: ARPT: Wake Reason: Wake on Scan offload,0
-network changed: v4(en0!:10.105.162.105) DNS+ Proxy+ SMB,network changed: <*>(<*>!:<*>) DNS+ Proxy+ SMB,0
-3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,<*> L3 EDRAM error(s) (dcr <*>) detected and corrected,0
-ARPT: 770786.961436: AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0,ARPT: <*>.<*>: AQM agg params <*> maxlen hi/lo <*> <*> minlen <*> adjlen <*>,0
-"<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of 21335 bytes @ 5481561 took 0.501237 sec. to complete, 16 reads >= 0.5 sec.","<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of <*> bytes @ <*> took <*>.<*> <*> to complete, <*> reads >= <*> sec.",0
-File Output Committer Algorithm version is 1,File Output Committer Algorithm version is <*>,0
-extension com.apple.ncplugin.WorldClock -> (null),extension com.apple.ncplugin.WorldClock -> (null),0
+"NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)","NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, <*>)",0
+fraction rounded.........................0,fraction rounded.........................<*>,0
+kern_open_file_for_direct_io took 6 ms,kern_open_file_for_direct_io took <*> ms,0
+The instance sync for host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us' did not match. Re-created its InstanceList.,The instance sync for host '<*>' did not match. Re-created its InstanceList.,0
+tcp_connection_tls_session_error_callback_imp 2515 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22,tcp_connection_tls_session_error_callback_imp <*> __tcp_connection_tls_session_callback_write_block_invoke.<*> error <*>,0
+"2017-07-06 00:30:37.071 GoogleSoftwareUpdateAgent[36436/0x7000002a0000] [lvl=2] -[KSUpdateEngine updateAllExceptProduct:] KSUpdateEngine updating all installed products, except:'com.google.Keystone'.","<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSUpdateEngine updateAllExceptProduct:] KSUpdateEngine updating all installed products, except:'com.google.Keystone'.",0
+"hostControllerOnline - Number of Paired devices = 1, List of Paired devices = ( ""84-41-67-32-db-e1"" )","hostControllerOnline - Number of Paired devices = <*>, List of Paired devices = ( ""<*>-<*>-<*>-<*>-<*>-<*>"" )",0
+AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0,<*>::<*> - intel_rp = <*> dlla_reporting_supported = <*>,0
 store operation.............................1,store operation.............................<*>,0
-"[Accounts] Failed to update account with identifier 76FE6715-3D27-4F21-AA35-C88C1EA820E8, error: Error Domain=ABAddressBookErrorDomain Code=1002 ""(null)""","[Accounts] Failed to update account with identifier <*>-<*>-<*>-<*>-<*>, error: Error Domain=ABAddressBookErrorDomain Code=<*> ""(null)""",0
-Internal name did not resolve to internal address!,Internal name did not resolve to internal address!,0
+RTC: PowerByCalendarDate setting ignored,RTC: PowerByCalendarDate setting ignored,0
+0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7,<*> ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=<*>,0
 Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904],Remoting started; listening on addresses :[akka.tcp://<*>],0
 Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=512MB phys_disk=15GB used_disk=0GB total_vcpus=16 used_vcpus=0 pci_stats=[],Final resource view: name=<*> phys_ram=<*> used_ram=<*> phys_disk=<*> used_disk=<*> total_vcpus=<*> used_vcpus=<*> pci_stats=[],0
-"device_generate_desktop_screenshot: authw 0x7fa82407ea00(2000), shield 0x7fa82435f400(2001)","device_generate_desktop_screenshot: authw <*>(<*>), shield <*>(<*>)",0
-"screen status unknown,think screen on","screen status unknown,think screen on",0
-startListenerChange subscribeList = [1],startListenerChange subscribeList = [<*>],0
-AppleCamIn::systemWakeCall - messageType = 0xE0000320,AppleCamIn::systemWakeCall - messageType = <*>,0
+"hibernate_teardown: wired_pages 544767, free_pages 3578340, active_pages 40000, inactive_pages 0, speculative_pages 0, cleaned_pages 0, compressor_pages 112","hibernate_teardown: wired_pages <*>, free_pages <*>, active_pages <*>, inactive_pages <*>, speculative_pages <*>, cleaned_pages <*>, compressor_pages <*>",0
+2017-07-07 10:54:41.875 GoogleSoftwareUpdateAgent[37924/0x7000002a0000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {( <KSTicket:0x100365950 productID=com.google.Chrome version=59.0.3071.115 xc=<KSPathExistenceChecker:0x10036e950 path=/Applications/Google Chrome.app> serverType=Omaha url=https://tools.google.com/service/update2 creationDate=2017-02-18 15:41:18 tagPath=/Applications/Google Chrome.app/Contents/Info.plist tagKey=KSChannelID brandPath=/Users/xpc/Library/Google/Google Chrome Brand.plist brandKey=KSBrandID versionPath=/Applications/Google Chrome.app/Contents/Info.plist versionKey=KSVersion cohort=1:1y5: cohortName=Stable ticketVersion=1 > )} Using server: <KSOmahaServer:0x100243f20 engine=<KSUpdateEngine:0x1007161b0> >,<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {( <KSTicket:<*> productID=<*> version=<*> xc=<KSPathExistenceChecker:<*> path=<*> serverType=Omaha url=<*> creationDate=<*>-<*>-<*> <*>:<*>:<*> tagPath=<*> tagKey=KSChannelID brandPath=<*> brandKey=KSBrandID versionPath=<*> versionKey=KSVersion cohort=<*>:<*>: cohortName=Stable ticketVersion=<*> > )} Using server: <KSOmahaServer:<*> engine=<KSUpdateEngine:<*>> >,0
+ARPT: 728046.456828: wl0: setup_keepalive: Local IP: 10.142.108.38,ARPT: <*>.<*>: wl0: setup_keepalive: Local IP: <*>,0
+SQM: Requesting upload of all unsent reports.,SQM: Requesting upload of all unsent reports.,0
 "VDCAssistant:  Found a camera (0x1430000005ac8290) , but was not able to start it up (0x0 -- (os/kern) successful)","VDCAssistant:  Found a camera (<*>) , but was not able to start it up (<*> -- (os/kern) successful)",0
 Sandbox: com.apple.WebKit(9854) deny(1) file-read-data /private/etc/hosts,Sandbox: <*>(<*>) deny(<*>) file-read-data /private/etc/hosts,0
-[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.,[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.,0
-debug wait enable.................0,debug wait enable.................<*>,0
-**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- 0x8800 ****,**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- <*> ****,0
-[com.apple.calendar.store.log.caldav.coredav] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].],[com.apple.calendar.store.log.caldav.coredav] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-<*>].],0
+program interrupt: unimplemented operation..0,program interrupt: unimplemented operation..<*>,0
+**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- Connected to the transport successfully -- 0x5fd0 -- 0x9a00 -- 0x6800 ****,**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- Connected to the transport successfully -- <*> -- <*> -- <*> ****,0
+uploadStaticsToDB failed message=true,uploadStaticsToDB failed message=true,0
+0000000a Performing 1 operations; 1 are not lock/unlock and follow:,<*> Performing <*> operations; <*> are not lock/unlock and follow:,0
 insertHiHealthData() checkAppType  0 appID = 1,insertHiHealthData() checkAppType  <*> appID = <*>,0
-AppleActuatorHIDEventDriver: message service is terminated,AppleActuatorHIDEventDriver: message service is terminated,0
-"pages 1418325, wire 548641, act 438090, inact 2, cleaned 0 spec 12, zf 30, throt 0, compr 254881, xpmapped 40000","pages <*>, wire <*>, act <*>, inact <*>, cleaned <*> spec <*>, zf <*>, throt <*>, compr <*>, xpmapped <*>",0
+Reboot mark refs incremented to: 1,Reboot mark refs incremented to: <*>,0
+"5 ddr error(s) detected and corrected on rank 0, symbol 28 over 2946 seconds","<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds",0
 Loaded Servicing Stack v6.1.7601.23505 with Core: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\cbscore.dll,Loaded Servicing Stack <*> with Core: <*>\cbscore.dll,0
-CCXPCService::setStreamEventHandler Registered for notification callback.,CCXPCService::setStreamEventHandler Registered for notification callback.,0
-"Scavenge: Completed, disposition: 0X1","Scavenge: Completed, disposition: <*>",0
+boot (command 2092) Error: HALT asserted\  cannot continue,boot (command <*>) Error: HALT asserted\  cannot continue,0
+[00:28:42.167] (Fig) signalled err=-12871,[<*>:<*>:<*>.<*>] (Fig) signalled err=<*>,0
 AppleThunderboltGenericHAL::earlyWake - complete - took 1 milliseconds,AppleThunderboltGenericHAL::earlyWake - complete - took <*> milliseconds,0
 "RTC: Maintenance 2017/7/7 17:31:21, sleep 2017/7/7 17:18:49","RTC: Maintenance <*>/<*>/<*> <*>:<*>:<*>, sleep <*>/<*>/<*> <*>:<*>:<*>",0
-"hibernate_machine_init pagesDone 451550 sum2 4886d9d9, time: 197 ms, disk(0x20000) 799 Mb/s, comp bytes: 40017920 time: 27 ms 1412 Mb/s, crypt bytes: 160550912 time: 39 ms 3904 Mb/s","hibernate_machine_init pagesDone <*> sum2 <*>, time: <*> ms, disk(<*>) <*> Mb/s, comp bytes: <*> time: <*> ms <*> Mb/s, crypt bytes: <*> time: <*> ms <*> Mb/s",0
-"Block broadcast_40 stored as values in memory (estimated size 9.9 KB, free 884.2 KB)","Block <*> stored as values in memory (estimated size <*>, free <*>)",0
-disable store gathering..................0,disable store gathering..................<*>,0
-Link error on broadcast tree Interconnect-1T00:00:2:0,Link error on broadcast tree Interconnect-<*>:<*>:<*>:<*>,0
+[com.apple.calendar.store.log.caldav.queue] [Account xpc_ben@163.com@https://caldav.163.com/caldav/principals/users/xpc_ben%40163.com/ timed out when executing operation: <CalDAVAccountRefreshQueueableOperation: 0x7fa11f9f2290; Sequence: 0>],[com.apple.calendar.store.log.caldav.queue] [Account <*> timed out when executing operation: <CalDAVAccountRefreshQueueableOperation: <*>; Sequence: <*>>],0
+could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0,could discard act <*> inact <*> purgeable <*> spec <*> cleaned <*>,0
+"hibernate_machine_init: state 2, image pages 446175, sum was d4e6c0b2, imageSize 0x2aea6000, image1Size 0x215a4000, conflictCount 5848, nextFree 5887","hibernate_machine_init: state <*>, image pages <*>, sum was <*>, imageSize <*>, image1Size <*>, conflictCount <*>, nextFree <*>",0
+2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds,<*> L3 EDRAM error(s) (dcr <*>) detected and corrected over <*> seconds,0
 machine check enable..............0,machine check enable..............<*>,0
-Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable,Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable,0
-Session: 11152_142416105 initialized by client SPP.,Session: <*>_<*> initialized by client SPP.,0
+Saw change in network reachability (isReachable=0),Saw change in network reachability (isReachable=<*>),0
+rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-,rts tree/torus link training failed: wanted: <*> got: <*>,0
 "PM response took 113 ms (24144, WeChat)","PM response took <*> ms (<*>, WeChat)",0
 "saveStatData() type =40004,time = 1513958400000,statClient = 2,who is 1","saveStatData() type =<*>,time = <*>,statClient = <*>,who is <*>",0
-"While synchronizing instance power states, found 1 instances in the database and 0 instances on the hypervisor.","While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",0
-getBinderPackageName packageName = com.huawei.health,getBinderPackageName packageName = com.huawei.health,0
-KeychainGetICDPStatus: keychain: -25300,KeychainGetICDPStatus: keychain: <*>,0
-icache prefetch depth....................0,icache prefetch depth....................<*>,0
+<IMMacNotificationCenterManager: 0x7fdcc9d16380>: notification observer: com.apple.FaceTime   notification: __CFNotification 0x7fdcc9d19110 {name = _NSDoNotDisturbEnabledNotification},<IMMacNotificationCenterManager: <*>>: notification observer: com.apple.FaceTime   notification: __CFNotification <*> {name = _NSDoNotDisturbEnabledNotification},0
+[00:29:04.085] <<<< CRABS >>>> crabsWaitForLoad: [0x7fbc7ac683a0] Wait time out - -1001 (msRequestTimeout -1),[<*>:<*>:<*>.<*>] <<<< CRABS >>>> crabsWaitForLoad: [<*>] Wait time out - <*> (msRequestTimeout <*>),0
+[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object,[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object,0
+"new date =20171223, type=40006,7140.0,old=6900.0","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>",0
 "CoreAnimation: warning, deleted thread with uncommitted CATransaction; set CA_DEBUG_TRANSACTIONS=1 in environment to log backtraces.","CoreAnimation: warning, deleted thread with uncommitted CATransaction; set CA_DEBUG_TRANSACTIONS=<*> in environment to log backtraces.",0
 "2017-07-03 10:40:41.730 GoogleSoftwareUpdateAgent[33263/0x700000323000] [lvl=2] -[KSAgentApp performSelfUpdateWithEngine:] Checking for self update with Engine: <KSUpdateEngine:0x10062de70 ticketStore=<KSPersistentTicketStore:0x1005206e0 store=<KSKeyedPersistentStore:0x1005282c0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"" lockFile=<KSLockFile:0x100510480 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"" locked=NO > >> processor=<KSActionProcessor:0x10062e060 delegate=<KSUpdateEngine:0x10062de70> isProcessing=NO actionsCompleted=0 progress=0.00 errors=0 currentActionErrors=0 events=0 currentActionEvents=0 actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:0x10062d2d0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers""> errors=0 >",<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSAgentApp performSelfUpdateWithEngine:] Checking for self update with Engine: <KSUpdateEngine:<*> ticketStore=<KSPersistentTicketStore:<*> store=<KSKeyedPersistentStore:<*> path=<*> lockFile=<KSLockFile:<*> path=<*> locked=NO > >> processor=<KSActionProcessor:<*> delegate=<KSUpdateEngine:<*>> isProcessing=NO actionsCompleted=<*> progress=<*>.<*> errors=<*> currentActionErrors=<*> events=<*> currentActionEvents=<*> actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:<*> path=<*> errors=<*> >,0
 Startup processing thread terminated normally,Startup processing thread terminated normally,0
@@ -104,77 +104,77 @@ checkInsertStatus stepSum or calorieSum is enough,checkInsertStatus stepSum or c
 "Service ""com.apple.xpc.launchd.unmanaged.loginwindow.94"" tried to hijack endpoint ""com.apple.tsm.uiserver"" from owner: com.apple.SystemUIServer.agent","Service ""com.apple.xpc.launchd.unmanaged.loginwindow.<*>"" tried to hijack endpoint ""com.apple.tsm.uiserver"" from owner: com.apple.SystemUIServer.agent",0
 "saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40005","saveHealthDetailData() saveOneDetailData fail hiHealthData = <*>,type = <*>",0
 Sandbox: QuickLookSatelli(38418) deny(1) mach-lookup com.apple.networkd,Sandbox: <*>(<*>) deny(<*>) mach-lookup <*>,0
-"CCFile::captureLog Received Capture notice id: 1499133420.914478, reason = DeauthInd:sts:0_rsn:7","CCFile::captureLog Received Capture notice id: <*>, reason = DeauthInd:sts:<NUM>_rsn:<NUM>",0
-risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>,risBoot (command <*>) Error: Timed out while waiting for SRM prompt: <ABORT code completed>,0
--[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.,-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.,0
-"ARPT: 740631.402908: IOPMPowerSource Information: onWake,  SleepType: Normal Sleep,  'ExternalConnected': No, 'TimeRemaining': 5802,","ARPT: <*>.<*>: IOPMPowerSource Information: onWake,  SleepType: Normal Sleep,  'ExternalConnected': No, 'TimeRemaining': <*>,",0
-Idle processing thread terminated normally,Idle processing thread terminated normally,0
-ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map,ciod: Z coordinate <*> exceeds physical dimension <*> at line <*> of node map file /<*>,0
-"securityd_xpc_dictionary_handler cloudd[326] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}","securityd_xpc_dictionary_handler cloudd[<*>] copy_matching Error Domain=NSOSStatusErrorDomain Code=<*> ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}",0
-NIFF: node node-144 has detected an available network connection on network 10.96.0.0 via interface scip0,NIFF: node node-<*> has detected an available network connection on network <*> via interface scip0,0
-instruction cache parity error corrected,instruction cache parity error corrected,0
-Wake reason: EC.SleepTimer (SleepTimer),Wake reason: EC.SleepTimer (SleepTimer),0
-objc[35448]: Class TSUCustomFormatData is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.,objc[<*>]: Class TSUCustomFormatData is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.,0
--[SFLListManager(ServiceReplyProtocol) notifyChanges:toListWithIdentifier:] Notified of item changes to list with identifier com.apple.LSSharedFileList.RecentApplications,-[SFLListManager(ServiceReplyProtocol) notifyChanges:toListWithIdentifier:] Notified of item changes to list with identifier com.apple.LSSharedFileList.RecentApplications,0
-tcp_connection_tls_session_error_callback_imp 2515 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22,tcp_connection_tls_session_error_callback_imp <*> __tcp_connection_tls_session_callback_write_block_invoke.<*> error <*>,0
-"00000006 Created NT transaction (seq 1) result 0x00000000, handle @0x218","<*> Created NT transaction (seq <*>) result <*>, handle @<*>",0
+"[CardDAVPlugin-ERROR] -getPrincipalInfo:[_controller supportsRequestCompressionAtURL:https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/] Error Domain=NSURLErrorDomain Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=0x7f8de0c0dc70 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSErrorFailingURLStringKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, NSErrorFailingURLKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, NSErrorFailingURLKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=The Internet connection appears to be offline.}","[CardDAVPlugin-ERROR] -getPrincipalInfo:[_controller supportsRequestCompressionAtURL:<*>] Error Domain=NSURLErrorDomain Code=<*> ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=<*> {Error Domain=kCFErrorDomainCFNetwork Code=<*> ""The Internet connection appears to be offline."" UserInfo={NSErrorFailingURLStringKey=<*>, NSErrorFailingURLKey=<*>, _kCFStreamErrorCodeKey=<*>, _kCFStreamErrorDomainKey=<*>, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=<*>, NSErrorFailingURLKey=<*>, _kCFStreamErrorDomainKey=<*>, _kCFStreamErrorCodeKey=<*>, NSLocalizedDescription=The Internet connection appears to be offline.}",0
+debug interrupt enable............0,debug interrupt enable............<*>,0
+"ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1501./hpl_DD: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory",0
+[0706/120312:WARNING:dns_config_service_posix.cc(306)] Failed to read DnsConfig.,[<*>/<*>:WARNING:dns_config_service_posix.cc(<*>)] Failed to read DnsConfig.,0
+"Kernel detected 3486044 integer alignment exceptions (3486037) iar 0x00544ea8, dear 0x01ef7c60 (3486038) iar 0x00544eb8, dear 0x01ef7c80 (3486039) iar 0x00544ea8, dear 0x01ef7ca0 (3486040) iar 0x00544eb8, dear 0x01ef7cc0 (3486041) iar 0x00544ee0, dear 0x01ef7ce0 (3486042) iar 0x00544ef0, dear 0x01ef7d00 (3486043) iar 0x00544ee0, dear 0x01ef7d20 (3486044) iar 0x00544ef0, dear 0x01ef7d40","Kernel detected <*> integer alignment exceptions (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*>",0
+ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map,ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file /<*>,0
+Checking iCDP status for DSID 874161398 (checkWithServer=0),Checking iCDP status for DSID <*> (checkWithServer=<*>),0
+New ido chip inserted into the database: FF:F2:9F:16:C4:C2:00:0D:60:E9:3B:3D ip=10.2.1.37 v=13 t=4,New ido chip inserted into the database: <*> ip=<*> v=<*> t=<*>,0
+uploadStaticsToDB() onResult  type = 4 obj=true,uploadStaticsToDB() onResult  type = <*> obj=true,0
+program interrupt: imprecise exception......0,program interrupt: imprecise exception......<*>,0
+program interrupt: privileged instruction...0,program interrupt: privileged instruction...<*>,0
+Service exited with abnormal code: 1,Service exited with abnormal code: <*>,0
+"ARPT: 775899.188954: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2863091569, Ack 159598625, Win size 278","ARPT: <*>.<*>: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq <*>, Ack <*>, Win size <*>",0
+program interrupt: trap instruction.........0,program interrupt: trap instruction.........<*>,0
 tcp_connection_destination_perform_socket_connect 21152 connectx to 203.205.147.206:8080@0 failed: [51] Network is unreachable,tcp_connection_destination_perform_socket_connect <*> connectx to <*>:<*>@<*> failed: [<*>] Network is unreachable,0
-"2017-07-06 00:30:37.071 GoogleSoftwareUpdateAgent[36436/0x7000002a0000] [lvl=2] -[KSUpdateEngine updateAllExceptProduct:] KSUpdateEngine updating all installed products, except:'com.google.Keystone'.","<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSUpdateEngine updateAllExceptProduct:] KSUpdateEngine updating all installed products, except:'com.google.Keystone'.",0
-"bitmap_size 0x7f0fc, previewSize 0x4028, writing 485676 pages @ 0x97144","bitmap_size <*>, previewSize <*>, writing <*> pages @ <*>",0
+onReceive action: android.intent.action.SCREEN_ON,onReceive action: android.intent.action.SCREEN_ON,0
+Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2608),Component State Change: Component <*> is in the unavailable state (HWID=<*>),0
 "mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap","mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap",0
 NIFF: node node-162 detected a failed network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> detected a failed network connection on network <*> via interface alt0,0
-"hostControllerOnline - Number of Paired devices = 1, List of Paired devices = ( ""84-41-67-32-db-e1"" )","hostControllerOnline - Number of Paired devices = <*>, List of Paired devices = ( ""<*>-<*>-<*>-<*>-<*>-<*>"" )",0
-"PBRequester failed with Error Error Domain=NSURLErrorDomain Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=0x7fb7f0035dc0 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSErrorFailingURLStringKey=https://gs-loc.apple.com/clls/wloc, NSErrorFailingURLKey=https://gs-loc.apple.com/clls/wloc, _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://gs-loc.apple.com/clls/wloc, NSErrorFailingURLKey=https://gs-loc.apple.com/clls/wloc, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=The Internet connection appears to be offline.}","PBRequester failed with Error Error Domain=NSURLErrorDomain Code=<*> ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=<*> {Error Domain=kCFErrorDomainCFNetwork Code=<*> ""The Internet connection appears to be offline."" UserInfo={NSErrorFailingURLStringKey=<*>, NSErrorFailingURLKey=<*>, _kCFStreamErrorCodeKey=<*>, _kCFStreamErrorDomainKey=<*>, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=<*>, NSErrorFailingURLKey=<*>, _kCFStreamErrorDomainKey=<*>, _kCFStreamErrorCodeKey=<*>, NSLocalizedDescription=The Internet connection appears to be offline.}",0
-AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0,<*>::<*> - intel_rp = <*> dlla_reporting_supported = <*>,0
-machine check: i-fetch......................0,machine check: i-fetch......................<*>,0
+00:03:06.178 : Started generating hashes,<*>:<*>:<*>.<*> : Started generating hashes,0
+"initUserPrivacy the userPrivacy switch is open, start push user data!","initUserPrivacy the userPrivacy switch is open, start push user data!",0
+CCProfileMonitor::setStreamEventHandler,CCProfileMonitor::setStreamEventHandler,0
+full wake promotion (reason 1) 374 ms,full wake promotion (reason <*>) <*> ms,0
 [instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Took 20.22 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.,0
-0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7,<*> ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=<*>,0
-data address space................0,data address space................<*>,0
+"Partition rdd_42_39 not found, computing it","Partition rdd_<*> not found, computing it",0
+Ido chip status changed: FF:F2:9F:15:7B:E0:00:0D:60:EA:84:1F ip=10.7.0.130 v=13 t=1 status=M Sat Sep 17 07:49:04 PDT 2005,Ido chip status changed: <*> ip=<*> v=<*> t=<*> status=M <*>,0
 [client 222.166.160.184] Directory index forbidden by rule: /var/www/html/,[client <*>] Directory index forbidden by rule: <*>,0
 "problem state (0=sup,1=usr).......0","problem state (<*>=sup,<*>=usr).......<*>",0
-ARPT: 728046.456828: wl0: setup_keepalive: Local IP: 10.142.108.38,ARPT: <*>.<*>: wl0: setup_keepalive: Local IP: <*>,0
-"saveHealthDetailData() deviceID = 2,clientID=1,id=1","saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>",0
+Bluetooth -- LE is supported - Disable LE meta event,Bluetooth -- LE is supported - Disable LE meta event,0
+"Configuration Notice: ASL Module ""com.apple.authkit.osx.asl"" sharing output destination ""/var/log/Accounts"" with ASL Module ""com.apple.Accounts"". Output parameters from ASL Module ""com.apple.Accounts"" override any specified in ASL Module ""com.apple.authkit.osx.asl"".","Configuration Notice: ASL Module ""com.apple.authkit.osx.asl"" sharing output destination ""/var/log/Accounts"" with ASL Module ""com.apple.Accounts"". Output parameters from ASL Module ""com.apple.Accounts"" override any specified in ASL Module ""com.apple.authkit.osx.asl"".",0
 Error in CoreDragRemoveReceiveHandler: -1856,Error in CoreDragRemoveReceiveHandler: <*>,0
 ARPT: 785104.988856: AirPort_Brcm43xx::syncPowerState: WWEN[enabled],ARPT: <*>.<*>: AirPort_<*>::syncPowerState: WWEN[enabled],0
-SQM: Requesting upload of all unsent reports.,SQM: Requesting upload of all unsent reports.,0
-uploadStaticsToDB failed message=true,uploadStaticsToDB failed message=true,0
--[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 0x7f9951214ca0>.,-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: <*>>.,0
+"CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: IO80211AWDLPeerManager","CCLogTap::profileRemoved, Owner: com.apple.iokit.<*>, Name: <*>",0
+Started reading broadcast variable 40,Started reading broadcast variable <*>,0
+"ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160","ciod: Error loading /<*>: program image too big, <*> > <*>",0
 Creating event network-vif-plugged:1771f0af-aae8-4b03-97c9-a7bc9c5e4bb7 for instance faf974ea-cba5-4e1b-93f4-3a3bc606006f,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>,0
 "PBRequester failed with Error Error Domain=NSURLErrorDomain Code=-1001 ""The request timed out."" UserInfo={NSUnderlyingError=0x7fb7ed616c80 {Error Domain=kCFErrorDomainCFNetwork Code=-1001 ""The request timed out."" UserInfo={NSErrorFailingURLStringKey=https://gs-loc.apple.com/clls/wloc, NSErrorFailingURLKey=https://gs-loc.apple.com/clls/wloc, _kCFStreamErrorCodeKey=-2102, _kCFStreamErrorDomainKey=4, NSLocalizedDescription=The request timed out.}}, NSErrorFailingURLStringKey=https://gs-loc.apple.com/clls/wloc, NSErrorFailingURLKey=https://gs-loc.apple.com/clls/wloc, _kCFStreamErrorDomainKey=4, _kCFStreamErrorCodeKey=-2102, NSLocalizedDescription=The request timed out.}","PBRequester failed with Error Error Domain=NSURLErrorDomain Code=<*> ""The request timed out."" UserInfo={NSUnderlyingError=<*> {Error Domain=kCFErrorDomainCFNetwork Code=<*> ""The request timed out."" UserInfo={NSErrorFailingURLStringKey=<*>, NSErrorFailingURLKey=<*>, _kCFStreamErrorCodeKey=<*>, _kCFStreamErrorDomainKey=<*>, NSLocalizedDescription=The request timed out.}}, NSErrorFailingURLStringKey=<*>, NSErrorFailingURLKey=<*>, _kCFStreamErrorDomainKey=<*>, _kCFStreamErrorCodeKey=<*>, NSLocalizedDescription=The request timed out.}",0
 [instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Instance spawned successfully.,[instance: <*>] Instance spawned successfully.,0
-0000000a Performing 1 operations; 1 are not lock/unlock and follow:,<*> Performing <*> operations; <*> are not lock/unlock and follow:,0
-"ARPT: 784053.579480: wl0: setup_keepalive: Local port: 59927, Remote port: 443","ARPT: <*>.<*>: wl0: setup_keepalive: Local port: <*>, Remote port: <*>",0
+2017-07-05 10:52:16.977 GoogleSoftwareUpdateAgent[35861/0x700000323000] [lvl=2] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.,<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.,0
+Ending the TrustedInstaller main loop.,Ending the TrustedInstaller main loop.,0
 "Opened file /var/vm/sleepimage, size 1073741824, extents 3, maxio 2000000 ssd 1","Opened file <*>, size <*>, extents <*>, maxio <*> ssd <*>",0
 ciod: pollControlDescriptors: Detected the debugger died.,ciod: pollControlDescriptors: Detected the debugger died.,0
 ciod: generated 128 core files for program /g/g24/germann2/SPaSM_mini/MEAM/r13,ciod: generated <*> core files for program <*>,0
 "hibernate_alloc_pages act 107794, inact 10088, anon 460, throt 0, spec 58021, wire 572831, wireinit 39927","hibernate_alloc_pages act <*>, inact <*>, anon <*>, throt <*>, spec <*>, wire <*>, wireinit <*>",0
-"5 ddr error(s) detected and corrected on rank 0, symbol 28 over 2946 seconds","<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds",0
-vm_compressor_fastwake_warmup completed - took 12461 msecs,vm_compressor_fastwake_warmup completed - took <*> msecs,0
-[00:28:42.167] (Fig) signalled err=-12871,[<*>:<*>:<*>.<*>] (Fig) signalled err=<*>,0
-"2017-07-07 01:47:40.090 GoogleSoftwareUpdateAgent[37644/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: ""https://tools.google.com/service/update2?cup2hreq=c30943ccd5e0a03e93b6be3e2b7e2127989f08f1bde99263ffee091de8b8bc39&cup2key=7:1039900771""","<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: ""<*>""",0
-"hibernate_machine_init: state 2, image pages 446175, sum was d4e6c0b2, imageSize 0x2aea6000, image1Size 0x215a4000, conflictCount 5848, nextFree 5887","hibernate_machine_init: state <*>, image pages <*>, sum was <*>, imageSize <*>, image1Size <*>, conflictCount <*>, nextFree <*>",0
-[BluetoothHIDDeviceController] EventServiceDisconnectedCallback,[BluetoothHIDDeviceController] EventServiceDisconnectedCallback,0
-2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds,<*> L3 EDRAM error(s) (dcr <*>) detected and corrected over <*> seconds,0
-Error in CoreDragRemoveTrackingHandler: -1856,Error in CoreDragRemoveTrackingHandler: <*>,0
+Captive: [CNInfoNetworkActive:1748] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive),Captive: [CNInfoNetworkActive:<*>] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive),0
+"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id","mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id",0
+"mapred.job.id is deprecated. Instead, use mapreduce.job.id","mapred.job.id is deprecated. Instead, use mapreduce.job.id",0
+Can not get assembly information for node card,Can not get assembly information for node card,0
+Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat,Unloading offline registry hive: <*>,0
+size of scratchpad portion of L3.........0 (0M),size of scratchpad portion of L3.........<*> (<*>),0
+no sleep images for WillPowerOffWithImages,no sleep images for WillPowerOffWithImages,0
+minus normalized number..................0,minus normalized number..................<*>,0
 "ARPT: 764427.640542: wl0: setup_keepalive: Seq: 204730741, Ack: 2772623181, Win size: 4096","ARPT: <*>.<*>: wl0: setup_keepalive: Seq: <*>, Ack: <*>, Win size: <*>",0
 ARPT: 790457.609414: AirPort_Brcm43xx::powerChange: System Sleep,ARPT: <*>.<*>: AirPort_<*>::powerChange: System Sleep,0
 Fan speeds ( 3534 3534 3375 4115 3497 3479 ),Fan speeds ( <*> <*> <*> <*> <*> <*> ),0
-rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-,rts tree/torus link training failed: wanted: <*> got: <*>,0
-[00:29:04.085] <<<< CRABS >>>> crabsWaitForLoad: [0x7fbc7ac683a0] Wait time out - -1001 (msRequestTimeout -1),[<*>:<*>:<*>.<*>] <<<< CRABS >>>> crabsWaitForLoad: [<*>] Wait time out - <*> (msRequestTimeout <*>),0
-"mapred.tip.id is deprecated. Instead, use mapreduce.task.id","mapred.tip.id is deprecated. Instead, use mapreduce.task.id",0
-1 torus receiver x+ input pipe error(s) (dcr 0x02ec) detected and corrected,<*> torus receiver x+ input pipe error(s) (dcr <*>) detected and corrected,0
+<<<< MediaValidator >>>> mv_ValidateRFC4281CodecId: Unrecognized codec 1.(null). Failed codec specific check.,<<<< MediaValidator >>>> mv_<*>: Unrecognized codec <*>.(null). Failed codec specific check.,0
+-[NETClientConnection effectiveBundleID] using process name CalendarAgent as bundle ID (this is expected for daemons without bundle ID,-[NETClientConnection effectiveBundleID] using process name CalendarAgent as bundle ID (this is expected for daemons without bundle ID,0
+2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification,<*>-<*>-<*> <*>:<*>:<*>.<*> PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification,0
+SQM: Cleaning up report files older than 10 days.,SQM: Cleaning up report files older than <*> days.,0
 data cache search parity error detected. attempting to correct,data cache search parity error detected. attempting to correct,0
 "doSaveChannels@286: Will write to: /Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-07_13,40,35.959475] - AuthFail:sts:5_rsn:0.xml",doSaveChannels@<*>: Will write to: <*>,0
 mDNS_RegisterInterface: Frequent transitions for interface en0 (FE80:0000:0000:0000:C6B3:01FF:FECD:467F),mDNS_RegisterInterface: Frequent transitions for interface en0 (<*>),0
 "[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU","[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",0
-"new date =20171223, type=40006,7140.0,old=6900.0","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>",0
-ARPT: 770798.478026: framerdy 0x0 bmccmd 3 framecnt 1024,ARPT: <*>.<*>: framerdy <*> bmccmd <*> framecnt <*>,0
-debug interrupt enable............0,debug interrupt enable............<*>,0
-Sandbox: com.apple.Addres(38449) deny(1) network-outbound /private/var/run/mDNSResponder,Sandbox: <*>(<*>) deny(<*>) network-outbound /private/var/run/mDNSResponder,0
-[0706/120312:WARNING:dns_config_service_posix.cc(306)] Failed to read DnsConfig.,[<*>/<*>:WARNING:dns_config_service_posix.cc(<*>)] Failed to read DnsConfig.,0
-BLOCK* ask 10.250.14.38:50010 to replicate blk_-7571492020523929240 to datanode(s) 10.251.122.38:50010,BLOCK* ask <*>:<*> to replicate blk_<*> to datanode(s) <*>:<*>,0
-ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map,ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file /<*>,0
-**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- 0x5fd0 -- 0x9a00 -- 0xc800 ****,**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- <*> -- <*> -- <*> ****,0
+Could not get event name for stream/token: com.apple.xpc.activity/4505: 132: Request for stale data,Could not get event name for stream/token: com.apple.xpc.activity/<*>: <*>: Request for stale data,0
+"ARPT: 783991.995027: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10","ARPT: <*>.<*>: wl0: setup_keepalive: interval <*>, retry_interval <*>, retry_count <*>",0
+00000010@2016/9/27:20:40:54.787 CSI Transaction @0x47e9e0 destroyed,<*>@<*>/<*>/<*>:<*>:<*>:<*>.<*> CSI Transaction @<*> destroyed,0
+setBasicStandardSteps basicStandardStep=3786 restartSteps=0,setBasicStandardSteps basicStandardStep=<*> restartSteps=<*>,0
+handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3),handle_will_sleep_auth_and_shield_windows: Reordering authw <*>(<*>) (lock state: <*>),0
+Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> ),0
+ARPT: 770605.092581: ARPT: Wake Reason: Wake on Scan offload,ARPT: <*>.<*>: ARPT: Wake Reason: Wake on Scan offload,0
+<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>:   DND Enabled: YES,<IMMacNotificationCenterManager: <*>>:   DND Enabled: YES,0
 "ARPT: 762543.171617: IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,","ARPT: <*>.<*>: IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': <*>,",0
 tcp_connection_destination_handle_tls_close_notify 111 closing socket due to TLS CLOSE_NOTIFY alert,tcp_connection_destination_handle_tls_close_notify <*> closing socket due to TLS CLOSE_NOTIFY alert,0
 tcp_connection_tls_session_error_callback_imp 2210 tcp_connection_tls_session_handle_read_error.790 error 60,tcp_connection_tls_session_error_callback_imp <*> tcp_connection_tls_session_handle_read_error.<*> error <*>,0
@@ -183,154 +183,154 @@ AppleThunderboltNHIType2::prePCIWake - power up complete - took 5 us,<*>::prePCI
 __42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! QQ.10018 tc25995 121.51.36.148:443,__<*>-[NETClientConnection <*>]_block_invoke CI46 - Hit by torpedo! <*>.<*> tc<*> <*>:<*>,0
 ARPT: 739241.687186: AQM agg results 0x8001 len hi/lo: 0x0 0x26 BAbitmap(0-3) 0 0 0 0,ARPT: <*>.<*>: AQM agg results <*> len hi/lo: <*> <*> BAbitmap(<*>-<*>) <*>,0
 10.251.107.98:50010:Got exception while serving blk_-3140031507252212554 to /10.250.7.244:,<*>:<*>:Got exception while serving blk_<*> to /<*>:,0
-New ido chip inserted into the database: FF:F2:9F:16:C4:C2:00:0D:60:E9:3B:3D ip=10.2.1.37 v=13 t=4,New ido chip inserted into the database: <*> ip=<*> v=<*> t=<*>,0
-program interrupt: imprecise exception......0,program interrupt: imprecise exception......<*>,0
-Service exited with abnormal code: 1,Service exited with abnormal code: <*>,0
-program interrupt: trap instruction.........0,program interrupt: trap instruction.........<*>,0
-Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2608),Component State Change: Component <*> is in the unavailable state (HWID=<*>),0
-1 torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected,<*> torus receiver y+ input pipe error(s) (dcr <*>) detected and corrected,0
-"SecOSStatusWith error:[-50] Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}","SecOSStatusWith error:[<*>] Error Domain=NSOSStatusErrorDomain Code=<*> ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}",0
-"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)","SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)",0
-[HID] [MT] AppleActuatorHIDEventDriver::start entered,[HID] [MT] AppleActuatorHIDEventDriver::start entered,0
-[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Deletion of /var/lib/nova/instances/c62f4f25-982c-4ea2-b5e4-93000edfcfbf_del complete,[instance: <*>] Deletion of <*> complete,0
-inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok><*>,0
-"initUserPrivacy the userPrivacy switch is open, start push user data!","initUserPrivacy the userPrivacy switch is open, start push user data!",0
-"2017-07-06 14:57:16.661 GoogleSoftwareUpdateAgent[37059/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: ""https://tools.google.com/service/update2?cup2hreq=37fbcb7ab6829be04567976e3212d7a67627aef11546f8b7013d4cffaf51f739&cup2key=7:4200177539""","<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: ""<*>""",0
-Targeting domains:node-D2 and nodes:node-84,Targeting domains:node-D<*>and nodes:node-<*>,0
-hibernate_rebuild completed - took 10042450943433 msecs,hibernate_rebuild completed - took <*> msecs,0
-"NonStart: Success, startup processing not required as expected.","NonStart: Success, startup processing not required as expected.",0
-full wake promotion (reason 1) 374 ms,full wake promotion (reason <*>) <*> ms,0
-Ido chip status changed: FF:F2:9F:15:7B:E0:00:0D:60:EA:84:1F ip=10.7.0.130 v=13 t=1 status=M Sat Sep 17 07:49:04 PDT 2005,Ido chip status changed: <*> ip=<*> v=<*> t=<*> status=M <*>,0
-"network_reachability_changed : network is not reachable, netbiosd is shutting down","network_reachability_changed : network is not reachable, netbiosd is shutting down",0
-"NETWORK: no response from server, reachability, 2, queryRetries, 2","NETWORK: no response from server, reachability, <*>, queryRetries, <*>",0
-2017-07-03 20:25:13.378 GoogleSoftwareUpdateAgent[33847/0x7000002a0000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {( <KSTicket:0x10053b310 productID=com.google.Keystone version=1.2.8.57 xc=<KSPathExistenceChecker:0x10053ac30 path=/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle> url=https://tools.google.com/service/update2 creationDate=2017-02-18 15:41:17 ticketVersion=1 > )} Using server: <KSOmahaServer:0x100248090 engine=<KSUpdateEngine:0x1007249c0> >,<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {( <KSTicket:<*> productID=<*> version=<*> xc=<KSPathExistenceChecker:<*> path=<*> url=<*> creationDate=<*>-<*>-<*> <*>:<*>:<*> ticketVersion=<*> > )} Using server: <KSOmahaServer:<*> engine=<KSUpdateEngine:<*>> >,0
-"Configuration Notice: ASL Module ""com.apple.authkit.osx.asl"" sharing output destination ""/var/log/Accounts"" with ASL Module ""com.apple.Accounts"". Output parameters from ASL Module ""com.apple.Accounts"" override any specified in ASL Module ""com.apple.authkit.osx.asl"".","Configuration Notice: ASL Module ""com.apple.authkit.osx.asl"" sharing output destination ""/var/log/Accounts"" with ASL Module ""com.apple.Accounts"". Output parameters from ASL Module ""com.apple.Accounts"" override any specified in ASL Module ""com.apple.authkit.osx.asl"".",0
-enabling pid=30298 for plug-in com.apple.ncplugin.weather(1.0) 131FE7ED-87F7-471D-8797-C11107688DF7 /System/Library/CoreServices/Weather.app/Contents/PlugIns/com.apple.ncplugin.weather.appex,enabling pid=<*> for plug-in com.apple.ncplugin.weather(<*>.<*>) <*>-<*>-<*>-<*>-<*> <*>,0
-"ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160","ciod: Error loading /<*>: program image too big, <*> > <*>",0
-MemoryStore started with capacity 17.7 GB,MemoryStore started with capacity <*> GB,0
-"[Accounts] Current connection, <NSXPCConnection: 0x7fda72614240> connection from pid 30318, doesn't have account access.","[Accounts] Current connection, <NSXPCConnection: <*>> connection from pid <*>, doesn't have account access.",0
-ARPT: 698501.213099: ARPT: Wake Reason: Wake on TCP Timeout,ARPT: <*>.<*>: ARPT: Wake Reason: Wake on TCP Timeout,0
-Ending the TrustedInstaller main loop.,Ending the TrustedInstaller main loop.,0
-"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id","mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id",0
-CCProfileMonitor::freeResources done,CCProfileMonitor::freeResources done,0
-WARNING: Type1 font data isn't in the correct format required by the Adobe Type 1 Font Format specification.,WARNING: Type1 font data isn't in the correct format required by the Adobe Type <*> Font Format specification.,0
-Can not get assembly information for node card,Can not get assembly information for node card,0
-"ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41060, Connection timed out","ciod: Error reading message prefix on CioStream socket to <*>:<*>, Connection timed out",0
-hibernate_page_list_setall found pageCount 488653,hibernate_page_list_setall found pageCount <*>,0
-2017-07-08 06:26:32.365 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] About to run checks for any other apps.,<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] About to run checks for any other apps.,0
-floating pt ex mode 1 enable......0,floating pt ex mode <*> enable......<*>,0
-size of scratchpad portion of L3.........0 (0M),size of scratchpad portion of L3.........<*> (<*>),0
-minus normalized number..................0,minus normalized number..................<*>,0
-<IMMacNotificationCenterManager: 0x7fdcc9d16380>:    NC Disabled: NO,<IMMacNotificationCenterManager: <*>>:    NC Disabled: NO,0
-"rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015","rts: kernel terminated for reason <*>: bad message header: invalid cpu, type=<*>, cpu=<*>, index=<*>, total=<*>",0
-"ARPT: 683604.474196: IOPMPowerSource Information: onSleep,  SleepType: Standby,  'ExternalConnected': No, 'TimeRemaining': 578,","ARPT: <*>.<*>: IOPMPowerSource Information: onSleep,  SleepType: Standby,  'ExternalConnected': No, 'TimeRemaining': <*>,",0
-"insertHiHealthData() size = 20,app = 1,One Data Type = 2,packageName = com.huawei.health,writeStatType = 0","insertHiHealthData() size = <*>,app = <*>,One Data Type = <*>,packageName = <*>,writeStatType = <*>",0
-"10.11.10.1 ""POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1"" status: 200 len: 380 time: 0.0901439","<*> ""POST <*>"" status: <*> len: <*> time: <*>.<*>",0
-2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification,<*>-<*>-<*> <*>:<*>:<*>.<*> PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification,0
-SQM: Cleaning up report files older than 10 days.,SQM: Cleaning up report files older than <*> days.,0
-[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Instance destroyed successfully.,[instance: <*>] Instance destroyed successfully.,0
-03:31:43.005 : BTLE scanning stopped,<*>:<*>:<*>.<*> : BTLE scanning stopped,0
-ARPT: 783795.288172: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake,ARPT: <*>.<*>: AirPort_<*>::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake,0
-"ARPT: 783991.995027: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10","ARPT: <*>.<*>: wl0: setup_keepalive: interval <*>, retry_interval <*>, retry_count <*>",0
-tcp_connection_handle_connect_conditions_bad 26042 failed: 3 - No network route,tcp_connection_handle_connect_conditions_bad <*> failed: <*> - No network route,0
-"2017-07-02 10:40:07.676 GoogleSoftwareUpdateAgent[32012/0x7000002a0000] [lvl=2] -[KSAgentApp updateProductWithProductID:usingEngine:] Checking for updates for ""com.google.Keystone"" using engine <KSUpdateEngine:0x100313e70 ticketStore=<KSPersistentTicketStore:0x100332a60 store=<KSKeyedPersistentStore:0x100315fa0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"" lockFile=<KSLockFile:0x1003176d0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"" locked=NO > >> processor=<KSActionProcessor:0x1003143e0 delegate=<KSUpdateEngine:0x100313e70> isProcessing=NO actionsCompleted=0 progress=0.00 errors=0 currentActionErrors=0 events=0 currentActionEvents=0 actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:0x100311a10 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers""> errors=0 >","<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSAgentApp updateProductWithProductID:usingEngine:] Checking for updates for ""com.google.Keystone"" using engine <KSUpdateEngine:<*> ticketStore=<KSPersistentTicketStore:<*> store=<KSKeyedPersistentStore:<*> path=""<*>"" lockFile=<KSLockFile:<*> path=""<*>"" locked=NO > >> processor=<KSActionProcessor:<*> delegate=<KSUpdateEngine:<*>> isProcessing=NO actionsCompleted=<*> progress=<*>.<*> errors=<*> currentActionErrors=<*> events=<*> currentActionEvents=<*> actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:<*> path=""<*>""> errors=<*> >",0
-host connection <NSXPCConnection: 0x7fddbbb015c0> connection from pid 30298 invalidated,host connection <NSXPCConnection: <*>> connection from pid <*> invalidated,0
-"ChromeExistion main strSendMsg = {""websitekey"":false,""commandkey"":true,""browserkey"":true}","ChromeExistion main strSendMsg = {""websitekey"":false,""commandkey"":true,""browserkey"":true}",0
-setBasicStandardSteps basicStandardStep=3786 restartSteps=0,setBasicStandardSteps basicStandardStep=<*> restartSteps=<*>,0
-Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> ),0
-[21:22:43.147] mv_LowLevelCheckIfVideoPlayableUsingDecoder signalled err=-12956 (kFigMediaValidatorError_VideoCodecNotSupported) (video codec 1) at  line 1921,[<*>:<*>:<*>.<*>] mv_LowLevelCheckIfVideoPlayableUsingDecoder signalled err=<*> (kFigMediaValidatorError_VideoCodecNotSupported) (video codec <*>) at  line <*>,0
-Targeting domains:node-D2 and nodes:node-[64-95] child of command 3488,Targeting domains:node-D<*> and nodes:node-[<*>-<*>] child of command <*>,0
-ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error,ciod: LOGIN chdir(<*>) failed: Input/output error,0
-<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>:   DND Enabled: YES,<IMMacNotificationCenterManager: <*>>:   DND Enabled: YES,0
-[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01),[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (<*>),0
-send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.,send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.,0
--deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.,<*>-deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.,0
-Failed to connect (titleField) outlet from (MMSessionPickerChoosenRowView) to (NSTextField): missing setter or instance variable,Failed to connect (titleField) outlet from (MMSessionPickerChoosenRowView) to (NSTextField): missing setter or instance variable,0
+network changed: v4(en0!:10.105.162.105) DNS+ Proxy+ SMB,network changed: <*>(<*>!:<*>) DNS+ Proxy+ SMB,0
+3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,<*> L3 EDRAM error(s) (dcr <*>) detected and corrected,0
+"[Accounts] Failed to update account with identifier 76FE6715-3D27-4F21-AA35-C88C1EA820E8, error: Error Domain=ABAddressBookErrorDomain Code=1002 ""(null)""","[Accounts] Failed to update account with identifier <*>-<*>-<*>-<*>-<*>, error: Error Domain=ABAddressBookErrorDomain Code=<*> ""(null)""",0
+"device_generate_desktop_screenshot: authw 0x7fa82407ea00(2000), shield 0x7fa82435f400(2001)","device_generate_desktop_screenshot: authw <*>(<*>), shield <*>(<*>)",0
+"screen status unknown,think screen on","screen status unknown,think screen on",0
 AirPort: Link Down on awdl0. Reason 1 (Unspecified).,AirPort: Link Down on awdl0. Reason <*> (Unspecified).,0
 (ImportBailout.Error:1331) Asked to exit for Diskarb,(ImportBailout.Error:<*>) Asked to exit for Diskarb,0
-ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor,ciod: Error creating node map from file <*>: Bad file descriptor,0
-"ARPT: 784055.560270: IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': No, 'TimeRemaining': 5600,","ARPT: <*>.<*>: IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': No, 'TimeRemaining': <*>,",0
-"NETWORK: requery, 0, 0, 0, 0, 328, items, fQueryRetries, 0, fLastRetryTimestamp, 521177334.4","NETWORK: requery, <*>, <*>, <*>, <*>, <*>, items, fQueryRetries, <*>, fLastRetryTimestamp, <*>.<*>",0
-tcp_connection_destination_perform_socket_connect 45238 connectx to 123.125.50.30:993@0 failed: [50] Network is down,tcp_connection_destination_perform_socket_connect <*> connectx to <*>:<*>@<*> failed: [<*>] Network is down,0
-[11:48:06.869] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92,[<*>:<*>:<*>.<*>] FigAgglomeratorSetObjectForKey signalled err=<*> (kFigStringConformerError_ParamErr) (NULL key) at <*> line <*>,0
-QQ(10018) deny mach-lookup com.apple.networking.captivenetworksupport,<*>(<*>) deny mach-lookup com.apple.networking.captivenetworksupport,0
-Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*>.<*> volt rail is OK. The <*>.<*> volt rail is OK.,0
-Starting the TrustedInstaller main loop.,Starting the TrustedInstaller main loop.,0
-after trim url = https://www.google.com/_/chrome/newtab?rlz=1C5CHFA_enHK732HK732&espv=2&ie=UTF-8,after trim url = https://www.google.com/_/chrome/newtab?rlz=<*>_<*>&espv=<*>&ie=UTF-<*>,0
-"2017-07-04 09:42:57.924 GoogleSoftwareUpdateAgent[34603/0x700000323000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/GoogleSoftwareUpdateDaemon' with the requirement 'anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists and certificate leaf[subject.OU]=""EQHXZ8M8AV"" and (identifier=""com.google.Keystone"")'","<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/GoogleSoftwareUpdateDaemon' with the requirement 'anchor apple generic and certificate <*>[field.<*>.<*>] exists and certificate leaf[field.<*>.<*>] exists and certificate leaf[subject.OU]=""<*>"" and (identifier=""com.google.Keystone"")'",0
 INIT -- Host controller is published,INIT -- Host controller is published,0
 critical input interrupt (unit=0x0b bit=0x06): warning for torus y+ wire,critical input interrupt (unit=<*> bit=<*>): warning for torus y+ wire,0
 floating point instr. enabled.....1,floating point instr. enabled.....<*>,0
-"getAppContext() isAppValid health or wear, packageName = com.huawei.health","getAppContext() isAppValid health or wear, packageName = <*>",0
-suppressing further interrupts of same type,suppressing further interrupts of same type,0
-"critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type","critical input interrupt (unit=<*> bit=<*>): warning for torus z+ wire, suppressing further interrupts of same type",0
-Lustre mount FAILED : bglio388 : point /p/gb1,Lustre mount FAILED : bglio<*> : point <*>,0
-"NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)","NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, <*>)",0
-fraction rounded.........................0,fraction rounded.........................<*>,0
-kern_open_file_for_direct_io took 6 ms,kern_open_file_for_direct_io took <*> ms,0
-The instance sync for host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us' did not match. Re-created its InstanceList.,The instance sync for host '<*>' did not match. Re-created its InstanceList.,0
-RTC: PowerByCalendarDate setting ignored,RTC: PowerByCalendarDate setting ignored,0
+inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok><*>,0
+[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.,[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.,0
 NIFF: node node-73 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0,0
-"2017-07-01 19:46:26.133 GoogleSoftwareUpdateAgent[31702/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] Checking with local engine: <KSUpdateEngine:0x100259c60 ticketStore=<KSPersistentTicketStore:0x100253770 store=<KSKeyedPersistentStore:0x100254d10 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"" lockFile=<KSLockFile:0x100254d80 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"" locked=NO > >> processor=<KSActionProcessor:0x100259e70 delegate=<KSUpdateEngine:0x100259c60> isProcessing=NO actionsCompleted=0 progress=0.00 errors=0 currentActionErrors=0 events=0 currentActionEvents=0 actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:0x1002594d0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers""> errors=0 >","<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] Checking with local engine: <KSUpdateEngine:<*> ticketStore=<KSPersistentTicketStore:<*> store=<KSKeyedPersistentStore:<*> path=""<*>"" lockFile=<KSLockFile:<*> path=""<*>"" locked=NO > >> processor=<KSActionProcessor:<*> delegate=<KSUpdateEngine:<*>> isProcessing=NO actionsCompleted=<*> progress=<*>.<*> errors=<*> currentActionErrors=<*> events=<*> currentActionEvents=<*> actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:<*> path=<*> errors=<*> >",0
-IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 12 unplug = 0,IOThunderboltSwitch<<*>>(<*>)::listenerCallback - Thunderbolt HPD packet for route = <*> port = <*> unplug = <*>,0
-dnssd_clientstub ConnectToServer: connect()-> No of tries: 3,dnssd_clientstub ConnectToServer: connect()-> No of tries: <*>,0
-Starting TrustedInstaller initialization.,Starting TrustedInstaller initialization.,0
-Unrecognized attribute value: t:AbchPersonItemType,Unrecognized attribute value: t:AbchPersonItemType,0
-Failed to stop a scan - central is not powered on: 4,Failed to stop a scan - central is not powered on: <*>,0
-00000003@2016/9/28:16:00:46.213 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed875eb5d @0x7fef9d98728 @0x7fef9d98856 @0xffeee474 @0xffeed7de @0xffeedb2f),<*>@<*>/<*>/<*>:<*>:<*>:<*>.<*> WcpInitialize (wcp.dll version <*>) called (stack @<*>),0
-"Loading offline registry hive: schema.dat, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\system32\smi\store\Machine\schema.dat'.","Loading offline registry hive: <*>, into registry key '<*>' from path '<*>'.",0
- getTodayBasicStandardSteps= 1514044800223##3786##0,getTodayBasicStandardSteps= <*>##<*>##<*>,0
-"hibernate_teardown: wired_pages 544767, free_pages 3578340, active_pages 40000, inactive_pages 0, speculative_pages 0, cleaned_pages 0, compressor_pages 112","hibernate_teardown: wired_pages <*>, free_pages <*>, active_pages <*>, inactive_pages <*>, speculative_pages <*>, cleaned_pages <*>, compressor_pages <*>",0
-insertHiHealthData() end totalTime = 94,insertHiHealthData() end totalTime = <*>,0
--[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) UASuggestedActionType=0 (null)/(null) opts=(null) when=2017-07-08 14:29:50 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319),-[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) UASuggestedActionType=<*> (null)/(null) opts=(null) when=<*>,0
-2017-07-07 10:54:41.875 GoogleSoftwareUpdateAgent[37924/0x7000002a0000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {( <KSTicket:0x100365950 productID=com.google.Chrome version=59.0.3071.115 xc=<KSPathExistenceChecker:0x10036e950 path=/Applications/Google Chrome.app> serverType=Omaha url=https://tools.google.com/service/update2 creationDate=2017-02-18 15:41:18 tagPath=/Applications/Google Chrome.app/Contents/Info.plist tagKey=KSChannelID brandPath=/Users/xpc/Library/Google/Google Chrome Brand.plist brandKey=KSBrandID versionPath=/Applications/Google Chrome.app/Contents/Info.plist versionKey=KSVersion cohort=1:1y5: cohortName=Stable ticketVersion=1 > )} Using server: <KSOmahaServer:0x100243f20 engine=<KSUpdateEngine:0x1007161b0> >,<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {( <KSTicket:<*> productID=<*> version=<*> xc=<KSPathExistenceChecker:<*> path=<*> serverType=Omaha url=<*> creationDate=<*>-<*>-<*> <*>:<*>:<*> tagPath=<*> tagKey=KSChannelID brandPath=<*> brandKey=KSBrandID versionPath=<*> versionKey=KSVersion cohort=<*>:<*>: cohortName=Stable ticketVersion=<*> > )} Using server: <KSOmahaServer:<*> engine=<KSUpdateEngine:<*>> >,0
-hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096,hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>,0
+Targeting domains:node-D2 and nodes:node-84,Targeting domains:node-D<*>and nodes:node-<*>,0
+hibernate_rebuild completed - took 10042450943433 msecs,hibernate_rebuild completed - took <*> msecs,0
+"NonStart: Success, startup processing not required as expected.","NonStart: Success, startup processing not required as expected.",0
+debug wait enable.................0,debug wait enable.................<*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
 mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
-program interrupt: unimplemented operation..0,program interrupt: unimplemented operation..<*>,0
-**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- Connected to the transport successfully -- 0x5fd0 -- 0x9a00 -- 0x6800 ****,**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- Connected to the transport successfully -- <*> -- <*> -- <*> ****,0
-"bulkSaveDetailHiHealthData() size = 20,totalTime = 34","bulkSaveDetailHiHealthData() size = <*>,totalTime = <*>",0
+mod_jk child workerEnv in error state 7,mod_jk child workerEnv in error state <*>,0
+2017-07-03 20:25:13.378 GoogleSoftwareUpdateAgent[33847/0x7000002a0000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {( <KSTicket:0x10053b310 productID=com.google.Keystone version=1.2.8.57 xc=<KSPathExistenceChecker:0x10053ac30 path=/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle> url=https://tools.google.com/service/update2 creationDate=2017-02-18 15:41:17 ticketVersion=1 > )} Using server: <KSOmahaServer:0x100248090 engine=<KSUpdateEngine:0x1007249c0> >,<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {( <KSTicket:<*> productID=<*> version=<*> xc=<KSPathExistenceChecker:<*> path=<*> url=<*> creationDate=<*>-<*>-<*> <*>:<*>:<*> ticketVersion=<*> > )} Using server: <KSOmahaServer:<*> engine=<KSUpdateEngine:<*>> >,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
 mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
 workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
 mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
-Reboot mark refs incremented to: 1,Reboot mark refs incremented to: <*>,0
-boot (command 2092) Error: HALT asserted\  cannot continue,boot (command <*>) Error: HALT asserted\  cannot continue,0
-[com.apple.calendar.store.log.caldav.queue] [Account xpc_ben@163.com@https://caldav.163.com/caldav/principals/users/xpc_ben%40163.com/ timed out when executing operation: <CalDAVAccountRefreshQueueableOperation: 0x7fa11f9f2290; Sequence: 0>],[com.apple.calendar.store.log.caldav.queue] [Account <*> timed out when executing operation: <CalDAVAccountRefreshQueueableOperation: <*>; Sequence: <*>>],0
+"[Accounts] Current connection, <NSXPCConnection: 0x7fda72614240> connection from pid 30318, doesn't have account access.","[Accounts] Current connection, <NSXPCConnection: <*>> connection from pid <*>, doesn't have account access.",0
+ARPT: 698501.213099: ARPT: Wake Reason: Wake on TCP Timeout,ARPT: <*>.<*>: ARPT: Wake Reason: Wake on TCP Timeout,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+WARNING: Type1 font data isn't in the correct format required by the Adobe Type 1 Font Format specification.,WARNING: Type1 font data isn't in the correct format required by the Adobe Type <*> Font Format specification.,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+hibernate_page_list_setall found pageCount 488653,hibernate_page_list_setall found pageCount <*>,0
+2017-07-08 06:26:32.365 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] About to run checks for any other apps.,<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] About to run checks for any other apps.,0
+floating pt ex mode 1 enable......0,floating pt ex mode <*> enable......<*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+mod_jk child workerEnv in error state 7,mod_jk child workerEnv in error state <*>,0
+"ARPT: 683604.474196: IOPMPowerSource Information: onSleep,  SleepType: Standby,  'ExternalConnected': No, 'TimeRemaining': 578,","ARPT: <*>.<*>: IOPMPowerSource Information: onSleep,  SleepType: Standby,  'ExternalConnected': No, 'TimeRemaining': <*>,",0
+"insertHiHealthData() size = 20,app = 1,One Data Type = 2,packageName = com.huawei.health,writeStatType = 0","insertHiHealthData() size = <*>,app = <*>,One Data Type = <*>,packageName = <*>,writeStatType = <*>",0
+"10.11.10.1 ""POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1"" status: 200 len: 380 time: 0.0901439","<*> ""POST <*>"" status: <*> len: <*> time: <*>.<*>",0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+mod_jk child workerEnv in error state 7,mod_jk child workerEnv in error state <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+ARPT: 783795.288172: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake,ARPT: <*>.<*>: AirPort_<*>::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+"2017-07-02 10:40:07.676 GoogleSoftwareUpdateAgent[32012/0x7000002a0000] [lvl=2] -[KSAgentApp updateProductWithProductID:usingEngine:] Checking for updates for ""com.google.Keystone"" using engine <KSUpdateEngine:0x100313e70 ticketStore=<KSPersistentTicketStore:0x100332a60 store=<KSKeyedPersistentStore:0x100315fa0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"" lockFile=<KSLockFile:0x1003176d0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"" locked=NO > >> processor=<KSActionProcessor:0x1003143e0 delegate=<KSUpdateEngine:0x100313e70> isProcessing=NO actionsCompleted=0 progress=0.00 errors=0 currentActionErrors=0 events=0 currentActionEvents=0 actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:0x100311a10 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers""> errors=0 >","<*>-<*>-<*> <*>:<*>:<*>.<*> GoogleSoftwareUpdateAgent[<*>/<*>] [lvl=<*>] -[KSAgentApp updateProductWithProductID:usingEngine:] Checking for updates for ""com.google.Keystone"" using engine <KSUpdateEngine:<*> ticketStore=<KSPersistentTicketStore:<*> store=<KSKeyedPersistentStore:<*> path=""<*>"" lockFile=<KSLockFile:<*> path=""<*>"" locked=NO > >> processor=<KSActionProcessor:<*> delegate=<KSUpdateEngine:<*>> isProcessing=NO actionsCompleted=<*> progress=<*>.<*> errors=<*> currentActionErrors=<*> events=<*> currentActionEvents=<*> actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:<*> path=""<*>""> errors=<*> >",0
+host connection <NSXPCConnection: 0x7fddbbb015c0> connection from pid 30298 invalidated,host connection <NSXPCConnection: <*>> connection from pid <*> invalidated,0
+jk2_init() Found child 32448 in scoreboard slot 8,jk2_init() Found child <*> in scoreboard slot <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+mod_jk child workerEnv in error state 7,mod_jk child workerEnv in error state <*>,0
+jk2_init() Found child 32449 in scoreboard slot 9,jk2_init() Found child <*> in scoreboard slot <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+jk2_init() Found child 32450 in scoreboard slot 10,jk2_init() Found child <*> in scoreboard slot <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+jk2_init() Found child 32452 in scoreboard slot 7,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32451 in scoreboard slot 6,jk2_init() Found child <*> in scoreboard slot <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+mod_jk child workerEnv in error state 7,mod_jk child workerEnv in error state <*>,0
+jk2_init() Found child 32454 in scoreboard slot 7,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32453 in scoreboard slot 8,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32455 in scoreboard slot 9,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32467 in scoreboard slot 9,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32464 in scoreboard slot 8,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32465 in scoreboard slot 7,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32466 in scoreboard slot 11,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32457 in scoreboard slot 6,jk2_init() Found child <*> in scoreboard slot <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+mod_jk child workerEnv in error state 7,mod_jk child workerEnv in error state <*>,0
+mod_jk child workerEnv in error state 8,mod_jk child workerEnv in error state <*>,0
+jk2_init() Found child 32475 in scoreboard slot 8,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32478 in scoreboard slot 11,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32477 in scoreboard slot 10,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32479 in scoreboard slot 6,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32480 in scoreboard slot 8,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32476 in scoreboard slot 7,jk2_init() Found child <*> in scoreboard slot <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
 workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
 workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
 workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
 mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
 mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
 mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
-could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0,could discard act <*> inact <*> purgeable <*> spec <*> cleaned <*>,0
-Saw change in network reachability (isReachable=0),Saw change in network reachability (isReachable=<*>),0
-workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
-workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
-mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
-mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
-<IMMacNotificationCenterManager: 0x7fdcc9d16380>: notification observer: com.apple.FaceTime   notification: __CFNotification 0x7fdcc9d19110 {name = _NSDoNotDisturbEnabledNotification},<IMMacNotificationCenterManager: <*>>: notification observer: com.apple.FaceTime   notification: __CFNotification <*> {name = _NSDoNotDisturbEnabledNotification},0
-[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object,[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object,0
-workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
-"[CardDAVPlugin-ERROR] -getPrincipalInfo:[_controller supportsRequestCompressionAtURL:https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/] Error Domain=NSURLErrorDomain Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=0x7f8de0c0dc70 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSErrorFailingURLStringKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, NSErrorFailingURLKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, NSErrorFailingURLKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=The Internet connection appears to be offline.}","[CardDAVPlugin-ERROR] -getPrincipalInfo:[_controller supportsRequestCompressionAtURL:<*>] Error Domain=NSURLErrorDomain Code=<*> ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=<*> {Error Domain=kCFErrorDomainCFNetwork Code=<*> ""The Internet connection appears to be offline."" UserInfo={NSErrorFailingURLStringKey=<*>, NSErrorFailingURLKey=<*>, _kCFStreamErrorCodeKey=<*>, _kCFStreamErrorDomainKey=<*>, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=<*>, NSErrorFailingURLKey=<*>, _kCFStreamErrorDomainKey=<*>, _kCFStreamErrorCodeKey=<*>, NSLocalizedDescription=The Internet connection appears to be offline.}",0
-workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
-"ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1501./hpl_DD: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory",0
-mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
-mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
-workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+mod_jk child workerEnv in error state 7,mod_jk child workerEnv in error state <*>,0
+mod_jk child workerEnv in error state 8,mod_jk child workerEnv in error state <*>,0
+jk2_init() Found child 32483 in scoreboard slot 7,jk2_init() Found child <*> in scoreboard slot <*>,0
 workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
 mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+jk2_init() Found child 32507 in scoreboard slot 9,jk2_init() Found child <*> in scoreboard slot <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
 mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
-"Kernel detected 3486044 integer alignment exceptions (3486037) iar 0x00544ea8, dear 0x01ef7c60 (3486038) iar 0x00544eb8, dear 0x01ef7c80 (3486039) iar 0x00544ea8, dear 0x01ef7ca0 (3486040) iar 0x00544eb8, dear 0x01ef7cc0 (3486041) iar 0x00544ee0, dear 0x01ef7ce0 (3486042) iar 0x00544ef0, dear 0x01ef7d00 (3486043) iar 0x00544ee0, dear 0x01ef7d20 (3486044) iar 0x00544ef0, dear 0x01ef7d40","Kernel detected <*> integer alignment exceptions (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*>",0
-Checking iCDP status for DSID 874161398 (checkWithServer=0),Checking iCDP status for DSID <*> (checkWithServer=<*>),0
-uploadStaticsToDB() onResult  type = 4 obj=true,uploadStaticsToDB() onResult  type = <*> obj=true,0
+jk2_init() Found child 32529 in scoreboard slot 6,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32528 in scoreboard slot 10,jk2_init() Found child <*> in scoreboard slot <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+jk2_init() Found child 32548 in scoreboard slot 9,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32546 in scoreboard slot 8,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32547 in scoreboard slot 7,jk2_init() Found child <*> in scoreboard slot <*>,0
 workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
 workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
 workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
 mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
 mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
-program interrupt: privileged instruction...0,program interrupt: privileged instruction...<*>,0
-"ARPT: 775899.188954: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2863091569, Ack 159598625, Win size 278","ARPT: <*>.<*>: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq <*>, Ack <*>, Win size <*>",0
-onReceive action: android.intent.action.SCREEN_ON,onReceive action: android.intent.action.SCREEN_ON,0
-00:03:06.178 : Started generating hashes,<*>:<*>:<*>.<*> : Started generating hashes,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+jk2_init() Found child 32549 in scoreboard slot 10,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32550 in scoreboard slot 6,jk2_init() Found child <*> in scoreboard slot <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+jk2_init() Found child 32551 in scoreboard slot 8,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32552 in scoreboard slot 7,jk2_init() Found child <*> in scoreboard slot <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+jk2_init() Found child 32554 in scoreboard slot 10,jk2_init() Found child <*> in scoreboard slot <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+jk2_init() Found child 32553 in scoreboard slot 9,jk2_init() Found child <*> in scoreboard slot <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+jk2_init() Found child 32556 in scoreboard slot 8,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32555 in scoreboard slot 6,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32557 in scoreboard slot 7,jk2_init() Found child <*> in scoreboard slot <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,workerEnv.init() ok <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+mod_jk child workerEnv in error state 6,mod_jk child workerEnv in error state <*>,0
+jk2_init() Found child 32558 in scoreboard slot 9,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32560 in scoreboard slot 6,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32561 in scoreboard slot 8,jk2_init() Found child <*> in scoreboard slot <*>,0
+jk2_init() Found child 32563 in scoreboard slot 9,jk2_init() Found child <*> in scoreboard slot <*>,0
 jk2_init() Found child 32564 in scoreboard slot 10,jk2_init() Found child <*> in scoreboard slot <*>,0
 jk2_init() Found child 32565 in scoreboard slot 11,jk2_init() Found child <*> in scoreboard slot <*>,0
 jk2_init() Found child 32575 in scoreboard slot 6,jk2_init() Found child <*> in scoreboard slot <*>,0

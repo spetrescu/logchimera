@@ -1,98 +1,98 @@
 Content
-CCProfileMonitor::setStreamEventHandler
-00000009@2016/9/28:16:01:03.072 PopulateComponentFamiliesKey - End
+"ChromeExistion main strSendMsg = {""websitekey"":false,""commandkey"":true,""browserkey"":true}"
+AppleActuatorHIDEventDriver: message service is terminated
 "timeStamp back,extendReportTimeStamp=1514042265000"
 16 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected
 2017-07-04 09:42:58.121 ksfetch[34604/0x7fff79824000] [lvl=2] main() ksfetch done fetching.
-"Partition rdd_42_39 not found, computing it"
-Bluetooth -- LE is supported - Disable LE meta event
-"CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: IO80211AWDLPeerManager"
-"upLoadOneMinuteDataToEngine time=25233979,0,46,0,20002"
-"arp_client_transmit(en0) failed, Network is down (50)"
-08:21:18.004 : Discoverable mode changed to Off
+ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error
+[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)
+-deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.
+CCXPCService::setStreamEventHandler Registered for notification callback.
+"hibernate_machine_init pagesDone 451550 sum2 4886d9d9, time: 197 ms, disk(0x20000) 799 Mb/s, comp bytes: 40017920 time: 27 ms 1412 Mb/s, crypt bytes: 160550912 time: 39 ms 3904 Mb/s"
+"Block broadcast_40 stored as values in memory (estimated size 9.9 KB, free 884.2 KB)"
 "stepSyncOrNot appSynTimes is 0, statsyncTimes is 0"
 "No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending."
 "[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] memory limit: 96258.00 MB, free: 95746.00 MB"
-Started reading broadcast variable 40
-2017-07-05 10:52:16.977 GoogleSoftwareUpdateAgent[35861/0x700000323000] [lvl=2] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.
-data store interrupt caused by icbi.........0
+Failed to connect (titleField) outlet from (MMSessionPickerChoosenRowView) to (NSTextField): missing setter or instance variable
+"NETWORK: requery, 0, 0, 0, 0, 328, items, fQueryRetries, 0, fLastRetryTimestamp, 521177334.4"
+Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable
 Starting executor ID 5 on host mesos-slave-07
 [16:57:09.235] <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification
 Captive: CNPluginHandler en0: Inactive
 10.250.15.198:50010 Starting thread to transfer block blk_4292382298896622412 to 10.250.15.240:50010
-Captive: [CNInfoNetworkActive:1748] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive)
-"mapred.job.id is deprecated. Instead, use mapreduce.job.id"
-Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat
-"insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT"
-Failed to internally open package. [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]
-[HID] [ATC] [Error] AppleDeviceManagementHIDEventService::start Could not make a string from out connection notification key
+tcp_connection_destination_perform_socket_connect 45238 connectx to 123.125.50.30:993@0 failed: [50] Network is down
+[11:48:06.869] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92
+QQ(10018) deny mach-lookup com.apple.networking.captivenetworksupport
+"While synchronizing instance power states, found 1 instances in the database and 0 instances on the hypervisor."
+KeychainGetICDPStatus: keychain: -25300
+"CCFile::captureLog Received Capture notice id: 1499133420.914478, reason = DeauthInd:sts:0_rsn:7"
 TrustedInstaller service starts successfully.
 instruction address space.........0
 "[QL] No sandbox token for request <QLThumbnailRequest vmware-usbarb-25037.log>, it will probably fail"
-no sleep images for WillPowerOffWithImages
-<<<< MediaValidator >>>> mv_ValidateRFC4281CodecId: Unrecognized codec 1.(null). Failed codec specific check.
-"ciod: Received signal 15, code=0, errno=0, address=0x000001f2"
-byte ordering exception.....................0
+Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+Starting the TrustedInstaller main loop.
+-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
+Idle processing thread terminated normally
 "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage"
 ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff
 [instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Took 1.02 seconds to destroy the instance on the hypervisor.
--[NETClientConnection effectiveBundleID] using process name CalendarAgent as bundle ID (this is expected for daemons without bundle ID
-Could not get event name for stream/token: com.apple.xpc.activity/4505: 132: Request for stale data
-Lustre mount FAILED : bglio617 : block_id : location
-[12:22:42.202] itemasync_SetProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c line 2306
+after trim url = https://www.google.com/_/chrome/newtab?rlz=1C5CHFA_enHK732HK732&espv=2&ie=UTF-8
+"2017-07-04 09:42:57.924 GoogleSoftwareUpdateAgent[34603/0x700000323000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/GoogleSoftwareUpdateDaemon' with the requirement 'anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists and certificate leaf[subject.OU]=""EQHXZ8M8AV"" and (identifier=""com.google.Keystone"")'"
+"securityd_xpc_dictionary_handler cloudd[326] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
+instruction cache parity error corrected
 Cocoa scripting error for '0x02cb000d': four character codes must be four characters long.
 CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
 onReceive action: android.intent.action.SCREEN_OFF
-00000010@2016/9/27:20:40:54.787 CSI Transaction @0x47e9e0 destroyed
-"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Total vcpu: 16 VCPU, used: 0.00 VCPU"
+Lustre mount FAILED : bglio388 : point /p/gb1
+objc[35448]: Class TSUCustomFormatData is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.
 hibernate_teardown completed - discarded 93932
 ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:51706
 program interrupt: fp cr field .............0
 wait state enable.................0
-handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)
-ARPT: 770605.092581: ARPT: Wake Reason: Wake on Scan offload
-network changed: v4(en0!:10.105.162.105) DNS+ Proxy+ SMB
-3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected
-ARPT: 770786.961436: AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
-"<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of 21335 bytes @ 5481561 took 0.501237 sec. to complete, 16 reads >= 0.5 sec."
-File Output Committer Algorithm version is 1
-extension com.apple.ncplugin.WorldClock -> (null)
+"NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)"
+fraction rounded.........................0
+kern_open_file_for_direct_io took 6 ms
+The instance sync for host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us' did not match. Re-created its InstanceList.
+tcp_connection_tls_session_error_callback_imp 2515 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22
+"2017-07-06 00:30:37.071 GoogleSoftwareUpdateAgent[36436/0x7000002a0000] [lvl=2] -[KSUpdateEngine updateAllExceptProduct:] KSUpdateEngine updating all installed products, except:'com.google.Keystone'."
+"hostControllerOnline - Number of Paired devices = 1, List of Paired devices = ( ""84-41-67-32-db-e1"" )"
+AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0
 store operation.............................1
-"[Accounts] Failed to update account with identifier 76FE6715-3D27-4F21-AA35-C88C1EA820E8, error: Error Domain=ABAddressBookErrorDomain Code=1002 ""(null)"""
-Internal name did not resolve to internal address!
+RTC: PowerByCalendarDate setting ignored
+0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7
 Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904]
 Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=512MB phys_disk=15GB used_disk=0GB total_vcpus=16 used_vcpus=0 pci_stats=[]
-"device_generate_desktop_screenshot: authw 0x7fa82407ea00(2000), shield 0x7fa82435f400(2001)"
-"screen status unknown,think screen on"
-startListenerChange subscribeList = [1]
-AppleCamIn::systemWakeCall - messageType = 0xE0000320
+"hibernate_teardown: wired_pages 544767, free_pages 3578340, active_pages 40000, inactive_pages 0, speculative_pages 0, cleaned_pages 0, compressor_pages 112"
+2017-07-07 10:54:41.875 GoogleSoftwareUpdateAgent[37924/0x7000002a0000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {( <KSTicket:0x100365950 productID=com.google.Chrome version=59.0.3071.115 xc=<KSPathExistenceChecker:0x10036e950 path=/Applications/Google Chrome.app> serverType=Omaha url=https://tools.google.com/service/update2 creationDate=2017-02-18 15:41:18 tagPath=/Applications/Google Chrome.app/Contents/Info.plist tagKey=KSChannelID brandPath=/Users/xpc/Library/Google/Google Chrome Brand.plist brandKey=KSBrandID versionPath=/Applications/Google Chrome.app/Contents/Info.plist versionKey=KSVersion cohort=1:1y5: cohortName=Stable ticketVersion=1 > )} Using server: <KSOmahaServer:0x100243f20 engine=<KSUpdateEngine:0x1007161b0> >
+ARPT: 728046.456828: wl0: setup_keepalive: Local IP: 10.142.108.38
+SQM: Requesting upload of all unsent reports.
 "VDCAssistant:  Found a camera (0x1430000005ac8290) , but was not able to start it up (0x0 -- (os/kern) successful)"
 Sandbox: com.apple.WebKit(9854) deny(1) file-read-data /private/etc/hosts
-[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.
-debug wait enable.................0
-**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- 0x8800 ****
-[com.apple.calendar.store.log.caldav.coredav] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].]
+program interrupt: unimplemented operation..0
+**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- Connected to the transport successfully -- 0x5fd0 -- 0x9a00 -- 0x6800 ****
+uploadStaticsToDB failed message=true
+0000000a Performing 1 operations; 1 are not lock/unlock and follow:
 insertHiHealthData() checkAppType  0 appID = 1
-AppleActuatorHIDEventDriver: message service is terminated
-"pages 1418325, wire 548641, act 438090, inact 2, cleaned 0 spec 12, zf 30, throt 0, compr 254881, xpmapped 40000"
+Reboot mark refs incremented to: 1
+"5 ddr error(s) detected and corrected on rank 0, symbol 28 over 2946 seconds"
 Loaded Servicing Stack v6.1.7601.23505 with Core: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\cbscore.dll
-CCXPCService::setStreamEventHandler Registered for notification callback.
-"Scavenge: Completed, disposition: 0X1"
+boot (command 2092) Error: HALT asserted\  cannot continue
+[00:28:42.167] (Fig) signalled err=-12871
 AppleThunderboltGenericHAL::earlyWake - complete - took 1 milliseconds
 "RTC: Maintenance 2017/7/7 17:31:21, sleep 2017/7/7 17:18:49"
-"hibernate_machine_init pagesDone 451550 sum2 4886d9d9, time: 197 ms, disk(0x20000) 799 Mb/s, comp bytes: 40017920 time: 27 ms 1412 Mb/s, crypt bytes: 160550912 time: 39 ms 3904 Mb/s"
-"Block broadcast_40 stored as values in memory (estimated size 9.9 KB, free 884.2 KB)"
-disable store gathering..................0
-Link error on broadcast tree Interconnect-1T00:00:2:0
+[com.apple.calendar.store.log.caldav.queue] [Account xpc_ben@163.com@https://caldav.163.com/caldav/principals/users/xpc_ben%40163.com/ timed out when executing operation: <CalDAVAccountRefreshQueueableOperation: 0x7fa11f9f2290; Sequence: 0>]
+could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0
+"hibernate_machine_init: state 2, image pages 446175, sum was d4e6c0b2, imageSize 0x2aea6000, image1Size 0x215a4000, conflictCount 5848, nextFree 5887"
+2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds
 machine check enable..............0
-Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable
-Session: 11152_142416105 initialized by client SPP.
+Saw change in network reachability (isReachable=0)
+rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-
 "PM response took 113 ms (24144, WeChat)"
 "saveStatData() type =40004,time = 1513958400000,statClient = 2,who is 1"
-"While synchronizing instance power states, found 1 instances in the database and 0 instances on the hypervisor."
-getBinderPackageName packageName = com.huawei.health
-KeychainGetICDPStatus: keychain: -25300
-icache prefetch depth....................0
+<IMMacNotificationCenterManager: 0x7fdcc9d16380>: notification observer: com.apple.FaceTime   notification: __CFNotification 0x7fdcc9d19110 {name = _NSDoNotDisturbEnabledNotification}
+[00:29:04.085] <<<< CRABS >>>> crabsWaitForLoad: [0x7fbc7ac683a0] Wait time out - -1001 (msRequestTimeout -1)
+[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object
+"new date =20171223, type=40006,7140.0,old=6900.0"
 "CoreAnimation: warning, deleted thread with uncommitted CATransaction; set CA_DEBUG_TRANSACTIONS=1 in environment to log backtraces."
 "2017-07-03 10:40:41.730 GoogleSoftwareUpdateAgent[33263/0x700000323000] [lvl=2] -[KSAgentApp performSelfUpdateWithEngine:] Checking for self update with Engine: <KSUpdateEngine:0x10062de70 ticketStore=<KSPersistentTicketStore:0x1005206e0 store=<KSKeyedPersistentStore:0x1005282c0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"" lockFile=<KSLockFile:0x100510480 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"" locked=NO > >> processor=<KSActionProcessor:0x10062e060 delegate=<KSUpdateEngine:0x10062de70> isProcessing=NO actionsCompleted=0 progress=0.00 errors=0 currentActionErrors=0 events=0 currentActionEvents=0 actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:0x10062d2d0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers""> errors=0 >"
 Startup processing thread terminated normally
@@ -104,77 +104,77 @@ checkInsertStatus stepSum or calorieSum is enough
 "Service ""com.apple.xpc.launchd.unmanaged.loginwindow.94"" tried to hijack endpoint ""com.apple.tsm.uiserver"" from owner: com.apple.SystemUIServer.agent"
 "saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40005"
 Sandbox: QuickLookSatelli(38418) deny(1) mach-lookup com.apple.networkd
-"CCFile::captureLog Received Capture notice id: 1499133420.914478, reason = DeauthInd:sts:0_rsn:7"
-risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>
--[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.
-"ARPT: 740631.402908: IOPMPowerSource Information: onWake,  SleepType: Normal Sleep,  'ExternalConnected': No, 'TimeRemaining': 5802,"
-Idle processing thread terminated normally
-ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map
-"securityd_xpc_dictionary_handler cloudd[326] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
-NIFF: node node-144 has detected an available network connection on network 10.96.0.0 via interface scip0
-instruction cache parity error corrected
-Wake reason: EC.SleepTimer (SleepTimer)
-objc[35448]: Class TSUCustomFormatData is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.
--[SFLListManager(ServiceReplyProtocol) notifyChanges:toListWithIdentifier:] Notified of item changes to list with identifier com.apple.LSSharedFileList.RecentApplications
-tcp_connection_tls_session_error_callback_imp 2515 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22
-"00000006 Created NT transaction (seq 1) result 0x00000000, handle @0x218"
+"[CardDAVPlugin-ERROR] -getPrincipalInfo:[_controller supportsRequestCompressionAtURL:https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/] Error Domain=NSURLErrorDomain Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=0x7f8de0c0dc70 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSErrorFailingURLStringKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, NSErrorFailingURLKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, NSErrorFailingURLKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=The Internet connection appears to be offline.}"
+debug interrupt enable............0
+"ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1501./hpl_DD: invalid or missing program image, No such file or directory"
+[0706/120312:WARNING:dns_config_service_posix.cc(306)] Failed to read DnsConfig.
+"Kernel detected 3486044 integer alignment exceptions (3486037) iar 0x00544ea8, dear 0x01ef7c60 (3486038) iar 0x00544eb8, dear 0x01ef7c80 (3486039) iar 0x00544ea8, dear 0x01ef7ca0 (3486040) iar 0x00544eb8, dear 0x01ef7cc0 (3486041) iar 0x00544ee0, dear 0x01ef7ce0 (3486042) iar 0x00544ef0, dear 0x01ef7d00 (3486043) iar 0x00544ee0, dear 0x01ef7d20 (3486044) iar 0x00544ef0, dear 0x01ef7d40"
+ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map
+Checking iCDP status for DSID 874161398 (checkWithServer=0)
+New ido chip inserted into the database: FF:F2:9F:16:C4:C2:00:0D:60:E9:3B:3D ip=10.2.1.37 v=13 t=4
+uploadStaticsToDB() onResult  type = 4 obj=true
+program interrupt: imprecise exception......0
+program interrupt: privileged instruction...0
+Service exited with abnormal code: 1
+"ARPT: 775899.188954: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2863091569, Ack 159598625, Win size 278"
+program interrupt: trap instruction.........0
 tcp_connection_destination_perform_socket_connect 21152 connectx to 203.205.147.206:8080@0 failed: [51] Network is unreachable
-"2017-07-06 00:30:37.071 GoogleSoftwareUpdateAgent[36436/0x7000002a0000] [lvl=2] -[KSUpdateEngine updateAllExceptProduct:] KSUpdateEngine updating all installed products, except:'com.google.Keystone'."
-"bitmap_size 0x7f0fc, previewSize 0x4028, writing 485676 pages @ 0x97144"
+onReceive action: android.intent.action.SCREEN_ON
+Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2608)
 "mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap"
 NIFF: node node-162 detected a failed network connection on network 5.5.224.0 via interface alt0
-"hostControllerOnline - Number of Paired devices = 1, List of Paired devices = ( ""84-41-67-32-db-e1"" )"
-"PBRequester failed with Error Error Domain=NSURLErrorDomain Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=0x7fb7f0035dc0 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSErrorFailingURLStringKey=https://gs-loc.apple.com/clls/wloc, NSErrorFailingURLKey=https://gs-loc.apple.com/clls/wloc, _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://gs-loc.apple.com/clls/wloc, NSErrorFailingURLKey=https://gs-loc.apple.com/clls/wloc, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=The Internet connection appears to be offline.}"
-AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0
-machine check: i-fetch......................0
+00:03:06.178 : Started generating hashes
+"initUserPrivacy the userPrivacy switch is open, start push user data!"
+CCProfileMonitor::setStreamEventHandler
+full wake promotion (reason 1) 374 ms
 [instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Took 20.22 seconds to build instance.
-0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7
-data address space................0
+"Partition rdd_42_39 not found, computing it"
+Ido chip status changed: FF:F2:9F:15:7B:E0:00:0D:60:EA:84:1F ip=10.7.0.130 v=13 t=1 status=M Sat Sep 17 07:49:04 PDT 2005
 [client 222.166.160.184] Directory index forbidden by rule: /var/www/html/
 "problem state (0=sup,1=usr).......0"
-ARPT: 728046.456828: wl0: setup_keepalive: Local IP: 10.142.108.38
-"saveHealthDetailData() deviceID = 2,clientID=1,id=1"
+Bluetooth -- LE is supported - Disable LE meta event
+"Configuration Notice: ASL Module ""com.apple.authkit.osx.asl"" sharing output destination ""/var/log/Accounts"" with ASL Module ""com.apple.Accounts"". Output parameters from ASL Module ""com.apple.Accounts"" override any specified in ASL Module ""com.apple.authkit.osx.asl""."
 Error in CoreDragRemoveReceiveHandler: -1856
 ARPT: 785104.988856: AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
-SQM: Requesting upload of all unsent reports.
-uploadStaticsToDB failed message=true
--[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 0x7f9951214ca0>.
+"CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: IO80211AWDLPeerManager"
+Started reading broadcast variable 40
+"ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160"
 Creating event network-vif-plugged:1771f0af-aae8-4b03-97c9-a7bc9c5e4bb7 for instance faf974ea-cba5-4e1b-93f4-3a3bc606006f
 "PBRequester failed with Error Error Domain=NSURLErrorDomain Code=-1001 ""The request timed out."" UserInfo={NSUnderlyingError=0x7fb7ed616c80 {Error Domain=kCFErrorDomainCFNetwork Code=-1001 ""The request timed out."" UserInfo={NSErrorFailingURLStringKey=https://gs-loc.apple.com/clls/wloc, NSErrorFailingURLKey=https://gs-loc.apple.com/clls/wloc, _kCFStreamErrorCodeKey=-2102, _kCFStreamErrorDomainKey=4, NSLocalizedDescription=The request timed out.}}, NSErrorFailingURLStringKey=https://gs-loc.apple.com/clls/wloc, NSErrorFailingURLKey=https://gs-loc.apple.com/clls/wloc, _kCFStreamErrorDomainKey=4, _kCFStreamErrorCodeKey=-2102, NSLocalizedDescription=The request timed out.}"
 [instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Instance spawned successfully.
-0000000a Performing 1 operations; 1 are not lock/unlock and follow:
-"ARPT: 784053.579480: wl0: setup_keepalive: Local port: 59927, Remote port: 443"
+2017-07-05 10:52:16.977 GoogleSoftwareUpdateAgent[35861/0x700000323000] [lvl=2] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.
+Ending the TrustedInstaller main loop.
 "Opened file /var/vm/sleepimage, size 1073741824, extents 3, maxio 2000000 ssd 1"
 ciod: pollControlDescriptors: Detected the debugger died.
 ciod: generated 128 core files for program /g/g24/germann2/SPaSM_mini/MEAM/r13
 "hibernate_alloc_pages act 107794, inact 10088, anon 460, throt 0, spec 58021, wire 572831, wireinit 39927"
-"5 ddr error(s) detected and corrected on rank 0, symbol 28 over 2946 seconds"
-vm_compressor_fastwake_warmup completed - took 12461 msecs
-[00:28:42.167] (Fig) signalled err=-12871
-"2017-07-07 01:47:40.090 GoogleSoftwareUpdateAgent[37644/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: ""https://tools.google.com/service/update2?cup2hreq=c30943ccd5e0a03e93b6be3e2b7e2127989f08f1bde99263ffee091de8b8bc39&cup2key=7:1039900771"""
-"hibernate_machine_init: state 2, image pages 446175, sum was d4e6c0b2, imageSize 0x2aea6000, image1Size 0x215a4000, conflictCount 5848, nextFree 5887"
-[BluetoothHIDDeviceController] EventServiceDisconnectedCallback
-2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds
-Error in CoreDragRemoveTrackingHandler: -1856
+Captive: [CNInfoNetworkActive:1748] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive)
+"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id"
+"mapred.job.id is deprecated. Instead, use mapreduce.job.id"
+Can not get assembly information for node card
+Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat
+size of scratchpad portion of L3.........0 (0M)
+no sleep images for WillPowerOffWithImages
+minus normalized number..................0
 "ARPT: 764427.640542: wl0: setup_keepalive: Seq: 204730741, Ack: 2772623181, Win size: 4096"
 ARPT: 790457.609414: AirPort_Brcm43xx::powerChange: System Sleep
 Fan speeds ( 3534 3534 3375 4115 3497 3479 )
-rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-
-[00:29:04.085] <<<< CRABS >>>> crabsWaitForLoad: [0x7fbc7ac683a0] Wait time out - -1001 (msRequestTimeout -1)
-"mapred.tip.id is deprecated. Instead, use mapreduce.task.id"
-1 torus receiver x+ input pipe error(s) (dcr 0x02ec) detected and corrected
+<<<< MediaValidator >>>> mv_ValidateRFC4281CodecId: Unrecognized codec 1.(null). Failed codec specific check.
+-[NETClientConnection effectiveBundleID] using process name CalendarAgent as bundle ID (this is expected for daemons without bundle ID
+2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification
+SQM: Cleaning up report files older than 10 days.
 data cache search parity error detected. attempting to correct
 "doSaveChannels@286: Will write to: /Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-07_13,40,35.959475] - AuthFail:sts:5_rsn:0.xml"
 mDNS_RegisterInterface: Frequent transitions for interface en0 (FE80:0000:0000:0000:C6B3:01FF:FECD:467F)
 "[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU"
-"new date =20171223, type=40006,7140.0,old=6900.0"
-ARPT: 770798.478026: framerdy 0x0 bmccmd 3 framecnt 1024
-debug interrupt enable............0
-Sandbox: com.apple.Addres(38449) deny(1) network-outbound /private/var/run/mDNSResponder
-[0706/120312:WARNING:dns_config_service_posix.cc(306)] Failed to read DnsConfig.
-BLOCK* ask 10.250.14.38:50010 to replicate blk_-7571492020523929240 to datanode(s) 10.251.122.38:50010
-ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map
-**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- 0x5fd0 -- 0x9a00 -- 0xc800 ****
+Could not get event name for stream/token: com.apple.xpc.activity/4505: 132: Request for stale data
+"ARPT: 783991.995027: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10"
+00000010@2016/9/27:20:40:54.787 CSI Transaction @0x47e9e0 destroyed
+setBasicStandardSteps basicStandardStep=3786 restartSteps=0
+handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)
+Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+ARPT: 770605.092581: ARPT: Wake Reason: Wake on Scan offload
+<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>:   DND Enabled: YES
 "ARPT: 762543.171617: IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,"
 tcp_connection_destination_handle_tls_close_notify 111 closing socket due to TLS CLOSE_NOTIFY alert
 tcp_connection_tls_session_error_callback_imp 2210 tcp_connection_tls_session_handle_read_error.790 error 60
@@ -183,154 +183,154 @@ AppleThunderboltNHIType2::prePCIWake - power up complete - took 5 us
 __42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! QQ.10018 tc25995 121.51.36.148:443
 ARPT: 739241.687186: AQM agg results 0x8001 len hi/lo: 0x0 0x26 BAbitmap(0-3) 0 0 0 0
 10.251.107.98:50010:Got exception while serving blk_-3140031507252212554 to /10.250.7.244:
-New ido chip inserted into the database: FF:F2:9F:16:C4:C2:00:0D:60:E9:3B:3D ip=10.2.1.37 v=13 t=4
-program interrupt: imprecise exception......0
-Service exited with abnormal code: 1
-program interrupt: trap instruction.........0
-Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2608)
-1 torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected
-"SecOSStatusWith error:[-50] Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}"
-"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)"
-[HID] [MT] AppleActuatorHIDEventDriver::start entered
-[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Deletion of /var/lib/nova/instances/c62f4f25-982c-4ea2-b5e4-93000edfcfbf_del complete
-inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>
-"initUserPrivacy the userPrivacy switch is open, start push user data!"
-"2017-07-06 14:57:16.661 GoogleSoftwareUpdateAgent[37059/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: ""https://tools.google.com/service/update2?cup2hreq=37fbcb7ab6829be04567976e3212d7a67627aef11546f8b7013d4cffaf51f739&cup2key=7:4200177539"""
-Targeting domains:node-D2 and nodes:node-84
-hibernate_rebuild completed - took 10042450943433 msecs
-"NonStart: Success, startup processing not required as expected."
-full wake promotion (reason 1) 374 ms
-Ido chip status changed: FF:F2:9F:15:7B:E0:00:0D:60:EA:84:1F ip=10.7.0.130 v=13 t=1 status=M Sat Sep 17 07:49:04 PDT 2005
-"network_reachability_changed : network is not reachable, netbiosd is shutting down"
-"NETWORK: no response from server, reachability, 2, queryRetries, 2"
-2017-07-03 20:25:13.378 GoogleSoftwareUpdateAgent[33847/0x7000002a0000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {( <KSTicket:0x10053b310 productID=com.google.Keystone version=1.2.8.57 xc=<KSPathExistenceChecker:0x10053ac30 path=/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle> url=https://tools.google.com/service/update2 creationDate=2017-02-18 15:41:17 ticketVersion=1 > )} Using server: <KSOmahaServer:0x100248090 engine=<KSUpdateEngine:0x1007249c0> >
-"Configuration Notice: ASL Module ""com.apple.authkit.osx.asl"" sharing output destination ""/var/log/Accounts"" with ASL Module ""com.apple.Accounts"". Output parameters from ASL Module ""com.apple.Accounts"" override any specified in ASL Module ""com.apple.authkit.osx.asl""."
-enabling pid=30298 for plug-in com.apple.ncplugin.weather(1.0) 131FE7ED-87F7-471D-8797-C11107688DF7 /System/Library/CoreServices/Weather.app/Contents/PlugIns/com.apple.ncplugin.weather.appex
-"ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160"
-MemoryStore started with capacity 17.7 GB
-"[Accounts] Current connection, <NSXPCConnection: 0x7fda72614240> connection from pid 30318, doesn't have account access."
-ARPT: 698501.213099: ARPT: Wake Reason: Wake on TCP Timeout
-Ending the TrustedInstaller main loop.
-"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id"
-CCProfileMonitor::freeResources done
-WARNING: Type1 font data isn't in the correct format required by the Adobe Type 1 Font Format specification.
-Can not get assembly information for node card
-"ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41060, Connection timed out"
-hibernate_page_list_setall found pageCount 488653
-2017-07-08 06:26:32.365 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] About to run checks for any other apps.
-floating pt ex mode 1 enable......0
-size of scratchpad portion of L3.........0 (0M)
-minus normalized number..................0
-<IMMacNotificationCenterManager: 0x7fdcc9d16380>:    NC Disabled: NO
-"rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015"
-"ARPT: 683604.474196: IOPMPowerSource Information: onSleep,  SleepType: Standby,  'ExternalConnected': No, 'TimeRemaining': 578,"
-"insertHiHealthData() size = 20,app = 1,One Data Type = 2,packageName = com.huawei.health,writeStatType = 0"
-"10.11.10.1 ""POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1"" status: 200 len: 380 time: 0.0901439"
-2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification
-SQM: Cleaning up report files older than 10 days.
-[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Instance destroyed successfully.
-03:31:43.005 : BTLE scanning stopped
-ARPT: 783795.288172: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
-"ARPT: 783991.995027: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10"
-tcp_connection_handle_connect_conditions_bad 26042 failed: 3 - No network route
-"2017-07-02 10:40:07.676 GoogleSoftwareUpdateAgent[32012/0x7000002a0000] [lvl=2] -[KSAgentApp updateProductWithProductID:usingEngine:] Checking for updates for ""com.google.Keystone"" using engine <KSUpdateEngine:0x100313e70 ticketStore=<KSPersistentTicketStore:0x100332a60 store=<KSKeyedPersistentStore:0x100315fa0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"" lockFile=<KSLockFile:0x1003176d0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"" locked=NO > >> processor=<KSActionProcessor:0x1003143e0 delegate=<KSUpdateEngine:0x100313e70> isProcessing=NO actionsCompleted=0 progress=0.00 errors=0 currentActionErrors=0 events=0 currentActionEvents=0 actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:0x100311a10 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers""> errors=0 >"
-host connection <NSXPCConnection: 0x7fddbbb015c0> connection from pid 30298 invalidated
-"ChromeExistion main strSendMsg = {""websitekey"":false,""commandkey"":true,""browserkey"":true}"
-setBasicStandardSteps basicStandardStep=3786 restartSteps=0
-Fan speeds ( 3534 3534 3375 **** 3497 3479 )
-[21:22:43.147] mv_LowLevelCheckIfVideoPlayableUsingDecoder signalled err=-12956 (kFigMediaValidatorError_VideoCodecNotSupported) (video codec 1) at  line 1921
-Targeting domains:node-D2 and nodes:node-[64-95] child of command 3488
-ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error
-<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>:   DND Enabled: YES
-[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)
-send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.
--deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.
-Failed to connect (titleField) outlet from (MMSessionPickerChoosenRowView) to (NSTextField): missing setter or instance variable
+network changed: v4(en0!:10.105.162.105) DNS+ Proxy+ SMB
+3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected
+"[Accounts] Failed to update account with identifier 76FE6715-3D27-4F21-AA35-C88C1EA820E8, error: Error Domain=ABAddressBookErrorDomain Code=1002 ""(null)"""
+"device_generate_desktop_screenshot: authw 0x7fa82407ea00(2000), shield 0x7fa82435f400(2001)"
+"screen status unknown,think screen on"
 AirPort: Link Down on awdl0. Reason 1 (Unspecified).
 (ImportBailout.Error:1331) Asked to exit for Diskarb
-ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor
-"ARPT: 784055.560270: IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': No, 'TimeRemaining': 5600,"
-"NETWORK: requery, 0, 0, 0, 0, 328, items, fQueryRetries, 0, fLastRetryTimestamp, 521177334.4"
-tcp_connection_destination_perform_socket_connect 45238 connectx to 123.125.50.30:993@0 failed: [50] Network is down
-[11:48:06.869] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92
-QQ(10018) deny mach-lookup com.apple.networking.captivenetworksupport
-Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
-Starting the TrustedInstaller main loop.
-after trim url = https://www.google.com/_/chrome/newtab?rlz=1C5CHFA_enHK732HK732&espv=2&ie=UTF-8
-"2017-07-04 09:42:57.924 GoogleSoftwareUpdateAgent[34603/0x700000323000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/GoogleSoftwareUpdateDaemon' with the requirement 'anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists and certificate leaf[subject.OU]=""EQHXZ8M8AV"" and (identifier=""com.google.Keystone"")'"
 INIT -- Host controller is published
 critical input interrupt (unit=0x0b bit=0x06): warning for torus y+ wire
 floating point instr. enabled.....1
-"getAppContext() isAppValid health or wear, packageName = com.huawei.health"
-suppressing further interrupts of same type
-"critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type"
-Lustre mount FAILED : bglio388 : point /p/gb1
-"NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)"
-fraction rounded.........................0
-kern_open_file_for_direct_io took 6 ms
-The instance sync for host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us' did not match. Re-created its InstanceList.
-RTC: PowerByCalendarDate setting ignored
+inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>
+[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.
 NIFF: node node-73 has detected an available network connection on network 0.0.0.0 via interface alt0
-"2017-07-01 19:46:26.133 GoogleSoftwareUpdateAgent[31702/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] Checking with local engine: <KSUpdateEngine:0x100259c60 ticketStore=<KSPersistentTicketStore:0x100253770 store=<KSKeyedPersistentStore:0x100254d10 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"" lockFile=<KSLockFile:0x100254d80 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"" locked=NO > >> processor=<KSActionProcessor:0x100259e70 delegate=<KSUpdateEngine:0x100259c60> isProcessing=NO actionsCompleted=0 progress=0.00 errors=0 currentActionErrors=0 events=0 currentActionEvents=0 actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:0x1002594d0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers""> errors=0 >"
-IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 12 unplug = 0
-dnssd_clientstub ConnectToServer: connect()-> No of tries: 3
-Starting TrustedInstaller initialization.
-Unrecognized attribute value: t:AbchPersonItemType
-Failed to stop a scan - central is not powered on: 4
-00000003@2016/9/28:16:00:46.213 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed875eb5d @0x7fef9d98728 @0x7fef9d98856 @0xffeee474 @0xffeed7de @0xffeedb2f)
-"Loading offline registry hive: schema.dat, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\system32\smi\store\Machine\schema.dat'."
- getTodayBasicStandardSteps= 1514044800223##3786##0
-"hibernate_teardown: wired_pages 544767, free_pages 3578340, active_pages 40000, inactive_pages 0, speculative_pages 0, cleaned_pages 0, compressor_pages 112"
-insertHiHealthData() end totalTime = 94
--[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) UASuggestedActionType=0 (null)/(null) opts=(null) when=2017-07-08 14:29:50 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319)
-2017-07-07 10:54:41.875 GoogleSoftwareUpdateAgent[37924/0x7000002a0000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {( <KSTicket:0x100365950 productID=com.google.Chrome version=59.0.3071.115 xc=<KSPathExistenceChecker:0x10036e950 path=/Applications/Google Chrome.app> serverType=Omaha url=https://tools.google.com/service/update2 creationDate=2017-02-18 15:41:18 tagPath=/Applications/Google Chrome.app/Contents/Info.plist tagKey=KSChannelID brandPath=/Users/xpc/Library/Google/Google Chrome Brand.plist brandKey=KSBrandID versionPath=/Applications/Google Chrome.app/Contents/Info.plist versionKey=KSVersion cohort=1:1y5: cohortName=Stable ticketVersion=1 > )} Using server: <KSOmahaServer:0x100243f20 engine=<KSUpdateEngine:0x1007161b0> >
-hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096
+Targeting domains:node-D2 and nodes:node-84
+hibernate_rebuild completed - took 10042450943433 msecs
+"NonStart: Success, startup processing not required as expected."
+debug wait enable.................0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
 mod_jk child workerEnv in error state 6
-program interrupt: unimplemented operation..0
-**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- Connected to the transport successfully -- 0x5fd0 -- 0x9a00 -- 0x6800 ****
-"bulkSaveDetailHiHealthData() size = 20,totalTime = 34"
+mod_jk child workerEnv in error state 7
+2017-07-03 20:25:13.378 GoogleSoftwareUpdateAgent[33847/0x7000002a0000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {( <KSTicket:0x10053b310 productID=com.google.Keystone version=1.2.8.57 xc=<KSPathExistenceChecker:0x10053ac30 path=/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle> url=https://tools.google.com/service/update2 creationDate=2017-02-18 15:41:17 ticketVersion=1 > )} Using server: <KSOmahaServer:0x100248090 engine=<KSUpdateEngine:0x1007249c0> >
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
 mod_jk child workerEnv in error state 6
 workerEnv.init() ok /etc/httpd/conf/workers2.properties
 mod_jk child workerEnv in error state 6
-Reboot mark refs incremented to: 1
-boot (command 2092) Error: HALT asserted\  cannot continue
-[com.apple.calendar.store.log.caldav.queue] [Account xpc_ben@163.com@https://caldav.163.com/caldav/principals/users/xpc_ben%40163.com/ timed out when executing operation: <CalDAVAccountRefreshQueueableOperation: 0x7fa11f9f2290; Sequence: 0>]
+"[Accounts] Current connection, <NSXPCConnection: 0x7fda72614240> connection from pid 30318, doesn't have account access."
+ARPT: 698501.213099: ARPT: Wake Reason: Wake on TCP Timeout
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+WARNING: Type1 font data isn't in the correct format required by the Adobe Type 1 Font Format specification.
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+hibernate_page_list_setall found pageCount 488653
+2017-07-08 06:26:32.365 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] About to run checks for any other apps.
+floating pt ex mode 1 enable......0
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 7
+"ARPT: 683604.474196: IOPMPowerSource Information: onSleep,  SleepType: Standby,  'ExternalConnected': No, 'TimeRemaining': 578,"
+"insertHiHealthData() size = 20,app = 1,One Data Type = 2,packageName = com.huawei.health,writeStatType = 0"
+"10.11.10.1 ""POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1"" status: 200 len: 380 time: 0.0901439"
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 7
+mod_jk child workerEnv in error state 6
+ARPT: 783795.288172: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+"2017-07-02 10:40:07.676 GoogleSoftwareUpdateAgent[32012/0x7000002a0000] [lvl=2] -[KSAgentApp updateProductWithProductID:usingEngine:] Checking for updates for ""com.google.Keystone"" using engine <KSUpdateEngine:0x100313e70 ticketStore=<KSPersistentTicketStore:0x100332a60 store=<KSKeyedPersistentStore:0x100315fa0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"" lockFile=<KSLockFile:0x1003176d0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"" locked=NO > >> processor=<KSActionProcessor:0x1003143e0 delegate=<KSUpdateEngine:0x100313e70> isProcessing=NO actionsCompleted=0 progress=0.00 errors=0 currentActionErrors=0 events=0 currentActionEvents=0 actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:0x100311a10 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers""> errors=0 >"
+host connection <NSXPCConnection: 0x7fddbbb015c0> connection from pid 30298 invalidated
+jk2_init() Found child 32448 in scoreboard slot 8
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 7
+jk2_init() Found child 32449 in scoreboard slot 9
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 32450 in scoreboard slot 10
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 32452 in scoreboard slot 7
+jk2_init() Found child 32451 in scoreboard slot 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 7
+jk2_init() Found child 32454 in scoreboard slot 7
+jk2_init() Found child 32453 in scoreboard slot 8
+jk2_init() Found child 32455 in scoreboard slot 9
+jk2_init() Found child 32467 in scoreboard slot 9
+jk2_init() Found child 32464 in scoreboard slot 8
+jk2_init() Found child 32465 in scoreboard slot 7
+jk2_init() Found child 32466 in scoreboard slot 11
+jk2_init() Found child 32457 in scoreboard slot 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 7
+mod_jk child workerEnv in error state 8
+jk2_init() Found child 32475 in scoreboard slot 8
+jk2_init() Found child 32478 in scoreboard slot 11
+jk2_init() Found child 32477 in scoreboard slot 10
+jk2_init() Found child 32479 in scoreboard slot 6
+jk2_init() Found child 32480 in scoreboard slot 8
+jk2_init() Found child 32476 in scoreboard slot 7
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
 workerEnv.init() ok /etc/httpd/conf/workers2.properties
 workerEnv.init() ok /etc/httpd/conf/workers2.properties
 workerEnv.init() ok /etc/httpd/conf/workers2.properties
 mod_jk child workerEnv in error state 6
 mod_jk child workerEnv in error state 6
 mod_jk child workerEnv in error state 6
-could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0
-Saw change in network reachability (isReachable=0)
-workerEnv.init() ok /etc/httpd/conf/workers2.properties
-workerEnv.init() ok /etc/httpd/conf/workers2.properties
-mod_jk child workerEnv in error state 6
-mod_jk child workerEnv in error state 6
-<IMMacNotificationCenterManager: 0x7fdcc9d16380>: notification observer: com.apple.FaceTime   notification: __CFNotification 0x7fdcc9d19110 {name = _NSDoNotDisturbEnabledNotification}
-[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object
-workerEnv.init() ok /etc/httpd/conf/workers2.properties
-"[CardDAVPlugin-ERROR] -getPrincipalInfo:[_controller supportsRequestCompressionAtURL:https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/] Error Domain=NSURLErrorDomain Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=0x7f8de0c0dc70 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSErrorFailingURLStringKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, NSErrorFailingURLKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, NSErrorFailingURLKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=The Internet connection appears to be offline.}"
-workerEnv.init() ok /etc/httpd/conf/workers2.properties
-"ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1501./hpl_DD: invalid or missing program image, No such file or directory"
-mod_jk child workerEnv in error state 6
-mod_jk child workerEnv in error state 6
-workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 7
+mod_jk child workerEnv in error state 8
+jk2_init() Found child 32483 in scoreboard slot 7
 workerEnv.init() ok /etc/httpd/conf/workers2.properties
 mod_jk child workerEnv in error state 6
+jk2_init() Found child 32507 in scoreboard slot 9
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
 mod_jk child workerEnv in error state 6
-"Kernel detected 3486044 integer alignment exceptions (3486037) iar 0x00544ea8, dear 0x01ef7c60 (3486038) iar 0x00544eb8, dear 0x01ef7c80 (3486039) iar 0x00544ea8, dear 0x01ef7ca0 (3486040) iar 0x00544eb8, dear 0x01ef7cc0 (3486041) iar 0x00544ee0, dear 0x01ef7ce0 (3486042) iar 0x00544ef0, dear 0x01ef7d00 (3486043) iar 0x00544ee0, dear 0x01ef7d20 (3486044) iar 0x00544ef0, dear 0x01ef7d40"
-Checking iCDP status for DSID 874161398 (checkWithServer=0)
-uploadStaticsToDB() onResult  type = 4 obj=true
+jk2_init() Found child 32529 in scoreboard slot 6
+jk2_init() Found child 32528 in scoreboard slot 10
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 32548 in scoreboard slot 9
+jk2_init() Found child 32546 in scoreboard slot 8
+jk2_init() Found child 32547 in scoreboard slot 7
 workerEnv.init() ok /etc/httpd/conf/workers2.properties
 workerEnv.init() ok /etc/httpd/conf/workers2.properties
 workerEnv.init() ok /etc/httpd/conf/workers2.properties
 mod_jk child workerEnv in error state 6
 mod_jk child workerEnv in error state 6
-program interrupt: privileged instruction...0
-"ARPT: 775899.188954: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2863091569, Ack 159598625, Win size 278"
-onReceive action: android.intent.action.SCREEN_ON
-00:03:06.178 : Started generating hashes
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 32549 in scoreboard slot 10
+jk2_init() Found child 32550 in scoreboard slot 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 32551 in scoreboard slot 8
+jk2_init() Found child 32552 in scoreboard slot 7
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 32554 in scoreboard slot 10
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+jk2_init() Found child 32553 in scoreboard slot 9
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 6
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 32556 in scoreboard slot 8
+jk2_init() Found child 32555 in scoreboard slot 6
+jk2_init() Found child 32557 in scoreboard slot 7
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 6
+jk2_init() Found child 32558 in scoreboard slot 9
+jk2_init() Found child 32560 in scoreboard slot 6
+jk2_init() Found child 32561 in scoreboard slot 8
+jk2_init() Found child 32563 in scoreboard slot 9
 jk2_init() Found child 32564 in scoreboard slot 10
 jk2_init() Found child 32565 in scoreboard slot 11
 jk2_init() Found child 32575 in scoreboard slot 6

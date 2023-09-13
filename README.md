@@ -40,6 +40,7 @@ $ pip install poetry
 ```bash
 $ git clone https://github.com/spetrescu/logchimera.git
 $ cd logchimera
+$ git checkout issre_23_code
 $ poetry install
 ```
 5. Check if installation was successfull
@@ -75,6 +76,7 @@ $ pip install poetry
 ```bash
 $ git clone https://github.com/spetrescu/logchimera.git
 $ cd logchimera
+$ git checkout issre_23_code
 $ poetry install
 ```
 5. Check if installation was successfull
@@ -89,26 +91,40 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ## Example usage ISSRE 23
 ### Use `logchimera` for mixing
+<img width="400" alt="table_vi" src="https://github.com/spetrescu/logchimera/assets/60047427/08079592-6cca-481f-be26-958a7969cc4f">
+
 ```bash
-# Apache example
+# Apache example. To obtain different levels of heterogeneity, vary the heterogeneity level (the second parameter) from 0 to 1. Example values: 0.22 (for Apache 5)
 $ python
 Python 3.9.16 (main, Mar  8 2023, 04:29:44)
 [Clang 14.0.6 ] :: Anaconda, Inc. on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> from logchimera.logchimera import increase_heterogeneity_for_file
->>> increase_heterogeneity_for_file("experiments/Apache/Apache_2k.log_structured.csv", 0.58, "Apache")
-Heterogeneity is: 0.7463220973782771 for dataset datasets_mixing/15_Apache.csv
+>>> increase_heterogeneity_for_file("experiments/Apache/Apache_2k.log_structured.csv", 0.22, "Apache")
+Heterogeneity is: 0.5304069912609239 for dataset datasets_mixing/5_Apache.csv # corresponds to the second row in table vi (0.530, Apache 5)
+>>> increase_heterogeneity_for_file("experiments/Apache/Apache_2k.log_structured.csv", 0.40, "Apache")
+Heterogeneity is: 0.6399750312109863 for dataset datasets_mixing/10_Apache.csv # corresponds to the third row in table vi (0.640, Apache 10)
+>>> increase_heterogeneity_for_file("experiments/Apache/Apache_2k.log_structured.csv", 0.57, "Apache")
+Heterogeneity is: 0.7366891385767791 for dataset datasets_mixing/15_Apache.csv # corresponds to the fourth row in table vi (0.737, Apache 15)
+>>> increase_heterogeneity_for_file("experiments/Apache/Apache_2k.log_structured.csv", 0.95, "Apache")
+Heterogeneity is: 0.8861722846441948 for dataset datasets_mixing/25_Apache.csv # corresponds to 0.886, Apache 25
 ```
 
 ```bash
-# BGL example
+# BGL example. To obtain different levels of heterogeneity, vary the heterogeneity level (the second parameter) from 0 to 1. Example values: 0.69 (for BGL 15)
 $ python
 Python 3.9.16 (main, Mar  8 2023, 04:29:44)
 [Clang 14.0.6 ] :: Anaconda, Inc. on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> from logchimera.logchimera import increase_heterogeneity_for_file
+>>> increase_heterogeneity_for_file("experiments/BGL/BGL_2k.log_structured.csv", 0.25, "BGL")
+Heterogeneity is: 0.7564544319600499 for dataset datasets_mixing/5_BGL.csv # corresponds to 0.756, BGL 5
+>>> increase_heterogeneity_for_file("experiments/BGL/BGL_2k.log_structured.csv", 0.47, "BGL")
+Heterogeneity is: 0.8325243445692885 for dataset datasets_mixing/10_BGL.csv # corresponds to 0.833, BGL 10
 >>> increase_heterogeneity_for_file("experiments/BGL/BGL_2k.log_structured.csv", 0.69, "BGL")
-Heterogeneity is: 0.9082347066167291 for dataset datasets_mixing/15_BGL.csv
+Heterogeneity is: 0.9082347066167291 for dataset datasets_mixing/15_BGL.csv # corresponds to 0.908, BGL 15
+>>> increase_heterogeneity_for_file("experiments/BGL/BGL_2k.log_structured.csv", 0.93, "BGL")
+Heterogeneity is: 0.9489438202247192 for dataset datasets_mixing/20_BGL.csv # corresponds to 0.949, BGL 20
 ```
 
 ```bash
@@ -118,8 +134,8 @@ Python 3.9.16 (main, Mar  8 2023, 04:29:44)
 [Clang 14.0.6 ] :: Anaconda, Inc. on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> from logchimera.logchimera import increase_heterogeneity_for_file
->>> increase_heterogeneity_for_file("experiments/HPC/HPC_2k.log_structured.csv", 0.59, "HPC")
-Heterogeneity is: 0.7299176029962546 for dataset datasets_mixing/15_HPC.csv
+>>> increase_heterogeneity_for_file("experiments/HPC/HPC_2k.log_structured.csv", 0.60, "HPC")
+Heterogeneity is: 0.7347465667915107 for dataset datasets_mixing/15_HPC.csv # corresponds to 0.730, HPC 15
 ```
 
 ```bash
@@ -130,18 +146,35 @@ Python 3.9.16 (main, Mar  8 2023, 04:29:44)
 Type "help", "copyright", "credits" or "license" for more information.
 >>> from logchimera.logchimera import increase_heterogeneity_for_file
 >>> increase_heterogeneity_for_file("experiments/Mac/Mac_2k.log_structured.csv", 0.40, "Mac")
-Heterogeneity is: 0.9011235955056179 for dataset datasets_mixing/5_Mac.csv
+Heterogeneity is: 0.9011235955056179 for dataset datasets_mixing/5_Mac.csv # corresponds to 0.901, Mac 5
 ```
 ### Use `logchimera` for fuzzing
+<img width="1286" alt="table_vii" src="https://github.com/spetrescu/logchimera/assets/60047427/f682a95f-faa1-45ad-a7cd-48d45ed1fdf8">
+
 ```bash
 # Apache example
 $ python
 Python 3.9.16 (main, Mar  8 2023, 04:29:44)
 [Clang 14.0.6 ] :: Anaconda, Inc. on darwin
 Type "help", "copyright", "credits" or "license" for more information.
->>> from logchimera.logchimera import fuzz_data
+>>> from logchimera.logchimera import fuzz_data, increase_heterogeneity_for_file
+>>> increase_heterogeneity_for_file("experiments/Apache/Apache_2k.log_structured.csv", 0.95, "Apache")
+Heterogeneity is: 0.8861722846441948 for dataset datasets_mixing/25_Apache.csv # corresponds to 0.886, Apache 25
 >>> fuzz_data("datasets_mixing/25_Apache.csv", "Apache", 25)
 Heterogeneity is: 1.0 for dataset fuzzing/Apache_25_fuzzed.csv
+```
+
+```bash
+# HPC example
+$ python
+Python 3.9.16 (main, Mar  8 2023, 04:29:44)
+[Clang 14.0.6 ] :: Anaconda, Inc. on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from logchimera.logchimera import fuzz_data, increase_heterogeneity_for_file
+>>> increase_heterogeneity_for_file("experiments/HPC/HPC_2k.log_structured.csv", 0.99, "HPC")
+Heterogeneity is: 0.8810786516853932 for dataset datasets_mixing/25_HPC.csv # corresponds to 0.881, BGL HPC 25
+>>> fuzz_data("datasets_mixing/25_HPC.csv", "HPC", 25)
+Heterogeneity is: 0.9094831460674158 for dataset fuzzing/HPC_25_fuzzed.csv
 ```
 
 ```bash
@@ -150,7 +183,9 @@ $ python
 Python 3.9.16 (main, Mar  8 2023, 04:29:44)
 [Clang 14.0.6 ] :: Anaconda, Inc. on darwin
 Type "help", "copyright", "credits" or "license" for more information.
->>> from logchimera.logchimera import fuzz_data
+>>> from logchimera.logchimera import fuzz_data, increase_heterogeneity_for_file
+>>> increase_heterogeneity_for_file("experiments/BGL/BGL_2k.log_structured.csv", 0.93, "BGL")
+Heterogeneity is: 0.9489438202247192 for dataset datasets_mixing/20_BGL.csv # corresponds to 0.949, BGL 20
 >>> fuzz_data("datasets_mixing/20_BGL.csv", "BGL", 20)
 Heterogeneity is: 1.0 for dataset fuzzing/BGL_20_fuzzed.csv
 ```

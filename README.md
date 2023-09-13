@@ -88,7 +88,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 ## Example usage ISSRE 23
-Use `logchimera` for mixing
+### Use `logchimera` for mixing
 ```bash
 # Apache example
 $ python
@@ -132,6 +132,29 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> increase_heterogeneity_for_file("experiments/Mac/Mac_2k.log_structured.csv", 0.40, "Mac")
 Heterogeneity is: 0.9011235955056179 for dataset datasets_mixing/5_Mac.csv
 ```
+### Use `logchimera` for fuzzing
+```bash
+# Apache example
+$ python
+Python 3.9.16 (main, Mar  8 2023, 04:29:44)
+[Clang 14.0.6 ] :: Anaconda, Inc. on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from logchimera.logchimera import fuzz_data
+>>> fuzz_data("datasets_mixing/25_Apache.csv", "Apache", 25)
+Heterogeneity is: 1.0 for dataset fuzzing/Apache_25_fuzzed.csv
+```
+
+```bash
+# BGL example
+$ python
+Python 3.9.16 (main, Mar  8 2023, 04:29:44)
+[Clang 14.0.6 ] :: Anaconda, Inc. on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from logchimera.logchimera import fuzz_data
+>>> fuzz_data("datasets_mixing/20_BGL.csv", "Apache", 25)
+Heterogeneity is: 1.0 for dataset fuzzing/BGL_20_fuzzed_final.csv
+```
+
 
 ## Installation
 

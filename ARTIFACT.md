@@ -216,7 +216,7 @@ $ sh run_experiment_python3.sh -m MoLFI -d Apache
 
 ### Method 14 (Python 3 log parsing method, CUDA GPU access required)
 
-This experiment requires access to GPU, as the respective method (NuLog [ref]) involves neural network training. However, not having access to that does not pose a threat to validity, and it is only a small part of the experiments (one column in Table II and III). Our experiments were run on a dual socket AMD Epyc2 machine with 64 cores in total, with a dual Nvidia RTX 2080Ti graphics card setup. Experiments in this section have to be run directly from the source.
+This experiment requires access to GPU, as the respective method ([NuLog](https://arxiv.org/abs/2003.07905)) involves neural network training. However, not having access to that does not pose a threat to validity, and it is only a small part of the experiments (one column in Table II and III). Our experiments were run on a dual socket AMD Epyc2 machine with 64 cores in total, with a dual Nvidia RTX 2080Ti graphics card setup. Experiments in this section have to be run directly from the source.
 
 To get you started, please follow the steps displayed below (Step 1 through 5):
 **Step 1**: *Pull the docker image*

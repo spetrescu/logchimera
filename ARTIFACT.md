@@ -241,8 +241,29 @@ $ cd ~/log_parsing_evaluation/experiments/log_parsing_experiments/python3
 **Step 4**: *Setup environment*
 
 ```
-$ sh setup_python3.sh
-# the following requirements have to be installed in the environment
+$ pip install natsort scipy==1.3.1 numpy==1.17.4 torchvision==0.4.2 nltk==3.4.5 torch==1.3.1 pandas==0.25.3 Keras==2.3.1 deap==1.3.1 tqdm==4.39.0 recommonmark==0.6.0 scikit_learn==0.22.2.post1 protobuf==3.19.6
+```
+
+**Step 5**: *Run experiment (runs method 10 times)*
+
+```
+$ sh run_experiment_python3.sh -m NuLog -d Apache
+# (about 10m)
+# (Expect a result of 0.560 log template accuracy and 4.679 edit-distance)
+```
+If you are not unable to setup the experiment in Docker, follow the steps below (running the code from the source on your machine, outside of Docker, given that you have access to a CUDA GPU).
+```
+$ git clone https://github.com/spetrescu/gpu-experiment-issre-23.git
+$ cd gpu-experiment-issre-23/experiments/log_parsing_experiments/python3
+$ python3 -m venv nulog_venv # assuming you have Python 3 installed on your machine
+$ source nulog_venv/bin/activate
+$ sh setup_python3.sh # make sure all dependencies have been installed (see below)
+$ sh run_experiment_python3.sh -m NuLog -d Apache
+# (about 10m)
+# (Expect a result of 0.560 log template accuracy and 4.679 edit-distance)
+```
+Make sure all following dependecies are installed before running NuLog (you can check by using `pip list` in the virtual env)
+```
 # scipy==1.3.1
 # numpy==1.17.4
 # torchvision==0.4.2
@@ -255,15 +276,6 @@ $ sh setup_python3.sh
 # recommonmark==0.6.0
 # scikit_learn==0.22.2.post1
 ```
-
-**Step 5**: *Run experiment (runs method 10 times)*
-
-```
-$ sh run_experiment_python3.sh -m NuLog -d Apache
-# (about 10m)
-# (Expect a result of 0.560 log template accuracy and 4.679 edit-distance)
-```
-
 ## (4.2) Heterogeneity analysis (Figure 4, Table IV)
 
 We analyze a variety of datasets, and asses their heterogeneity by considering three metrics, namely *unique number of words*, *unique number of characters*, and *unique number of log lengths*.

@@ -262,7 +262,7 @@ $ sh run_experiment_python3.sh -m NuLog -d Apache
 # (about 10m)
 # (Expect a result of 0.560 log template accuracy and 4.679 edit-distance)
 ```
-Make sure all following dependecies are installed before running NuLog (you can check by using `pip list` in the virtual env)
+Make sure all following dependencies are installed before running NuLog (you can check by using `pip list` in the virtual env)
 ```
 # scipy==1.3.1
 # numpy==1.17.4

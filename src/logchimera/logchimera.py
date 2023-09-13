@@ -282,6 +282,7 @@ def increase_heterogeneity_for_file(path, HETEROGENEITY_LEVEL, DSET):
 
 pool_labeled_data_file = "fuzzing_experiments/pool_dataset/pool_labeled_data.csv"
 
+
 def fuzz_data(input_file, DSET, R_LEVEL):
     dataset_lines = []
     dataset_templates = []
@@ -326,7 +327,7 @@ def fuzz_data(input_file, DSET, R_LEVEL):
     
     dict = {'Content': fuzzed_dset_lines, 'EventTemplate': fuzzed_dset_templates, 'Variables': fuzzed_dset_variables}  
     df = pd.DataFrame(dict) 
-    df.to_csv(f'final_logs_experiments/fuzzing/{DSET}_{R_LEVEL}_fuzzed.csv', index=False) 
+    df.to_csv(f'fuzzing/{DSET}_{R_LEVEL}_fuzzed.csv', index=False) 
     
     variables_unique_file = "variables_unique.csv"
     file = open(variables_unique_file, 'r')
@@ -336,7 +337,7 @@ def fuzz_data(input_file, DSET, R_LEVEL):
         variables_unique_pool.append(var)
 
     random.seed(1)
-    variables_sample = random.sample(variables_unique_pool, 7000)
+    variables_sample = random.sample(variables_unique_pool, 6500)
     a = 0
     for line, temp, var in zip(fuzzed_dset_lines, fuzzed_dset_templates, fuzzed_dset_variables):
         list_var = []
@@ -386,11 +387,11 @@ def fuzz_data(input_file, DSET, R_LEVEL):
     last_rows=df.tail(tail_no)
     df = pd.concat([df, last_rows])
     
-    df.to_csv(f'final_logs_experiments/fuzzing/{DSET}_{R_LEVEL}_fuzzed.csv', index=False) 
+    df.to_csv(f'fuzzing/{DSET}_{R_LEVEL}_fuzzed.csv', index=False) 
     df = df["Content"]
-    df.to_csv(f'final_logs_experiments/fuzzing/{DSET}_{R_LEVEL}_fuzzed_log.csv', index=False, header=False) 
+    df.to_csv(f'fuzzing/{DSET}_{R_LEVEL}_fuzzed_log.csv', index=False, header=False) 
     
-    get_heterogeneity(f'final_logs_experiments/fuzzing/{DSET}_{R_LEVEL}_fuzzed.csv')
+    get_heterogeneity(f'fuzzing/{DSET}_{R_LEVEL}_fuzzed.csv')
     return 0
 
 

@@ -64,7 +64,7 @@ def estimate_heterogeneity(file_path, csv_file=False):
     
     return h_level
 
-def mixing(file_path, percentage, labels=True):
+def mixing(percentage, file_path, labels=False, dataset_name="Apache"):
     """
     Increase log heterogeneity through mixing.
 
@@ -77,7 +77,18 @@ def mixing(file_path, percentage, labels=True):
     Returns:
         float: The new heterogeneity level after mixing the logs.
     """
-    pass
+    print("Computing initial heterogeneity...")
+    estimate_heterogeneity(file_path)
+
+    perc = 0
+    if not labels:
+        print("No labels functionality not available")
+        return "No labels functionality not available"
+    else:
+        print("\nMixing...")
+        final_write_path_structured = mixing_labeled_data(percentage, file_path)
+
+    estimate_heterogeneity(final_write_path_structured)
 
 def fuzzing(file_path):
     """

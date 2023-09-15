@@ -1,13 +1,5 @@
-import csv
-
-from logchimera.statistics import (
-    compute_no_unique_words, 
-    compute_no_unique_chars,
-    compute_no_unique_log_lengths, 
-    compute_percentage_no_unique_words,
-    compute_percentage_no_unique_chars, 
-    compute_percentage_no_unique_log_lengths
-)
+from logchimera.heterogeneity import estimate_heterogeneity_csv_file, estimate_heterogeneity_generic_file
+from logchimera.mixing import mixing_labeled_data, mixing_unlabeled_data
 
 def _load_log_data(input_file):
     file = open(input_file, 'r')
@@ -27,31 +19,49 @@ def _load_log_data(input_file):
     return [log_lines, log_templates, log_variables]
 
 
-def estimate_heterogeneity(file_path):
+def estimate_heterogeneity(file_path, csv_file=False):
     """
-    Estimate heterogeneity for log file
-    The file (csv) has to contain the following three columns:
-    Content,EventTemplate,Variables
+    Estimate heterogeneity for a log file.
+
+    Parameters:
+    -----------
+    file_path : str
+        The path to the log file to be analyzed.
+
+    csv_file : bool, optional (default=False)
+        Specifies whether the input file is in CSV format or not. If set to True, the function expects
+        the log file to contain the following three columns: Content, EventTemplate, Variables. If set
+        to False, a generic log file format will be assumed, and the function will attempt to estimate
+        heterogeneity based on the file's content (each log on a new line).
+
+    Returns:
+    --------
+    h_level : float
+        The estimated level of heterogeneity in the log file, with higher values indicating greater
+        heterogeneity (from 0 to 1).
+
+    Notes:
+    ------
+    - Heterogeneity is estimated based on the log file's content and structure.
+    - When `csv_file` is set to True, the function assumes a specific CSV format with predefined columns (three columns named: Content, EventTemplate, Variables).
+    - When `csv_file` is set to False, the function attempts to estimate heterogeneity from the generic log
+      file format, with each log entry separated by a new line character.
+
+    Example Usage:
+    -------------
+    To estimate heterogeneity for a generic log file:
+    >>> h_level = estimate_heterogeneity("generic_log.txt")
+
+    To estimate heterogeneity for a CSV-formatted log file:
+    >>> h_level = estimate_heterogeneity("csv_log.csv", csv_file=True)
     """
-    print("Dataset:", file_path)
-    log_data = _load_log_data(input_file=file_path)
+    h_level = 0
+
+    if csv_file:
+        h_level = estimate_heterogeneity_csv_file(file_path)
+    else:
+        h_level = estimate_heterogeneity_generic_file(file_path)
     
-    log_lines = log_data[0]
-    log_templates = log_data[1]
-    log_variables = log_data[2]
-
-    no_unique_words = compute_no_unique_words(log_lines)
-    no_unique_chars = compute_no_unique_chars(log_lines)
-    no_unique_log_lengths = compute_no_unique_log_lengths(log_lines)
-
-    no_unique_words_percentage = compute_percentage_no_unique_words(no_unique_words)
-    no_unique_chars_percentage = compute_percentage_no_unique_chars(no_unique_chars)
-    no_unique_log_lengths_percentage = compute_percentage_no_unique_log_lengths(no_unique_log_lengths)
-
-    h_level = 0.4*no_unique_words_percentage + 0.2*no_unique_chars_percentage + 0.4*no_unique_log_lengths_percentage
-    print(f"Metrics: (1) no_unique_words = {no_unique_words}, (2) no_unique_chars = {no_unique_chars}, (3) no_unique_log_lengths = {no_unique_log_lengths}")
-    print("H level for", file_path.split("/")[-1], "is:", h_level, "rounded:", round(h_level, 3))
-
     return h_level
 
 def mixing(file_path, percentage, labels=True):

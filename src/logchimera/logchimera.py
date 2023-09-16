@@ -86,9 +86,9 @@ def mixing(percentage, file_path, labels=False, dataset_name="Apache"):
         return "No labels functionality not available"
     else:
         print("\nMixing...")
-        final_write_path_structured = mixing_labeled_data(percentage, file_path)
+        mixed_file_save_path = mixing_labeled_data(percentage, file_path)
 
-    estimate_heterogeneity(final_write_path_structured)
+    estimate_heterogeneity(mixed_file_save_path)
 
 def fuzzing(file_path):
     """

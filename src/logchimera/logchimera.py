@@ -1,3 +1,5 @@
+import csv
+
 from logchimera.heterogeneity import estimate_heterogeneity_csv_file, estimate_heterogeneity_generic_file
 from logchimera.mixing import mixing_labeled_data, mixing_unlabeled_data
 

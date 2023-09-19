@@ -34,7 +34,7 @@ def estimate_heterogeneity_csv_file(file_path):
     print(f"Metrics: (1) no_unique_words = {no_unique_words}, (2) no_unique_chars = {no_unique_chars}, (3) no_unique_log_lengths = {no_unique_log_lengths}")
     print("H level is", round(h_level, 3), "for", file_path)
 
-    return h_level
+    return round(h_level, 3)
 
 def estimate_heterogeneity_generic_file(file_path):
     """
@@ -60,7 +60,7 @@ def estimate_heterogeneity_generic_file(file_path):
     print(f"Metrics: (1) no_unique_words = {no_unique_words}, (2) no_unique_chars = {no_unique_chars}, (3) no_unique_log_lengths = {no_unique_log_lengths}")
     print("H level is", round(h_level, 3), "for", file_path)
 
-    return h_level
+    return round(h_level, 3)
 
 def _load_log_data(input_file):
     file = open(input_file, 'r')

@@ -46,3 +46,17 @@ def get_publicly_available_labeled_dataset(dataset_name):
     with resources.path("logchimera.data", f"{dataset_name}_2k_labeled.csv") as f:
         data_file_path = f
     return data_file_path
+
+def get_example_data_for_estimating_heterogeneity():
+    """Get path to an example dataset for estimaing heterogeneity using logchimera.
+    This dataset contains ~2k Apache logs
+    
+    Returns
+    -------
+    pathlib.PosixPath
+        Path to file.
+
+    """
+    with resources.path("logchimera.data", "example_Apache_logs_for_estimating_heterogeneity.csv") as f:
+        data_file_path = f
+    return data_file_path 

@@ -17,7 +17,34 @@
   </p>
 </div>
 
-## Development MacOS
+## Usage
+We display below how you can use `logchimera`. To access `logchimera`'s functionalities, make sure you first follow the set-up section corresponding to your system (either Linux or Mac).
+### Estimate heterogeneity
+```python
+# example estimating heterogeneity in python shell
+$ python
+Python 3.9.17 (main, Jul  5 2023, 20:41:20) 
+[GCC 11.2.0] :: Anaconda, Inc. on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from logchimera.logchimera import estimate_heterogeneity
+>>> from logchimera.datasets import get_example_data_for_estimating_heterogeneity
+>>> example_file_path = get_example_data_for_estimating_heterogeneity()
+>>> estimate_heterogeneity(example_file_path)
+# Returns a 3-decimal floating-point value in the range [0, 1], e.g., 0.222; higher means more heterogeneous.
+...
+```
+
+```python
+# example estimating heterogeneity in python script
+from logchimera.logchimera import estimate_heterogeneity
+from logchimera.datasets import get_example_data_for_estimating_heterogeneity
+example_file_path = get_example_data_for_estimating_heterogeneity()
+h_level = estimate_heterogeneity(example_file_path) # Returns a 3-decimal floating-point value in the range [0, 1], e.g., 0.222; higher means more heterogeneous.
+print(h_level)
+...
+```
+
+## Set-up MacOS
 1. Install `miniconda`
 ```bash
 $ mkdir -p ~/miniconda3
@@ -52,7 +79,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
-## Development Linux
+## Set-up Linux
 1. Install `miniconda`
 ```bash
 $ mkdir -p ~/miniconda3
@@ -91,15 +118,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ```bash
 $ pip install logchimera
-```
-
-## Usage
-
-```python
-from logchimera.logchimera import estimate_heterogeneity
-h_level = estimate_heterogeneity("Apache.csv") 
-# Returns a 3-decimal floating-point value in the range [0, 1], e.g., 0.959
-...
 ```
 
 ## Artifact: Reproduce Experiments from Original Paper

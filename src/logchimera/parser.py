@@ -1,5 +1,8 @@
-import sys
-import os
+"""
+Description : This file contains the Drain algorithm for log parsing authored by the LogPAI team
+              We use Drain for discovering the variables in data for conducting the fuzzing operation
+"""
+
 
 def parsing_logs(setting, indir, output_dir, log_file):
     parser = LogParser(
@@ -12,11 +15,6 @@ def parsing_logs(setting, indir, output_dir, log_file):
     )
     return parser.parse(log_file)
 
-"""
-Description : This file implements the Drain algorithm for log parsing
-Author      : LogPAI team
-License     : MIT
-"""
 
 import re
 import os

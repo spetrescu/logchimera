@@ -1,4 +1,5 @@
 import csv
+import random
 
 from logchimera.statistics import (
     compute_no_unique_words, 
@@ -61,6 +62,23 @@ def estimate_heterogeneity_generic_file(file_path):
     print("H level is", round(h_level, 3), "for", file_path)
 
     return round(h_level, 3)
+
+def _sample_2k_logs(log_data):
+    """
+    Randomly samples 2000 logs from the given log_data.
+
+    This function currently uses a fixed random seed for reproducibility to ensure that
+    the same set of logs is sampled each time it's called.
+
+    Args:
+        log_data (list): A list of log entries to sample from.
+
+    Returns:
+        list: A list containing 2000 randomly selected log entries from log_data.
+    """
+    random.seed(0)
+    sample_log_data_2k_logs = random.sample(log_data, 2000)
+    return sample_log_data_2k_logs
 
 def _load_log_data(input_file):
     file = open(input_file, 'r')

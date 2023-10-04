@@ -60,3 +60,17 @@ def get_example_data_for_estimating_heterogeneity():
     with resources.path("logchimera.data", "example_Apache_logs_for_estimating_heterogeneity.csv") as f:
         data_file_path = f
     return data_file_path 
+
+def get_example_data_for_fuzzing():
+    """Get path to an example dataset for fuzzing using logchimera.
+    This dataset contains 2k Apache logs
+    
+    Returns
+    -------
+    pathlib.PosixPath
+        Path to file.
+
+    """
+    with resources.path("logchimera.data", "example_Apache_logs_for_fuzzing.csv") as f:
+        data_file_path = f
+    return data_file_path 

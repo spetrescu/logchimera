@@ -105,7 +105,8 @@ def fuzzing(file_path):
     Returns:
         float: The new heterogeneity level after fuzzing the file.
     """
-    pass
+    fuzzed_file_path = fuzz_data(file_path)
+    return fuzzed_file_path
 
 def function_test(test_string):
     '''

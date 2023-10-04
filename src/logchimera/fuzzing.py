@@ -1,3 +1,5 @@
+from logchimera.parser import parse_log_lines
+
 def fuzz_data(file_path):
     """
     Increase log heterogeneity through fuzzing.
@@ -10,4 +12,7 @@ def fuzz_data(file_path):
     Returns:
         str: The new fuzzed file.
     """
-    pass
+    df_parsed_logs = parse_log_lines(file_path)
+    # do fuzzing based on extracted templates and variables
+
+    return file_path

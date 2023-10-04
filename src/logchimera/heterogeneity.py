@@ -40,18 +40,15 @@ def estimate_heterogeneity_csv_file(file_path):
 def estimate_heterogeneity_generic_file(file_path):
     """
     Estimate heterogeneity for generaic log file
-    The file should contain 2k log lines
+    The estimate is given for a 2k random sample taken from the dataset
     """
     print("Dataset:", file_path)
-    log_data = _load_log_data(input_file=file_path)
-    
-    log_lines = log_data[0]
-    log_templates = log_data[1]
-    log_variables = log_data[2]
+    log_data = _load_log_data_generic_file(input_file=file_path)
+    log_data_sample_2k = _sample_2k_logs(log_data)
 
-    no_unique_words = compute_no_unique_words(log_lines)
-    no_unique_chars = compute_no_unique_chars(log_lines)
-    no_unique_log_lengths = compute_no_unique_log_lengths(log_lines)
+    no_unique_words = compute_no_unique_words(log_data_sample_2k)
+    no_unique_chars = compute_no_unique_chars(log_data_sample_2k)
+    no_unique_log_lengths = compute_no_unique_log_lengths(log_data_sample_2k)
 
     no_unique_words_percentage = compute_percentage_no_unique_words(no_unique_words)
     no_unique_chars_percentage = compute_percentage_no_unique_chars(no_unique_chars)
@@ -97,3 +94,29 @@ def _load_log_data(input_file):
         log_variables.append(variable)
     
     return [log_lines, log_templates, log_variables]
+
+def _load_log_data_generic_file(input_file):
+    """
+    Load log data from a generic text file and return it as a list of log lines.
+
+    This function opens the specified input_file in read mode, reads its content line
+    by line, and stores each line as a log entry in the returned list. Each log entry
+    is stripped of leading and trailing whitespace.
+
+    Args:
+        input_file (str): The path to the input file containing log data.
+
+    Returns:
+        list: A list of log entries, where each entry is a string.
+
+    Note:
+        - The function assumes that each line in the input file represents a separate
+          log entry.
+    """
+    file = open(input_file, 'r')
+    log_lines = []
+
+    with open(input_file) as f:
+        for line in f:
+            log_lines.append(line.strip())
+    return log_lines

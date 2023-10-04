@@ -2,6 +2,7 @@ import csv
 
 from logchimera.heterogeneity import estimate_heterogeneity_csv_file, estimate_heterogeneity_generic_file
 from logchimera.mixing import mixing_labeled_data, mixing_unlabeled_data
+from logchimera.fuzzing import fuzz_data
 
 def _load_log_data(input_file):
     file = open(input_file, 'r')

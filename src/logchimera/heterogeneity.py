@@ -10,6 +10,8 @@ from logchimera.statistics import (
     compute_percentage_no_unique_log_lengths
 )
 
+from logchimera.utils import MAX_NO_LOGS_FOR_HETEROGENEITY_ANALYSIS
+
 from logchimera.parser import parse_log_lines
 
 def estimate_heterogeneity_csv_file(file_path):

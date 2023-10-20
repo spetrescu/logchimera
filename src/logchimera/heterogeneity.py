@@ -10,6 +10,8 @@ from logchimera.statistics import (
     compute_percentage_no_unique_log_lengths
 )
 
+from logchimera.parser import parse_log_lines
+
 def estimate_heterogeneity_csv_file(file_path):
     """
     Estimate heterogeneity for csv log file
@@ -94,6 +96,26 @@ def _load_log_data(input_file):
         log_variables.append(variable)
     
     return [log_lines, log_templates, log_variables]
+
+def _parse_logs_for_estimating_heterogeneity(file_path):
+    """
+    Parse log data from a file and extract specific columns for estimating heterogeneity.
+
+    This function reads log data from the specified file, selects the "Content" and "EventTemplate"
+    columns, and converts them into a list of lists. The resulting list is suitable for further
+    analysis to estimate heterogeneity within the log data.
+
+    Parameters:
+    file_path (str): The path to the log file to be parsed.
+
+    Returns:
+    list: A list of lists containing the values from the "Content" and "EventTemplate" columns.
+    """
+    df_parsed_logs = parse_log_lines(file_path)
+    df_parsed_logs = df_parsed_logs[["Content", "EventTemplate"]]
+
+    data_list = df_parsed_logs.values.tolist()
+    return data_list
 
 def estimate_heterogeneity_generic_file_using_log_parsing(file_path):
     """

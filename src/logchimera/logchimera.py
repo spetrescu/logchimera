@@ -4,24 +4,6 @@ from logchimera.heterogeneity import estimate_heterogeneity_csv_file, estimate_h
 from logchimera.mixing import mixing_labeled_data, mixing_unlabeled_data
 from logchimera.fuzzing import fuzz_data
 
-def _load_log_data(input_file):
-    file = open(input_file, 'r')
-    log_lines = []
-    log_templates = []
-    log_variables = []
-
-    line = ""
-    with open(input_file, newline='') as f:
-        reader = csv.reader(f)
-        line = next(reader)
-
-    for line, template, variable in csv.reader(file, delimiter=','):
-        log_lines.append(line)
-        log_templates.append(template)
-        log_variables.append(variable)
-    return [log_lines, log_templates, log_variables]
-
-
 def estimate_heterogeneity(file_path, csv_file=False):
     """
     Estimate heterogeneity for a log file.

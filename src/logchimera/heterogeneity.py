@@ -1,5 +1,6 @@
 import csv
 import random
+from collections import Counter
 
 from logchimera.statistics import (
     compute_no_unique_words, 
@@ -13,6 +14,20 @@ from logchimera.statistics import (
 from logchimera.utils import MAX_NO_LOGS_FOR_HETEROGENEITY_ANALYSIS
 
 from logchimera.parser import parse_log_lines
+
+def _estimate_heterogeneity_for_list_of_logs(list_of_logs):
+    log_lines = list_of_logs
+    no_unique_words = compute_no_unique_words(log_lines)
+    no_unique_chars = compute_no_unique_chars(log_lines)
+    no_unique_log_lengths = compute_no_unique_log_lengths(log_lines)
+
+    no_unique_words_percentage = compute_percentage_no_unique_words(no_unique_words)
+    no_unique_chars_percentage = compute_percentage_no_unique_chars(no_unique_chars)
+    no_unique_log_lengths_percentage = compute_percentage_no_unique_log_lengths(no_unique_log_lengths)
+
+    h_level = 0.4*no_unique_words_percentage + 0.2*no_unique_chars_percentage + 0.4*no_unique_log_lengths_percentage
+    print(f"Metrics: (1) no_unique_words = {no_unique_words}, (2) no_unique_chars = {no_unique_chars}, (3) no_unique_log_lengths = {no_unique_log_lengths}")
+    return round(h_level, 3)
 
 def estimate_heterogeneity_csv_file(file_path):
     """
@@ -78,7 +93,7 @@ def _sample_2k_logs(log_data):
         list: A list containing 2000 randomly selected log entries from log_data.
     """
     random.seed(0)
-    sample_log_data_2k_logs = random.sample(log_data, 2000)
+    sample_log_data_2k_logs = random.sample(log_data, MAX_NO_LOGS_FOR_HETEROGENEITY_ANALYSIS)
     return sample_log_data_2k_logs
 
 def _load_log_data(input_file):
@@ -130,8 +145,13 @@ def estimate_heterogeneity_generic_file_using_log_parsing(file_path):
     # sample 2k using statistics from log parsing
     sample_log_data = _sample_2k_logs_using_parsing(list_of_parsed_logs)
 
-    # compute heterogneity using sample data
-    # tbd
+    logs, templates = [item[0] for item in sample_log_data], [item[1] for item in sample_log_data]
+    
+    h_level = _estimate_heterogeneity_for_list_of_logs(logs)
+
+    print("H level is", h_level, "for", file_path)
+    
+    return h_level
 
 def _unique_number_of_elements_in_list(list_of_values):
     return list(set(list_of_values))
@@ -163,9 +183,40 @@ def _sample_2k_logs_using_parsing(log_data):
         result = list(unique_data.values())[:k]
         return result
     else:
-        return log_data[:MAX_NO_LOGS_FOR_HETEROGENEITY_ANALYSIS]
-        # do fancy statistics
-        # tbd
+        # Count the occurrences of each template
+        template_counts = Counter(template for _, template in log_data)
+
+        # Calculate the total number of log entries
+        total_logs = len(log_data)
+
+        # Append the percentage to each tuple in the list
+        result = []
+        for log_message, template in log_data:
+            percentage = (template_counts[template] / total_logs) * 100
+            result.append([log_message, template, percentage])
+
+        log_data = result
+
+        # Calculate the number of samples to take for each template
+        samples_per_template = {}
+        total_samples = MAX_NO_LOGS_FOR_HETEROGENEITY_ANALYSIS
+        for _, _, percentage in log_data:
+            samples = int(total_samples * (percentage / 100))
+            samples_per_template[_] = samples
+
+        result = []
+        for log_template in unique_log_templates:
+
+            no_samples_per_current_log_template = samples_per_template[log_template]
+
+            for message, template, _ in log_data:
+                if no_samples_per_current_log_template == 0:
+                    break
+                if log_template == template:
+                    result.append([message, template])
+                    no_samples_per_current_log_template -= 1
+
+        return result
     
 
 def _load_log_data_generic_file(input_file):

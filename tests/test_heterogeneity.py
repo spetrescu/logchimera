@@ -6,6 +6,6 @@ def test_load_log_data():
     log_templates = ["Header2","abc"]
     log_variables = ["Header3","[]"]
     expected = [log_lines, log_templates, log_variables]
-    actual = _load_log_data(input_file="tests/test_file_logchimera_heterogeneity_load_log_data.csv")
+    actual = _load_log_data(input_file="tests/test_data/test_file_logchimera_heterogeneity_load_log_data.csv")
     print(actual)
     assert actual == expected, "Loading data does not work properly!"

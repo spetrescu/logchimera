@@ -90,6 +90,11 @@ def fuzzing(file_path):
     fuzzed_file_path = fuzz_data(file_path)
     return fuzzed_file_path
 
+def create_industry_data_using_statistics():
+    '''
+    '''
+    pass
+
 def function_test(test_string):
     '''
     '''

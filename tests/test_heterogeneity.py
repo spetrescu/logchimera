@@ -1,4 +1,4 @@
-from logchimera.heterogeneity import _load_log_data, _parse_logs_for_estimating_heterogeneity, _sample_2k_logs_using_parsing
+from logchimera.heterogeneity import _load_log_data, _parse_logs_for_estimating_heterogeneity, _sample_2k_logs_using_parsing, estimate_heterogeneity_generic_file
 
 def test_load_log_data():
     """Test function."""
@@ -25,3 +25,9 @@ def test_sample_2k_logs_using_parsing():
     expected = log_data
     actual = _sample_2k_logs_using_parsing(log_data)
     assert actual == expected, "Sampling functionality for estimating heterogeneity using log parsing not working!"
+
+def test_estimate_heterogeneity_generic_file_sanity_check():
+    """Test function for estimate_heterogeneity_generic_file() sanity check"""
+    expected = 0.01
+    actual = estimate_heterogeneity_generic_file("tests/test_data/test_file_sanity_check_estimating_heterogeneity.csv")
+    assert actual == expected, "The output for estimating heterogeneity for generic file is failing!"

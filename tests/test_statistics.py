@@ -1,4 +1,4 @@
-from logchimera.statistics import compute_no_unique_words, compute_no_unique_chars
+from logchimera.statistics import compute_no_unique_words, compute_no_unique_chars, compute_no_unique_log_lengths
 
 def test_compute_no_unique_words():
     """Test function for computing unique number of words"""
@@ -13,3 +13,10 @@ def test_compute_no_unique_chars():
     expected = 10
     actual = compute_no_unique_chars(log_lines=log_lines)
     assert actual == expected, "Function for computing unique number of characters in statistics module is not working!"
+
+def test_compute_no_unique_log_lengths():
+    """Test function for computing unique number of log lengths"""
+    log_lines = ["Log line 1", "Log line 12", "Log line 123", "Log line 1234"] # there should be 4 unique log lengths
+    expected = 4
+    actual = compute_no_unique_log_lengths(log_lines=log_lines)
+    assert actual == expected, "Function for computing unique number of log lengths in statistics module is not working!"

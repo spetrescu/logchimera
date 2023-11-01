@@ -2,7 +2,8 @@ from logchimera.statistics import (
     compute_no_unique_words, 
     compute_no_unique_chars, 
     compute_no_unique_log_lengths, 
-    compute_percentage_no_unique_words
+    compute_percentage_no_unique_words,
+    compute_percentage_no_unique_chars
 )
 
 def test_compute_no_unique_words():
@@ -32,3 +33,10 @@ def test_compute_percentage_no_unique_words():
     expected = 0.01
     actual = compute_percentage_no_unique_words(no_unique_words=no_unique_words)
     assert actual == expected, "Function for computing the percentage (weight) of number of unique words in statistics module is not working!"
+
+def test_compute_percentage_no_unique_chars():
+    """Test function for computing the percentage (weight) of number of unique characters."""
+    no_unique_chars = 4
+    expected = 0.01
+    actual = compute_percentage_no_unique_chars(no_unique_chars=no_unique_chars)
+    assert actual == expected, "Function for computing the percentage (weight) of number of unique characters in statistics module is not working!"

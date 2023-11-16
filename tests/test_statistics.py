@@ -7,6 +7,12 @@ from logchimera.statistics import (
     compute_percentage_no_unique_log_lengths
 )
 
+from logchimera.utils import (
+    NO_UNIQUE_WORDS_PLATEAU, 
+    NO_UNIQUE_CHARS_PLATEAU, 
+    NO_UNIQUE_LOG_LENGTHS_PLATEAU
+)
+
 def test_compute_no_unique_words():
     """Test function for computing unique number of words"""
     log_lines = ["Log line 1", "Log line 2"] # there should be 4 words in these log lines, namely "Log", "line", "1", and "2".
@@ -37,7 +43,7 @@ def test_compute_percentage_no_unique_words():
 
 def test_compute_percentage_no_unique_words_upper_limit():
     """Test function for computing the percentage (weight) of number of unique words. Upper limit."""
-    no_unique_words = 5000
+    no_unique_words = NO_UNIQUE_WORDS_PLATEAU + 1
     expected = 1
     actual = compute_percentage_no_unique_words(no_unique_words=no_unique_words)
     assert actual == expected, "Function for computing the percentage (weight) of number of unique words in statistics module is not working! Upper limit issue."
@@ -51,7 +57,7 @@ def test_compute_percentage_no_unique_chars():
 
 def test_compute_percentage_no_unique_chars_upper_limit():
     """Test function for computing the percentage (weight) of unique number of characters. Upper limit."""
-    no_unique_chars = 100
+    no_unique_chars = NO_UNIQUE_CHARS_PLATEAU + 1
     expected = 1
     actual = compute_percentage_no_unique_chars(no_unique_chars=no_unique_chars)
     assert actual == expected, "Function for computing the percentage (weight) of unique number of characters in statistics module is not working! Upper limit issue."
@@ -65,7 +71,7 @@ def test_compute_percentage_no_unique_log_lengths():
 
 def test_compute_percentage_no_unique_log_lengths_upper_limit():
     """Test function for computing the percentage (weight) of unique number of log lengths. Upper limit."""
-    no_unique_log_lengths = 200
+    no_unique_log_lengths = NO_UNIQUE_LOG_LENGTHS_PLATEAU + 1
     expected = 1
     actual = compute_percentage_no_unique_log_lengths(no_unique_log_lengths=no_unique_log_lengths)
     assert actual == expected, "Function for computing the percentage (weight) of unique number of log lengths in statistics module is not working! Upper limit issue."

@@ -61,6 +61,9 @@ print(h_level)
 ### 2. Increase heterogeneity
 To increase log heterogeneity, simply provide the path to your file. Currently, `logchimera` is able to increase heterogeneity for a file of arbitrary size. The only requirement that needs to be met is for your file to contain the log lines separated by a new line character.
 
+### 3. Transform industry data into publicly available logs
+To transform your industry log dataset, you simply need to provide a list of files (one or more) with logs. Currently, `logchimera` assumes that every input file represents a different application. For example, if you provide 10 input files, `logchimera` is going to assume that each file contains logs from 10 different applications. In turn, `logchimera` returns 10 files with equivalent heterogeneity, using publicly available data.
+
 
 ## Set-up MacOS
 1. Install `miniconda`

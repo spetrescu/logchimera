@@ -1,0 +1,2 @@
+mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 7

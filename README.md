@@ -22,7 +22,8 @@ We display below how you can use `logchimera`. Currently, `logchimera` can do th
 1. Estimate heterogeneity for a log dataset
 2. Increase the heterogeneity for a log dataset
 3. Transform industry data into publicly available data with equivalent properties
-To access these functionalities, make sure you first follow the set-up section corresponding to your system (currently available for Linux or Mac).
+
+To use `logchimera`, make sure you first follow the set-up section corresponding to your system (currently available for Linux or Mac).
 ### 1. Estimate heterogeneity
 To estimate log heterogeneity, simply provide the path to your file. Currently, `logchimera` is able to estimate heterogeneity for a file of arbitrary size. The only requirement that needs to be met is for your file to contain the log lines separated by a new line character. Below you can see a sample of what `logchimera` would expect in terms of an input file.
 

@@ -3,7 +3,8 @@ from logchimera.statistics import (
     compute_no_unique_chars, 
     compute_no_unique_log_lengths, 
     compute_percentage_no_unique_words,
-    compute_percentage_no_unique_chars
+    compute_percentage_no_unique_chars,
+    compute_percentage_no_unique_log_lengths
 )
 
 def test_compute_no_unique_words():

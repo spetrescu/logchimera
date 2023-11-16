@@ -34,9 +34,9 @@ def test_compute_percentage_no_unique_words():
     actual = compute_percentage_no_unique_words(no_unique_words=no_unique_words)
     assert actual == expected, "Function for computing the percentage (weight) of number of unique words in statistics module is not working!"
 
-def test_compute_percentage_no_unique_chars():
-    """Test function for computing the percentage (weight) of number of unique characters."""
-    no_unique_chars = 4
+def test_compute_percentage_no_unique_log_lengths():
+    """Test function for computing the percentage (weight) of unique number of log lengths."""
+    no_unique_log_lengths = 4
     expected = 0.01
-    actual = compute_percentage_no_unique_chars(no_unique_chars=no_unique_chars)
-    assert actual == expected, "Function for computing the percentage (weight) of number of unique characters in statistics module is not working!"
+    actual = compute_percentage_no_unique_log_lengths(no_unique_log_lengths=no_unique_log_lengths)
+    assert actual == expected, "Function for computing the percentage (weight) of unique number of log lengths in statistics module is not working!"

@@ -58,6 +58,9 @@ h_level = estimate_heterogeneity(example_file_path) # Returns a 3-decimal floati
 print(h_level)
 ...
 ```
+### 2. Increase heterogeneity
+To increase log heterogeneity, simply provide the path to your file. Currently, `logchimera` is able to increase heterogeneity for a file of arbitrary size. The only requirement that needs to be met is for your file to contain the log lines separated by a new line character.
+
 
 ## Set-up MacOS
 1. Install `miniconda`

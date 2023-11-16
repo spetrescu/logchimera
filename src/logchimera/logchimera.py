@@ -1,6 +1,6 @@
 import csv
 
-from logchimera.heterogeneity import estimate_heterogeneity_csv_file, estimate_heterogeneity_generic_file
+from logchimera.heterogeneity import estimate_heterogeneity_csv_file, estimate_heterogeneity_generic_file_using_log_parsing
 from logchimera.mixing import mixing_labeled_data, mixing_unlabeled_data
 from logchimera.fuzzing import fuzz_data
 
@@ -45,7 +45,7 @@ def estimate_heterogeneity(file_path, csv_file=False):
     if csv_file:
         h_level = estimate_heterogeneity_csv_file(file_path)
     else:
-        h_level = estimate_heterogeneity_generic_file(file_path)
+        h_level = estimate_heterogeneity_generic_file_using_log_parsing(file_path)
     
     return h_level
 

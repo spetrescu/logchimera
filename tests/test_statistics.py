@@ -35,6 +35,13 @@ def test_compute_percentage_no_unique_words():
     actual = compute_percentage_no_unique_words(no_unique_words=no_unique_words)
     assert actual == expected, "Function for computing the percentage (weight) of number of unique words in statistics module is not working!"
 
+def test_compute_percentage_no_unique_words_upper_limit():
+    """Test function for computing the percentage (weight) of number of unique words. Upper limit."""
+    no_unique_words = 5000
+    expected = 1
+    actual = compute_percentage_no_unique_words(no_unique_words=no_unique_words)
+    assert actual == expected, "Function for computing the percentage (weight) of number of unique words in statistics module is not working! Upper limit issue."
+
 def test_compute_percentage_no_unique_chars():
     """Test function for computing the percentage (weight) of unique number of characters"""
     no_unique_chars = 30

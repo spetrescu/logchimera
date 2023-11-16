@@ -18,8 +18,22 @@
 </div>
 
 ## Usage
-We display below how you can use `logchimera`. To access `logchimera`'s functionalities, make sure you first follow the set-up section corresponding to your system (either Linux or Mac).
-### Estimate heterogeneity
+We display below how you can use `logchimera`. Currently, `logchimera` can do the following:
+1. Estimate heterogeneity for a log dataset
+2. Increase the heterogeneity for a log dataset
+3. Transform industry data into publicly available data with equivalent properties
+To access these functionalities, make sure you first follow the set-up section corresponding to your system (currently available for Linux or Mac).
+### 1. Estimate heterogeneity
+To estimate log heterogeneity, simply provide the path to your file. Currently, `logchimera` is able to estimate heterogeneity for a file of arbitrary size. The only requirement that needs to be met is for your file to contain the log lines separated by a new line character. Below you can see a sample of what `logchimera` would expect in terms of an input file.
+
+#### Sample input file:
+```
+workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child init 1 -2
+jk2_init() Found child 5785 in scoreboard slot 6
+...
+```
+#### Example 1 (estimate heterogeneity)
 ```python
 # example estimating heterogeneity in python shell
 $ python
@@ -33,7 +47,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 # Returns a 3-decimal floating-point value in the range [0, 1], e.g., 0.222; higher means more heterogeneous.
 ...
 ```
-
+#### Example 2 (estimate heterogeneity)
 ```python
 # example estimating heterogeneity in python script
 from logchimera.logchimera import estimate_heterogeneity

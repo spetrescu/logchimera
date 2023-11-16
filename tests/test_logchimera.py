@@ -17,3 +17,9 @@ def test_estimate_heterogeneity_for_file_with_more_chars_than_upper_limit_for_he
     expected = 0.208
     actual = estimate_heterogeneity(file_path="tests/test_data/logchimera_module/test_file_logchimera_for_upper_bound_character_limit_heterogeneity_estimation.csv")
     assert actual == expected, "Estimating heterogeneity function in logchimera module is not working for the case when the data contains more characters than the upper bound limit!"
+
+def test_estimate_heterogeneity_for_file_with_more_log_lengths_than_upper_limit_for_heterogeneity():
+    """Testing heterogeneity estimation functionality when file has more log lengths than upper bound."""
+    expected = 0.406
+    actual = estimate_heterogeneity(file_path="tests/test_data/logchimera_module/test_file_logchimera_for_upper_bound_log_length_limit_heterogeneity_estimation.csv")
+    assert actual == expected, "Estimating heterogeneity function in logchimera module is not working for the case when the data contains more log lengths than the upper bound limit!"

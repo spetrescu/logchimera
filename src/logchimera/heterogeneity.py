@@ -97,21 +97,11 @@ def _sample_2k_logs(log_data):
     return sample_log_data_2k_logs
 
 def _load_log_data(input_file):
-    file = open(input_file, 'r')
-    log_lines = []
-    log_templates = []
-    log_variables = []
-
-    line = ""
-    with open(input_file, newline='') as f:
-        reader = csv.reader(f)
-        line = next(reader)
-
-    for line, template, variable in csv.reader(file, delimiter=','):
-        log_lines.append(line)
-        log_templates.append(template)
-        log_variables.append(variable)
-    
+    import pandas as pd
+    df = pd.read_csv(input_file)
+    log_lines = df["Content"].tolist()
+    log_templates = df["EventTemplate"].tolist() if "EventTemplate" in df.columns else []
+    log_variables = df["Variables"].tolist() if "Variables" in df.columns else []
     return [log_lines, log_templates, log_variables]
 
 def _parse_logs_for_estimating_heterogeneity(file_path):

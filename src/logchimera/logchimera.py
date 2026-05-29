@@ -1,8 +1,7 @@
-import csv
-
 from logchimera.heterogeneity import estimate_heterogeneity_csv_file, estimate_heterogeneity_generic_file_using_log_parsing
-from logchimera.mixing import mixing_labeled_data, mixing_unlabeled_data
+from logchimera.mixing import mixing_labeled_data
 from logchimera.fuzzing import fuzz_data
+
 
 def estimate_heterogeneity(file_path, csv_file=False):
     """
@@ -14,83 +13,87 @@ def estimate_heterogeneity(file_path, csv_file=False):
         The path to the log file to be analyzed.
 
     csv_file : bool, optional (default=False)
-        Specifies whether the input file is in CSV format or not. If set to True, the function expects
-        the log file to contain the following three columns: Content, EventTemplate, Variables. If set
-        to False, a generic log file format will be assumed, and the function will attempt to estimate
-        heterogeneity based on the file's content (each log on a new line).
+        If True, expects a CSV with columns Content, EventTemplate, Variables.
+        If False, expects a plain-text file with one log per line.
 
     Returns:
     --------
     h_level : float
-        The estimated level of heterogeneity in the log file, with higher values indicating greater
-        heterogeneity (from 0 to 1).
-
-    Notes:
-    ------
-    - Heterogeneity is estimated based on the log file's content and structure.
-    - When `csv_file` is set to True, the function assumes a specific CSV format with predefined columns (three columns named: Content, EventTemplate, Variables).
-    - When `csv_file` is set to False, the function attempts to estimate heterogeneity from the generic log
-      file format, with each log entry separated by a new line character.
+        Estimated heterogeneity in [0, 1]. Higher means more heterogeneous.
 
     Example Usage:
     -------------
-    To estimate heterogeneity for a generic log file:
-    >>> h_level = estimate_heterogeneity("generic_log.txt")
-
-    To estimate heterogeneity for a CSV-formatted log file:
-    >>> h_level = estimate_heterogeneity("csv_log.csv", csv_file=True)
+    >>> from logchimera.logchimera import estimate_heterogeneity
+    >>> from logchimera.datasets import get_example_data_for_estimating_heterogeneity
+    >>> h = estimate_heterogeneity(get_example_data_for_estimating_heterogeneity(), csv_file=True)
     """
-    h_level = 0
-
     if csv_file:
         h_level = estimate_heterogeneity_csv_file(file_path)
     else:
         h_level = estimate_heterogeneity_generic_file_using_log_parsing(file_path)
-    
     return h_level
 
-def mixing(percentage, file_path, labels=False, dataset_name="Apache"):
+
+def mixing(percentage, file_path, labels=False, dataset_name="Apache", output_dir=None):
     """
     Increase log heterogeneity through mixing.
 
-    This function takes a file path and a percentage value as input.
-    
+    Replaces a proportion of logs in the input file with foreign logs drawn from a
+    pool of publicly available labeled data (logs not from the same source dataset).
+
     Parameters:
-        file_path (str): The path to the file to be changed.
-        percentage (float): The amount of logs to be replaced, ranging from 1 to 25.
+        percentage (float): Percentage of logs to replace, 1–25.
+        file_path (str): Path to a CSV file with columns Content, EventTemplate, Variables.
+        labels (bool): Must be True; unlabeled mixing is not yet implemented.
+        dataset_name (str): Source dataset name (Apache/BGL/HPC/Mac). Foreign logs come from
+            all other datasets in the pool.
+        output_dir (str, optional): Directory for the output file. Defaults to ./logchimera_output/.
 
     Returns:
-        float: The new heterogeneity level after mixing the logs.
+        tuple[float, str] | str: (new_h_level, mixed_file_path), or an error string when
+            labels=False.
     """
-    print("Computing initial heterogeneity...")
-    estimate_heterogeneity(file_path)
-
-    perc = 0
     if not labels:
-        print("No labels functionality not available")
         return "No labels functionality not available"
-    else:
-        print("\nMixing...")
-        mixed_file_save_path = mixing_labeled_data(percentage, file_path)
 
-    estimate_heterogeneity(mixed_file_save_path)
+    print("Computing initial heterogeneity...")
+    initial_h = estimate_heterogeneity(file_path, csv_file=True)
+    print(f"Initial heterogeneity: {initial_h}\n")
 
-def fuzzing(file_path):
+    print("Mixing...")
+    mixed_file_path = mixing_labeled_data(percentage, file_path, dataset_name=dataset_name, output_dir=output_dir)
+
+    print("\nComputing new heterogeneity after mixing...")
+    new_h = estimate_heterogeneity(mixed_file_path, csv_file=True)
+    print(f"New heterogeneity: {new_h}")
+
+    return new_h, mixed_file_path
+
+
+def fuzzing(file_path, output_dir=None):
     """
     Increase log heterogeneity through fuzzing.
 
-    This function takes a file path as input.
-    
+    Uses the Drain log parser to discover variable slots in the input log lines, then
+    replaces each variable value with a randomly sampled alternative from the labeled
+    data pool.
+
     Parameters:
-        file_path (str): The path to the file to be fuzzed.
+        file_path (str): Path to a plain-text log file (one log per line).
+        output_dir (str, optional): Directory for the output file. Defaults to ./logchimera_output/.
 
     Returns:
-        float: The new heterogeneity level after fuzzing the file.
+        str: Path to the fuzzed plain-text file.
+
+    Example Usage:
+    -------------
+    >>> from logchimera.logchimera import fuzzing
+    >>> from logchimera.datasets import get_example_data_for_fuzzing
+    >>> fuzzed_path = fuzzing(get_example_data_for_fuzzing())
     """
-    fuzzed_file_path = fuzz_data(file_path)
+    fuzzed_file_path = fuzz_data(file_path, output_dir=output_dir)
     return fuzzed_file_path
 
+
 def function_test(test_string):
-    '''
-    '''
     return ""

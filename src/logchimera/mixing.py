@@ -1,13 +1,15 @@
-from logchimera.datasets import get_pool_mixing_data, get_publicly_available_labeled_dataset
+from logchimera.datasets import get_pool_mixing_data
 import pandas as pd
 import csv
+import os
 import random
 from logchimera.utils import (
-    MINIMUM_PERCENTAGE, 
-    MAXIMUM_PERCENTAGE, 
+    MINIMUM_PERCENTAGE,
+    MAXIMUM_PERCENTAGE,
 )
 
 AVAILABLE_DATASETS = ["Apache", "BGL", "HPC", "Mac"]
+
 
 def custom_mapping(percentage):
     if percentage <= MINIMUM_PERCENTAGE:
@@ -20,118 +22,86 @@ def custom_mapping(percentage):
         output_value = y1 + (percentage - x1) * (y2 - y1) / (x2 - x1)
         return int(output_value)
 
-def mixing_labeled_data(percentage, file_path):
+
+def mixing_labeled_data(percentage, file_path, dataset_name="Apache", output_dir=None):
     """
     Increase log heterogeneity through mixing.
 
-    This function takes a file path and a percentage value as input.
-    
     Parameters:
-        percentage (float): The amount of logs to be replaced, ranging from 1 to 25.
-        file_path (str): The path to the file to be changed.
+        percentage (float): Percentage of logs to replace, 1–25.
+        file_path (str): Path to a CSV file containing at least Content and EventTemplate columns.
+        dataset_name (str): Name of the source dataset (Apache/BGL/HPC/Mac). Logs from this
+            dataset are excluded from the mixing pool so only foreign logs are injected.
+        output_dir (str, optional): Directory for the output file. Defaults to ./logchimera_output/.
 
     Returns:
-        string: The path of the generated file.
+        str: Path to the generated mixed CSV file.
     """
+    if output_dir is None:
+        output_dir = "logchimera_output"
+    os.makedirs(output_dir, exist_ok=True)
+
     no_samples = custom_mapping(percentage)
 
     df = pd.read_csv(file_path)
+    original_content = df["Content"].tolist()
 
+    # Build the mixing pool (exclude logs from the source dataset)
     path_mixing_file = get_pool_mixing_data()
-    path_mixing_file_tst = get_publicly_available_labeled_dataset("Apache")
-
-    mixed_file = open(path_mixing_file, 'r')
-    mixed_file.readline()
-
-
-    s = df['EventTemplate'].value_counts().to_dict()
-    listofkeys = []
-    keys = {}
-    for key in s:
-        listofkeys.append(key)
-        keys[key] = s[key]
-    
     log_lines_mixed = []
-    log_templates_mixed = []
     dict_mixed = {}
-    for line, template, _, source in csv.reader(mixed_file, delimiter=','):
-        if source == "Apache":
-            continue
-        else:
+    with open(path_mixing_file, "r") as mixed_file:
+        reader = csv.reader(mixed_file, delimiter=",")
+        next(reader)  # skip header
+        for line, template, _, source in reader:
+            if source == dataset_name:
+                continue
             log_lines_mixed.append(line)
-            log_templates_mixed.append(template)
             dict_mixed[line] = template
-    
+
     random.seed(1)
-    increased_hetero_sample_content = random.sample(log_lines_mixed, no_samples)
+    sample_size = min(no_samples, len(log_lines_mixed))
+    hetero_sample = random.sample(log_lines_mixed, sample_size)
+    hetero_templates = [dict_mixed[el] for el in hetero_sample]
 
-    increased_hetero_sample_templates = []
-    for el in increased_hetero_sample_content:
-        increased_hetero_sample_templates.append(dict_mixed[el])
-    
-
-    list_of_values_apache = df.values.tolist()
+    # Compute how many replacements per template class
+    template_counts = df["EventTemplate"].value_counts().to_dict()
+    normalization_factor = sum(v for v in template_counts.values() if v >= 100)
 
     replacements = {}
+    if normalization_factor > 0:
+        for tmpl, count in template_counts.items():
+            if count >= 100:
+                n = int(count / normalization_factor * len(log_lines_mixed))
+                if n > 0:
+                    replacements[tmpl] = n
 
-    normalization_factor = 0
+    # Apply replacements: for each template class, replace the first N matching rows
+    for tmpl, n_replace in replacements.items():
+        if not hetero_sample:
+            break
+        matching_indices = df.index[df["EventTemplate"] == tmpl].tolist()
+        n_actual = min(n_replace, len(matching_indices), len(hetero_sample))
+        for i in range(n_actual):
+            new_line = hetero_sample.pop(0)
+            new_tmpl = hetero_templates.pop(0)
+            df.at[matching_indices[i], "Content"] = new_line
+            df.at[matching_indices[i], "EventTemplate"] = new_tmpl
 
-    for key in keys:
-        if keys[key] >= 100:
-            normalization_factor += keys[key]
+    final_df = df[["Content", "EventTemplate"]].copy()
+    final_df["Variables"] = "-"
 
-    for key in keys:
-        if keys[key] >= 100:
-            replacements[key] = int(keys[key]/normalization_factor*len(log_lines_mixed))
-
-    for line in replacements:
-        for i in range(replacements[line]):
-            for j in range(len(list_of_values_apache)):
-                if list_of_values_apache[j][1] == line and increased_hetero_sample_content:
-                    new_mixed_line = increased_hetero_sample_content.pop(0)
-                    new_mixed_template = increased_hetero_sample_templates.pop(0)
-                    list_of_values_apache[j][0] = new_mixed_line
-                    list_of_values_apache[j][1] = new_mixed_template
-                    break
-
-    final_list_apache = []
-    for i in range(len(list_of_values_apache)):
-        final_list_apache.append([list_of_values_apache[i][0], list_of_values_apache[i][1]])
-
-    final_df = pd.DataFrame(final_list_apache, columns=['Content', 'EventTemplate'])
-    final_df['Variables'] = "-"
+    new_content = final_df["Content"].tolist()
+    equals = sum(1 for o, n in zip(original_content, new_content) if o == n)
+    actual_pct = round(100 - equals * 100 / len(original_content), 1)
+    print(f"Percentage of logs replaced via mixing: {actual_pct}%")
 
     header = ["Content", "EventTemplate", "Variables"]
+    output_path = os.path.join(output_dir, f"mixed_{dataset_name}_{int(actual_pct)}pct.csv")
+    final_df.to_csv(output_path, columns=header, index=False)
+    print(f"Mixed file saved to: {output_path}")
+    return output_path
 
-    write_path_structured_temp = f"logchimera/test_results/mixed_file.csv"
-    
-    final_df.to_csv(write_path_structured_temp, columns = header, index=False)
-    
-    df_99 = pd.read_csv(write_path_structured_temp)
-    df_99 = df_99[["Content"]]
-    df_99_list = df_99.values.tolist()
-
-    df_original = pd.read_csv(f"src/logchimera/data/Apache_2k_labeled.csv")
-    df_original = df_original[["Content"]]
-
-    df_original_list = df_original.values.tolist()
-    equals = 0
-    a = 0
-    for original, modified in zip(df_original_list, df_99_list):
-        a += 1
-        if original == modified:
-            equals += 1
-    print(f"Percentage logs replaced using mixing {100-equals*100/2000}%")
-    percentage = 100-equals*100/2000
-
-    final_write_path_structured = f"src/logchimera/data/mixing_results/{int(percentage)}_file.csv"
-    final_write_path_log = f"src/logchimera/data/mixing_results/{int(percentage)}_file_log.csv"
-
-    final_df.to_csv(final_write_path_structured, columns = header, index=False)
-    final_df.to_csv(final_write_path_log, columns = ["Content"], index=False)
-    return final_write_path_structured
 
 def mixing_unlabeled_data(percentage, file_path):
-    """
-    """
     pass
